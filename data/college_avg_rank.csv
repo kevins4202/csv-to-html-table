@@ -1,0 +1,597 @@
+college,avg_rank
+Univ. of California - Berkeley,0.75
+Massachusetts Institute of Technology,3.5
+Stanford University,4.5
+Carnegie Mellon University,10.5
+Columbia University,11.75
+Univ. of California - San Diego,16.25
+Max Planck Society,16.5
+Univ. of California - Los Angeles,18.75
+EPFL,19.0
+Cornell University,19.0
+Univ. of Illinois at Urbana-Champaign,19.5
+University of Pennsylvania,19.75
+Princeton University,22.0
+ETH Zurich,22.0
+University of Maryland - College Park,26.25
+University of Washington,27.0
+Nanyang Technological University,27.25
+HKUST,27.25
+University College London,30.5
+University of Southern California,32.25
+Harvard University,33.25
+University of Edinburgh,36.0
+New York University,36.75
+Georgia Institute of Technology,36.75
+Johns Hopkins University,38.75
+University of Minnesota,39.0
+University of Texas at Austin,40.0
+Univ. of California - Irvine,40.5
+University of Oxford,44.0
+Weizmann Institute of Science,44.25
+Northeastern University,45.0
+Pennsylvania State University,46.0
+University of Michigan,47.75
+University of Toronto,48.0
+TU Munich,51.0
+Imperial College London,53.5
+Duke University,54.0
+University of Alberta,58.75
+Chinese University of Hong Kong,61.0
+University of Montreal,62.75
+Michigan State University,63.75
+TU Berlin,64.75
+Univ. of California - Santa Barbara,64.75
+Tsinghua University,65.25
+California Institute of Technology,70.5
+Hebrew University of Jerusalem,71.0
+Technion,71.75
+Stony Brook University,73.5
+University of Chicago,74.75
+University of Wisconsin - Madison,75.75
+University of Cambridge,75.75
+Università della Svizzera italiana,77.25
+Purdue University,78.75
+University of Freiburg,80.25
+University of North Carolina,81.0
+Western University,81.75
+Brown University,82.0
+Yale University,83.5
+LMU Munich,83.75
+University of Tennessee,84.0
+University of Melbourne,84.5
+University of Utah,85.5
+Univ. of California - Davis,85.5
+University of Rochester,85.75
+University of Notre Dame,87.0
+Vanderbilt University,88.25
+National University of Singapore,89.0
+University of British Columbia,89.25
+Tel Aviv University,89.5
+University of Kansas,90.5
+RWTH Aachen,93.5
+Rice University,94.25
+KAUST,96.25
+Ecole Normale Superieure,96.75
+Queen’s University,98.25
+KAIST,99.0
+Washington University in St. Louis,99.75
+University of Tübingen,99.75
+The Hong Kong Polytechnic University,101.75
+Simon Fraser University,102.5
+University of Sydney,103.0
+Rutgers University,103.5
+Indiana University,103.75
+Shanghai Jiao Tong University,106.0
+Victoria University of Wellington,106.25
+Graz University of Technology,107.0
+University of Manchester,107.75
+University of Stuttgart,109.0
+University of Waterloo,111.0
+Karlsruhe Institute of Technology,112.25
+University of Texas at Arlington,112.5
+Univ. of California - Riverside,113.75
+University of Massachusetts Amherst,114.0
+University of Waikato,114.25
+University of Amsterdam,117.0
+Arizona State University,117.75
+University of Queensland,118.25
+University at Buffalo,118.5
+VU Amsterdam,118.5
+Ohio State University,118.75
+University of Trento,119.0
+Chinese Academy of Sciences,119.25
+Peking University,119.75
+University of Kent,121.0
+CWI,121.5
+Northwestern University,124.75
+TU Darmstadt,126.0
+University of Tokyo,126.75
+University of Virginia,128.5
+Univ. of Maryland - Baltimore County,128.5
+KU Leuven,128.5
+Monash University,129.25
+University of Bremen,129.75
+Politecnico di Milano,130.75
+Univ. of California - Santa Cruz,130.75
+Queen Mary University of London,131.0
+TTI Chicago,131.25
+University of Adelaide,131.75
+Georgetown University,132.5
+University of Colorado Boulder,134.5
+University of Texas at Dallas,135.0
+MBZUAI,135.25
+USTC,135.5
+Boston University,135.75
+University of Central Florida,135.75
+Hasso Plattner Institute,137.5
+National Taiwan University,138.75
+Zhejiang University,139.25
+NWPU,140.0
+Texas A&M University,141.75
+Saarland University,142.5
+University of Manitoba,148.0
+TU Delft,149.0
+Univ. of California - Merced,149.0
+University of Illinois at Chicago,149.5
+Bar-Ilan University,150.0
+University of Hong Kong,150.75
+City University of Hong Kong,151.0
+York University,151.75
+Oregon State University,152.25
+University of Southampton,153.25
+CUNY,153.5
+North Carolina State University,155.5
+Seoul National University,155.5
+TU Wien,158.0
+University of Pittsburgh,158.5
+Rensselaer Polytechnic Institute,159.0
+UNSW,159.0
+University of South Florida,160.25
+George Mason University,160.5
+JKU Linz,160.5
+University of Arizona,162.0
+Temple University,166.5
+Czech Technical University,166.5
+University of Helsinki,168.25
+University of Leipzig,168.25
+University of Surrey,173.25
+University of Ottawa,173.25
+TU Eindhoven,173.25
+McGill University,175.0
+University of York,176.0
+EURECOM,177.5
+Ecole Normale Superieure de Cachan,181.0
+Australian National University,185.75
+Radboud University,186.25
+University of Luxembourg,186.5
+Aalto University,188.0
+Sapienza University of Rome,188.5
+Sun Yat-sen University,188.75
+Singapore Management University,189.5
+University of Calgary,189.5
+Dartmouth College,191.0
+University of Connecticut,191.5
+University of Vienna,192.0
+Fudan University,193.25
+Carleton University,193.75
+NJIT,194.25
+University of Zurich,196.75
+University of Warwick,197.25
+University of Florida,198.0
+Harbin Institute of Technology,199.0
+Universidade de Lisboa,199.5
+IST Austria,201.25
+University of Konstanz,201.25
+Emory University,201.25
+University of Houston,201.5
+University of Erlangen–Nuremberg,202.25
+University of Mannheim,204.5
+KTH Royal Institute of Technology,204.75
+Colorado State University,208.75
+University of Athens,209.0
+Hong Kong Baptist University,213.0
+Goethe University Frankfurt,213.75
+Virginia Tech,215.5
+Westlake University,216.0
+University of Liverpool,216.5
+University of Technology Sydney,218.0
+Heidelberg University,218.25
+University of Bonn,218.5
+Texas A&M at Qatar,219.25
+University of Nebraska,219.75
+University of Nottingham,220.5
+University of Glasgow,220.75
+Rochester Institute of Technology,221.25
+Washington State University,221.5
+TU Dresden,223.25
+University of Saskatchewan,224.25
+Lancaster University,224.75
+University of Auckland,225.25
+Tampere University,225.75
+Kyoto University,226.75
+Ruhr-University Bochum,229.0
+UESTC,229.25
+NYU Shanghai,229.75
+University of Crete,232.0
+Chalmers/GU,232.5
+Uppsala University,233.25
+University of Innsbruck,234.0
+NTUA,234.25
+UFMG,234.25
+SUSTech,235.0
+Brunel University London,235.25
+Worcester Polytechnic Institute,238.0
+University of Oregon,239.5
+Nanjing University,239.75
+Osaka University,241.5
+University of Copenhagen,241.75
+King's College London,242.5
+TU Kaiserslautern,243.5
+Xidian University,244.75
+POSTECH,246.0
+University of Sheffield,246.75
+University of Hannover,247.75
+University of Oklahoma,248.5
+TU Braunschweig,248.75
+University of Würzburg,249.25
+SUTD,249.5
+University of Missouri,250.5
+University of Birmingham,250.5
+University of Hamburg,250.75
+Northern Arizona University,252.75
+Bielefeld University,254.25
+HSE University,254.25
+Florida State University,254.75
+University of Massachusetts Boston,255.0
+University of Klagenfurt,256.5
+University of Otago,256.5
+Missouri University of Technology,257.5
+Humboldt University of Berlin,258.25
+University of Western Australia,258.75
+Polytechnic University of Catalonia,259.0
+Macquarie University,259.25
+National Chiao Tung University,260.5
+Soochow University,261.75
+University of Delaware,263.5
+Clemson University,263.75
+Lund University,264.0
+University of Massachusetts Lowell,264.5
+IMDEA Networks Institute,265.75
+Ben-Gurion University of the Negev,267.5
+CISPA Helmholtz Center,269.0
+UCCS,270.25
+Bilkent University,270.25
+AUEB,271.0
+Tokyo Institute of Technology,271.75
+IIT Guwahati,272.0
+University of Bern,272.0
+University of Bristol,273.0
+University of Salerno,273.5
+University of Pisa,275.0
+Wuhan University,275.25
+Qatar Computing Research Institute,275.75
+Utrecht University,276.5
+Aarhus University,277.25
+Université libre de Bruxelles,279.0
+University of Leeds,280.0
+TU Dortmund,280.25
+IIT Kanpur,280.25
+University of Bergen,280.5
+University of South Carolina,281.25
+University of Victoria,281.75
+University College Dublin,284.25
+Iowa State University,284.5
+University of Passau,285.25
+University of Bath,285.5
+University of Texas at San Antonio,286.0
+Aalborg University,286.0
+Florida International University,287.5
+Paderborn University,288.25
+University of Ulm,289.25
+Brigham Young University,290.75
+Syracuse University,291.5
+Binghamton University,292.0
+ETS Montreal,292.75
+University of Marburg,293.0
+Dalhousie University,293.25
+Georgia State University,295.25
+Lehigh University,295.75
+Brno University of Technology,296.5
+University of Sannio,298.0
+University of Essex,298.75
+University of Hildesheim,301.5
+University of Hawaii at Manoa,302.0
+Drexel University,303.25
+IT University of Copenhagen,304.5
+Illinois Institute of Technology,305.25
+Beihang University,305.75
+Cardiff University,306.0
+University of Piraeus,306.75
+University of Guelph,307.0
+Case Western Reserve University,307.75
+University of Düsseldorf,308.75
+University of Groningen,309.0
+Scuola Superiore Sant'Anna,309.25
+City University of London,311.0
+Florida Atlantic University,311.25
+Universidad Rey Juan Carlos,311.75
+IIIT Hyderabad,312.0
+College of William and Mary,313.0
+Tufts University,313.25
+Ecole Normale Superieure de Lyon,313.5
+University of Canterbury,313.5
+Colorado School of Mines,313.75
+IISc Bangalore,315.5
+IIT Kharagpur,316.25
+University of Magdeburg,316.5
+CRIStAL,316.75
+University of Georgia,317.0
+George Washington University,317.25
+Queensland University of Technology,317.75
+BUPT,317.75
+HUST,318.25
+University of Kassel,318.75
+Birkbeck University of London,319.5
+RMIT University,321.5
+University of Kiel,322.0
+University of Duisburg-Essen,323.5
+University of Potsdam,324.5
+IIT Bombay,325.0
+University of New Mexico,325.25
+Queen's University Belfast,325.5
+Concordia University,326.5
+Wayne State University,326.75
+University of New Brunswick,327.0
+University of Southern Mississippi,327.25
+University of Memphis,328.0
+University of Lübeck,330.0
+University of Münster,331.0
+Virginia Commonwealth University,335.25
+PUC-RIO,335.25
+University of Regina,335.5
+West Virginia University,336.0
+University of Tartu,336.25
+University of Tsukuba,336.5
+University of Newcastle,336.5
+USP-ICMC,338.0
+University of Augsburg,339.75
+UNICAMP,340.0
+UFRGS,340.75
+Cleveland State University,342.75
+University of North Texas,345.75
+Xi'an Jiaotong University,346.25
+Université de Sherbrooke,348.0
+University of Warsaw,348.5
+Open University UK,349.25
+Hunan University,351.0
+University of Ioannina,352.5
+Bauhaus University Weimar,353.5
+NTNU,353.5
+Ontario Tech University,355.0
+National Tsing Hua University,355.25
+UNC - Charlotte,356.75
+Royal Holloway University of London,357.5
+University of L'Aquila,358.25
+University of Miami,359.0
+University of Göttingen,361.25
+University of Kentucky,363.25
+Tata Inst. of Fundamental Research,363.5
+University of Iowa,369.0
+Kyungpook National University,369.25
+University of Sussex,370.25
+Brandeis University,375.0
+Masaryk University,375.25
+University of Rostock,375.5
+Freie Universitaet Berlin,377.0
+Simula UiB,377.25
+TU Ilmenau,377.25
+Louisiana State University,377.5
+IIT Delhi,378.5
+Heriot-Watt University,379.75
+Yonsei University,381.25
+University of A Coruña,382.75
+Shenzhen University,383.0
+University of Siegen,383.25
+PUC-RS,383.5
+University of Cincinnati,384.0
+University of Exeter,385.5
+Bocconi University,385.75
+Qatar University,387.25
+Kansas State University,388.25
+Keio University,390.0
+Auburn University,390.75
+IIT Patna,391.75
+Renmin University of China,391.75
+University of Mainz,392.25
+University of Koblenz-Landau,393.0
+DePaul University,393.5
+National Cheng Kung University,393.75
+Massey University,395.0
+Masdar Institute,395.5
+University of Vermont,398.0
+Naval Postgraduate School,400.25
+Polytechnique Montreal,400.75
+Universidad de Chile,401.0
+Brandenburg University of Technology,401.75
+USP,402.5
+University of Molise,404.25
+University of Trier,405.5
+Korea University,407.5
+Aberystwyth University,408.5
+Old Dominion University,408.75
+Koç University,409.5
+UFF,410.25
+University of Bayreuth,410.25
+IIIT Delhi,410.25
+University of Aberdeen,410.5
+IMDEA Software Institute,410.75
+UFRJ,411.25
+Florida Institute of Technology,411.75
+University of Salzburg,412.75
+Waseda University,413.25
+Maastricht University,414.0
+University of Murcia,414.0
+UFPE,415.0
+Western Michigan University,415.25
+University of Missouri - Kansas City,416.5
+University of Nevada,417.25
+IUPUI,418.0
+Boğaziçi University,418.25
+University of Louisiana - Lafayette,418.75
+University of Bamberg,419.75
+University of Louisville,423.25
+Durham University,423.5
+University of Dundee,424.75
+University of Texas - El Paso,424.75
+Shandong University,425.0
+University of Malaya,426.0
+University of Oldenburg,426.5
+Universidade NOVA de Lisboa,427.25
+IIT (BHU) Varanasi,427.75
+American University of Beirut,429.25
+Cyprus University of Technology,430.0
+Bundeswehr University Munich,430.25
+IPI PAN,431.0
+Sharif University of Technology,431.0
+Ryerson University,431.75
+Boise State University,431.75
+Özyeğin University,433.5
+McMaster University,435.75
+University of Wyoming,436.25
+University of Tulsa,436.25
+University of Szeged,436.25
+University of St Andrews,437.0
+University of Wroclaw,437.75
+University of Halle-Wittenberg,437.75
+University of Haifa,437.75
+Stevens Institute of Technology,438.25
+Tulane University,439.75
+Charles University,440.5
+Friedrich Schiller University Jena,442.5
+University of Osnabrück,443.0
+Jacobs University Bremen,444.0
+Université Laval,445.25
+Université Jean Monnet,447.0
+Portland State University,448.25
+Kyung Hee University,448.25
+Tilburg University,448.75
+University of New Hampshire,449.75
+University of Wuppertal,450.25
+IIT Gandhinagar,450.75
+ShanghaiTech University,453.0
+TU Clausthal,453.25
+University of Alabama - Birmingham,455.0
+University of Buenos Aires,456.75
+IIT Madras,458.0
+IIT Hyderabad,458.75
+University of Michigan-Dearborn,464.0
+Middlesex University,464.25
+Middle East Technical University,466.0
+Hamburg University of Technology,466.25
+Hanyang University,467.0
+Hacettepe University,467.25
+Sabancı University,468.25
+Texas State University,469.5
+IIIT Bangalore,471.5
+University of Maine,474.5
+Claremont Graduate University,476.0
+Lebanese American University,476.25
+Kent State University,476.75
+Utah State University,477.0
+UFPR,479.0
+New Mexico State University,479.0
+UNIST,482.75
+Simmons University,483.0
+IIT Bhubaneswar,484.0
+DAIICT,484.5
+Istanbul Technical University,484.75
+IMSc,485.0
+OHSU,485.0
+University of Twente,485.5
+Universidade de Brasília,486.0
+The University of Alabama,488.5
+University of Arkansas,490.0
+Texas Tech University,492.0
+Goldsmiths University of London,494.5
+BITS Pilani,494.75
+IPM,496.25
+IIT Jodhpur,496.5
+IIT Indore,498.0
+Loughborough University,498.25
+Southern Methodist University,498.75
+CMI,502.25
+IUST,502.25
+IIT Ropar,505.25
+Mississippi State University,505.5
+Stellenbosch University,506.0
+IIT Mandi,507.0
+Tongji University,507.25
+University of Alabama - Huntsville,509.25
+Memorial University of Newfoundland,512.0
+University of Mississippi,512.25
+TOBB ETÜ,513.5
+Augusta University,514.25
+University at Albany - SUNY,515.25
+IIT Roorkee,516.75
+Boston College,517.5
+JUST,517.75
+American University in Cairo,519.25
+Ohio University,520.5
+Nova Southeastern University,521.25
+Universidad de los Andes,522.25
+University of Jordan,522.75
+BUET,523.25
+TU Chemnitz,524.0
+Oakland University,524.5
+University of Wisconsin - Milwaukee,525.0
+Ecole Normale Superieure de Rennes,525.5
+Ariel University,526.0
+University of Nevada Las Vegas,528.0
+UFU,529.0
+University of Cape Town,529.5
+Montana State University,529.75
+University of Denver,530.0
+Michigan Technological University,532.25
+King Abdulaziz University,532.75
+Yıldız Technical University,532.75
+University of Idaho,533.25
+University of Windsor,534.75
+Federal University of Rio Grande,537.0
+Wichita State University,538.5
+Universidad de Zaragoza,539.25
+Universidad Nacional de Córdoba,543.75
+DTU,544.25
+LUMS,544.5
+National Institute of Technology Silchar,545.5
+South Asian University,546.75
+North Dakota State University,547.5
+University of Nicosia,550.0
+Towson University,552.25
+BITS Pilani-Goa,552.75
+University of Nebraska - Omaha,555.5
+University of New Orleans,556.25
+University of Malta,558.25
+SUFE,563.25
+University of Arkansas - Little Rock,563.5
+Galatasaray University,564.75
+De La Salle University,565.0
+New Mexico Tech,566.25
+Babeș-Bolyai University,567.75
+Indiana State University,567.75
+UFMS,568.75
+Izmir Institute of Technology,570.75
+Royal Military College of Canada,574.0
+KMUTNB,575.5
+Universidade Federal de Viçosa,576.0
+Oklahoma State University,577.5
+Louisiana Tech University,579.0
+Missouri S&T,579.75
+Ruhr-Universty Bochum,581.75
+Air Force Institute of Technology,583.5
+TU Freiberg,586.25
+University of Colorado - Denver,588.0
+IIT Goa,589.25
+Chulalongkorn University,591.25
+LIU Post,592.0
+Wichita State Unitveristy,595.0

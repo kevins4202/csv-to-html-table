@@ -1,0 +1,597 @@
+college,total_citations
+Univ. of California - Berkeley,3412088.0
+Carnegie Mellon University,2977857.0
+Massachusetts Institute of Technology,2728678.0
+Univ. of California - San Diego,2190653.0
+Stanford University,1959089.0
+Univ. of Illinois at Urbana-Champaign,1642744.0
+Columbia University,1505533.0
+Cornell University,1419189.0
+University of Edinburgh,1367369.0
+Max Planck Society,1296688.0
+University of Maryland - College Park,1230308.0
+Georgia Institute of Technology,1124395.0
+University of Pennsylvania,1058493.0
+University of Toronto,1055695.0
+University College London,1052402.0
+EPFL,1045852.0
+Northeastern University,1041399.0
+Univ. of California - Los Angeles,1029429.0
+Princeton University,1022740.0
+University of Washington,1014503.0
+University of Montreal,1003163.0
+University of Michigan,934734.0
+Nanyang Technological University,919080.0
+KAIST,916797.0
+HKUST,912535.0
+New York University,886044.0
+ETH Zurich,882597.0
+Tsinghua University,850124.0
+Univ. of California - Irvine,828097.0
+University of Texas at Austin,805196.0
+Pennsylvania State University,800042.0
+University of Oxford,784715.0
+Indiana University,760184.0
+University of Southern California,756369.0
+Harvard University,717786.0
+Purdue University,715094.0
+Technion,708329.0
+University of Minnesota,702944.0
+Johns Hopkins University,697994.0
+Imperial College London,697417.0
+University of Wisconsin - Madison,673279.0
+Duke University,645356.0
+University of Waterloo,634228.0
+Universidade de Lisboa,628434.0
+Shanghai Jiao Tong University,627961.0
+University of Alberta,611642.0
+University of Kansas,603823.0
+Peking University,603065.0
+Weizmann Institute of Science,592822.0
+University of Melbourne,592307.0
+TU Munich,577403.0
+National University of Singapore,572931.0
+University of Waikato,572789.0
+University of Chicago,538696.0
+Michigan State University,534827.0
+Stony Brook University,533909.0
+University of Utah,532779.0
+CUNY,519697.0
+Monash University,511536.0
+University of Massachusetts Amherst,507820.0
+University of British Columbia,506378.0
+Hebrew University of Jerusalem,502775.0
+Western University,497580.0
+University of Cambridge,496531.0
+TU Berlin,482730.0
+Chinese Academy of Sciences,480272.0
+Chinese University of Hong Kong,471493.0
+Simon Fraser University,468347.0
+University of Colorado Boulder,466085.0
+California Institute of Technology,454131.0
+Univ. of California - Davis,452889.0
+Univ. of California - Santa Barbara,452548.0
+University of Illinois at Chicago,446668.0
+Rutgers University,444934.0
+University of Sydney,442596.0
+Università della Svizzera italiana,432913.0
+TU Delft,431631.0
+Zhejiang University,426971.0
+University of North Carolina,423689.0
+Politecnico di Milano,419099.0
+University of Tennessee,419087.0
+Graz University of Technology,416489.0
+Brown University,415291.0
+University of Central Florida,414692.0
+Univ. of California - Santa Cruz,414197.0
+University of Southampton,412974.0
+University of Kent,411006.0
+VU Amsterdam,401915.0
+Victoria University of Wellington,396567.0
+University of Notre Dame,396232.0
+University at Buffalo,392470.0
+Tel Aviv University,390314.0
+University of Freiburg,388417.0
+Ecole Normale Superieure,387156.0
+University of Rochester,386869.0
+Yale University,379732.0
+Rochester Institute of Technology,376869.0
+University of Texas at Arlington,369263.0
+Vanderbilt University,367450.0
+University of Tokyo,363031.0
+University of Queensland,360569.0
+Univ. of California - Riverside,359919.0
+Texas A&M University,358623.0
+University of Manchester,357020.0
+North Carolina State University,356367.0
+University of Tübingen,351139.0
+Boston University,347770.0
+Rice University,346540.0
+UNSW,344534.0
+LMU Munich,344118.0
+Washington University in St. Louis,341310.0
+Sapienza University of Rome,339270.0
+Oregon State University,337553.0
+Harbin Institute of Technology,337261.0
+Arizona State University,336878.0
+Australian National University,331857.0
+George Mason University,329049.0
+KU Leuven,327914.0
+TU Eindhoven,326459.0
+Seoul National University,321211.0
+York University,321149.0
+University of Virginia,317624.0
+University of Texas at Dallas,317418.0
+Northwestern University,317261.0
+RWTH Aachen,314955.0
+Fudan University,314572.0
+Nanjing University,313941.0
+National Taiwan University,308577.0
+University of Trento,306328.0
+KTH Royal Institute of Technology,305889.0
+KAUST,305824.0
+Karlsruhe Institute of Technology,304027.0
+CWI,301458.0
+Queen’s University,300467.0
+Ohio State University,298467.0
+University of Pittsburgh,298284.0
+Virginia Tech,294647.0
+University of Amsterdam,293829.0
+University of Adelaide,292632.0
+University of Liverpool,290772.0
+University of Copenhagen,286665.0
+Georgetown University,284381.0
+University of York,283847.0
+University of Manitoba,278679.0
+Radboud University,277698.0
+The Hong Kong Polytechnic University,277244.0
+University of Stuttgart,272147.0
+TU Wien,271862.0
+Queen Mary University of London,271206.0
+SUSTech,270859.0
+UESTC,268072.0
+Univ. of Maryland - Baltimore County,265560.0
+City University of Hong Kong,264316.0
+University of Warwick,262237.0
+Uppsala University,258718.0
+Aalto University,256294.0
+University of Ottawa,251877.0
+JKU Linz,249652.0
+TU Darmstadt,241373.0
+Czech Technical University,241303.0
+University of Arizona,240972.0
+University of Auckland,240846.0
+Xidian University,239975.0
+UFMG,239442.0
+NJIT,239257.0
+Singapore Management University,238702.0
+IT University of Copenhagen,235930.0
+Washington State University,229865.0
+Saarland University,229742.0
+University of Surrey,228878.0
+King's College London,227996.0
+University of Hong Kong,227526.0
+IST Austria,224965.0
+Bar-Ilan University,224112.0
+University of Helsinki,222933.0
+University of Technology Sydney,222372.0
+USTC,222307.0
+MBZUAI,222259.0
+McGill University,220390.0
+Lancaster University,216915.0
+Tampere University,215456.0
+Univ. of California - Merced,214267.0
+University of Nottingham,212662.0
+University of Sheffield,211882.0
+TTI Chicago,210414.0
+University of Florida,208629.0
+University of South Florida,207867.0
+IIT Guwahati,206845.0
+University of Calgary,204392.0
+Temple University,204053.0
+University of Essex,202726.0
+University of Connecticut,202486.0
+CRIStAL,200595.0
+Soochow University,199232.0
+Polytechnic University of Catalonia,197408.0
+Worcester Polytechnic Institute,196815.0
+Rensselaer Polytechnic Institute,195902.0
+University of Bremen,195402.0
+Dartmouth College,192836.0
+University of Salerno,191933.0
+University of Birmingham,188547.0
+University of Bristol,187908.0
+Chalmers/GU,187386.0
+EURECOM,184200.0
+University of Houston,182276.0
+Brunel University London,182131.0
+University of Glasgow,181247.0
+POSTECH,179570.0
+National Chiao Tung University,176798.0
+Utrecht University,174400.0
+Carleton University,171430.0
+Aarhus University,170314.0
+NWPU,168642.0
+Kyoto University,168500.0
+Cardiff University,167399.0
+University of Massachusetts Lowell,165860.0
+NTUA,165263.0
+University College Dublin,164752.0
+Hasso Plattner Institute,164162.0
+University of Nebraska,163803.0
+University of Pisa,162059.0
+University of Vienna,161633.0
+Aalborg University,161301.0
+Clemson University,161229.0
+Ecole Normale Superieure de Cachan,158644.0
+HSE University,157610.0
+University of Leipzig,156624.0
+Emory University,155623.0
+Ecole Normale Superieure de Lyon,150611.0
+IIIT Hyderabad,150363.0
+IIT Kanpur,148910.0
+Osaka University,147075.0
+University of Athens,146661.0
+Tokyo Institute of Technology,145572.0
+University of Erlangen–Nuremberg,145050.0
+BUPT,144277.0
+IISc Bangalore,143434.0
+University of Klagenfurt,142871.0
+Iowa State University,141787.0
+University of South Carolina,141048.0
+University of Delaware,140699.0
+Goethe University Frankfurt,140451.0
+RMIT University,138746.0
+Florida State University,138578.0
+Bilkent University,138142.0
+CISPA Helmholtz Center,137968.0
+University of Crete,137848.0
+University of Piraeus,135795.0
+Macquarie University,133415.0
+SUTD,132922.0
+AUEB,132776.0
+IIT Kharagpur,132772.0
+City University of London,132756.0
+University of Bath,132291.0
+Brigham Young University,130615.0
+University of Tsukuba,129562.0
+Dalhousie University,129399.0
+University of Leeds,127133.0
+Ruhr-University Bochum,126868.0
+IIT Bombay,126627.0
+Heidelberg University,126624.0
+University of Warsaw,126226.0
+Sun Yat-sen University,124789.0
+Drexel University,123739.0
+Colorado State University,123237.0
+UFRGS,123192.0
+University of Tartu,122739.0
+Queen's University Belfast,122604.0
+Northern Arizona University,122603.0
+UNICAMP,122493.0
+University of Luxembourg,122347.0
+University of Zurich,121220.0
+University of Oregon,121162.0
+TU Dresden,119706.0
+USP-ICMC,118719.0
+University of Victoria,117666.0
+Royal Holloway University of London,117421.0
+University of Saskatchewan,116857.0
+University of Konstanz,116662.0
+Syracuse University,115634.0
+University of Hannover,115548.0
+Binghamton University,115385.0
+TU Kaiserslautern,110709.0
+Hong Kong Baptist University,110209.0
+University of Bonn,110043.0
+University of Oklahoma,106917.0
+Florida International University,106148.0
+University of Hamburg,105777.0
+Hunan University,105286.0
+Open University UK,105156.0
+University of Texas at San Antonio,104598.0
+University of A Coruña,103811.0
+Xi'an Jiaotong University,103392.0
+Concordia University,102979.0
+University of Otago,102007.0
+University of Bergen,100836.0
+Shenzhen University,99687.0
+Illinois Institute of Technology,98532.0
+Tufts University,97773.0
+University of Innsbruck,97679.0
+UCCS,97521.0
+Georgia State University,95839.0
+University of Georgia,95282.0
+University of Western Australia,94582.0
+University of Mannheim,92767.0
+Texas A&M at Qatar,92753.0
+Heriot-Watt University,92692.0
+University of Massachusetts Boston,92449.0
+Lund University,92388.0
+Birkbeck University of London,91734.0
+NTNU,91641.0
+Humboldt University of Berlin,90926.0
+University of Lübeck,90865.0
+Kyungpook National University,89964.0
+Wayne State University,89745.0
+Masaryk University,89716.0
+University of Hawaii at Manoa,89677.0
+University of Guelph,89237.0
+Lehigh University,88959.0
+University of New Brunswick,88672.0
+HUST,88334.0
+Ben-Gurion University of the Negev,88334.0
+University of Würzburg,88243.0
+Wuhan University,87364.0
+Université libre de Bruxelles,86717.0
+University of Ulm,86310.0
+University of Ioannina,86258.0
+Florida Atlantic University,86167.0
+Queensland University of Technology,85910.0
+Renmin University of China,85026.0
+Missouri University of Technology,84879.0
+Paderborn University,84391.0
+Qatar Computing Research Institute,83076.0
+University of Missouri,82916.0
+Colorado School of Mines,82038.0
+Beihang University,80860.0
+IIIT Delhi,80802.0
+TU Braunschweig,80726.0
+College of William and Mary,80725.0
+University of Kentucky,80016.0
+DePaul University,79096.0
+University of Iowa,78320.0
+Case Western Reserve University,77809.0
+ETS Montreal,77467.0
+IMDEA Networks Institute,77385.0
+University of North Texas,77334.0
+University of Münster,76337.0
+National Tsing Hua University,76074.0
+University of Magdeburg,76064.0
+Yonsei University,75904.0
+PUC-RIO,75552.0
+Massey University,72422.0
+IIT Delhi,71973.0
+Qatar University,71971.0
+Westlake University,70226.0
+University of New Mexico,69708.0
+Maastricht University,69637.0
+University of Sussex,69617.0
+University of Düsseldorf,69602.0
+University of Exeter,69587.0
+Virginia Commonwealth University,68760.0
+University of Passau,68403.0
+University of Sannio,68099.0
+Bielefeld University,67808.0
+PUC-RS,67611.0
+University of Wroclaw,67501.0
+Naval Postgraduate School,67367.0
+University of Kiel,67100.0
+University of Vermont,66774.0
+USP,66357.0
+UFRJ,66307.0
+TU Dortmund,65984.0
+University of Duisburg-Essen,64581.0
+UFF,63577.0
+NYU Shanghai,63156.0
+UFPE,62560.0
+George Washington University,62176.0
+National Cheng Kung University,62072.0
+IIT Patna,61897.0
+Durham University,61844.0
+University of Canterbury,60373.0
+University of Augsburg,59577.0
+University of Murcia,59365.0
+Boise State University,59014.0
+Cleveland State University,58583.0
+Masdar Institute,57532.0
+Stevens Institute of Technology,57217.0
+University of Cincinnati,56931.0
+IUPUI,56924.0
+University of Groningen,56257.0
+Auburn University,56143.0
+Sharif University of Technology,55479.0
+University of Louisiana - Lafayette,55349.0
+Universidade NOVA de Lisboa,55326.0
+IIT Hyderabad,55144.0
+Brandeis University,54379.0
+Hacettepe University,54279.0
+University of Regina,54207.0
+West Virginia University,54198.0
+IPI PAN,53656.0
+ShanghaiTech University,53631.0
+University of Malaya,53035.0
+University of Rostock,53033.0
+Keio University,52470.0
+University of Potsdam,52137.0
+Université de Sherbrooke,51935.0
+Tata Inst. of Fundamental Research,51636.0
+Ontario Tech University,51578.0
+Korea University,51167.0
+University of Nevada,51074.0
+UNC - Charlotte,50373.0
+Charles University,50206.0
+American University of Beirut,50000.0
+Université Jean Monnet,49810.0
+University of Göttingen,49497.0
+Kansas State University,49490.0
+University of Memphis,49092.0
+IIT Madras,48796.0
+University of St Andrews,48557.0
+Universidad Rey Juan Carlos,48511.0
+Aberystwyth University,48483.0
+Brno University of Technology,47794.0
+McMaster University,47128.0
+Boğaziçi University,47049.0
+Shandong University,46975.0
+DAIICT,46940.0
+University of Marburg,46591.0
+IIT (BHU) Varanasi,45946.0
+Louisiana State University,45550.0
+IMDEA Software Institute,45468.0
+Universidad de Chile,45245.0
+Hanyang University,44597.0
+UNIST,44392.0
+Middle East Technical University,44232.0
+University of Missouri - Kansas City,44202.0
+Old Dominion University,44085.0
+University of Buenos Aires,44032.0
+IIIT Bangalore,43596.0
+Özyeğin University,43430.0
+Université Laval,42619.0
+University of Texas - El Paso,42379.0
+TU Ilmenau,42267.0
+Middlesex University,42239.0
+University of Michigan-Dearborn,42226.0
+University of Dundee,41288.0
+New Mexico State University,40659.0
+UFPR,40570.0
+University of Haifa,40348.0
+University of Koblenz-Landau,40131.0
+University of Aberdeen,39652.0
+Florida Institute of Technology,39546.0
+University of Bern,39057.0
+University of Kassel,38704.0
+University of L'Aquila,38380.0
+University of Siegen,38230.0
+Bundeswehr University Munich,38229.0
+University of Szeged,37820.0
+University of Miami,37160.0
+Scuola Superiore Sant'Anna,37098.0
+University of Bamberg,37031.0
+Texas State University,36787.0
+Tilburg University,36700.0
+University of Louisville,36585.0
+Cyprus University of Technology,36512.0
+Ryerson University,36188.0
+University of New Hampshire,35898.0
+Waseda University,35730.0
+IIT Gandhinagar,35516.0
+Istanbul Technical University,35370.0
+Lebanese American University,33748.0
+BITS Pilani,33616.0
+University of Wuppertal,32738.0
+University of Bayreuth,32711.0
+Kent State University,32410.0
+Goldsmiths University of London,32382.0
+Koç University,31710.0
+Tulane University,31570.0
+University of Newcastle,30878.0
+Bocconi University,30566.0
+Portland State University,30247.0
+University of Tulsa,29338.0
+University of Mainz,29323.0
+Brandenburg University of Technology,29261.0
+TOBB ETÜ,29112.0
+University of Oldenburg,28866.0
+Utah State University,28684.0
+University of Hildesheim,28504.0
+Western Michigan University,28293.0
+IIT Jodhpur,28222.0
+Loughborough University,28030.0
+Universidade de Brasília,27908.0
+University of Osnabrück,27881.0
+Polytechnique Montreal,27544.0
+Augusta University,27068.0
+Freie Universitaet Berlin,27038.0
+Kyung Hee University,27037.0
+Friedrich Schiller University Jena,27009.0
+IIT Mandi,26377.0
+IUST,26169.0
+University of Wyoming,25331.0
+University of Salzburg,25237.0
+JUST,25172.0
+University of Arkansas,24833.0
+CMI,24819.0
+University of Molise,23793.0
+Jacobs University Bremen,22799.0
+Sabancı University,22666.0
+IIT Roorkee,22498.0
+Memorial University of Newfoundland,22465.0
+BUET,21904.0
+Texas Tech University,21818.0
+Nova Southeastern University,21272.0
+University of Trier,21077.0
+Universidad de los Andes,21030.0
+Hamburg University of Technology,20996.0
+OHSU,20627.0
+Tongji University,20167.0
+University at Albany - SUNY,19946.0
+Boston College,19719.0
+TU Clausthal,19443.0
+University of Alabama - Birmingham,19339.0
+IIT Ropar,19290.0
+IIT Indore,19240.0
+Universidad Nacional de Córdoba,18996.0
+University of Jordan,18960.0
+Federal University of Rio Grande,18603.0
+Ariel University,18288.0
+King Abdulaziz University,18253.0
+UFU,17890.0
+University of Halle-Wittenberg,17581.0
+Stellenbosch University,17201.0
+Yıldız Technical University,16848.0
+Michigan Technological University,16824.0
+The University of Alabama,16733.0
+National Institute of Technology Silchar,16720.0
+University of Nevada Las Vegas,16622.0
+Oakland University,16137.0
+University of Cape Town,15470.0
+Wichita State University,15455.0
+University of Nicosia,15351.0
+Mississippi State University,15245.0
+Southern Methodist University,14882.0
+BITS Pilani-Goa,14762.0
+LUMS,14570.0
+University of Windsor,14487.0
+Claremont Graduate University,14232.0
+American University in Cairo,13931.0
+University of Wisconsin - Milwaukee,13874.0
+University of Idaho,13697.0
+Ohio University,13603.0
+IMSc,13465.0
+TU Chemnitz,13348.0
+Bauhaus University Weimar,13080.0
+Montana State University,12835.0
+University of Maine,12398.0
+Universidad de Zaragoza,11420.0
+South Asian University,10992.0
+University of Malta,10829.0
+University of Alabama - Huntsville,10417.0
+University of Nebraska - Omaha,10290.0
+Towson University,10002.0
+Izmir Institute of Technology,9911.0
+Galatasaray University,9823.0
+University of New Orleans,9755.0
+University of Southern Mississippi,8500.0
+IPM,8161.0
+UFMS,7974.0
+University of Denver,7903.0
+Ecole Normale Superieure de Rennes,7655.0
+SUFE,6841.0
+New Mexico Tech,6525.0
+De La Salle University,6514.0
+IIT Bhubaneswar,6357.0
+Universidade Federal de Viçosa,6342.0
+KMUTNB,5679.0
+DTU,5362.0
+Simula UiB,5338.0
+University of Arkansas - Little Rock,4387.0
+Oklahoma State University,4253.0
+Babeș-Bolyai University,4206.0
+Missouri S&T,3997.0
+University of Mississippi,3832.0
+Royal Military College of Canada,3688.0
+Simmons University,2879.0
+University of Twente,2800.0
+Air Force Institute of Technology,2566.0
+North Dakota State University,2337.0
+Louisiana Tech University,2158.0
+IIT Goa,1122.0
+Indiana State University,1049.0
+University of Colorado - Denver,1014.0
+Chulalongkorn University,912.0
+Ruhr-Universty Bochum,868.0
+TU Freiberg,639.0
+LIU Post,421.0
+Wichita State Unitveristy,31.0

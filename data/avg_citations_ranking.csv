@@ -1,0 +1,597 @@
+college,avg_citations
+Western University,35541.42857142857
+Univ. of California - Berkeley,33783.0495049505
+Max Planck Society,33248.41025641026
+Stanford University,31096.650793650795
+California Institute of Technology,30275.4
+Massachusetts Institute of Technology,27843.65306122449
+Columbia University,26884.51785714286
+Princeton University,25568.5
+Univ. of California - Los Angeles,25108.024390243903
+University of Montreal,25079.075
+Weizmann Institute of Science,24700.916666666668
+University of Freiburg,24276.0625
+Westlake University,23408.666666666668
+Harvard University,22430.8125
+Johns Hopkins University,21812.3125
+ETH Zurich,21526.756097560974
+University of Waikato,21214.40740740741
+NYU Shanghai,21052.0
+University of Rochester,20361.526315789473
+Cornell University,18431.025974025975
+Univ. of California - San Diego,18408.8487394958
+University of Kansas,17759.5
+Carnegie Mellon University,17620.455621301775
+University of Minnesota,17573.6
+University of Pennsylvania,17352.344262295082
+HKUST,17217.64150943396
+EPFL,17145.114754098362
+Georgetown University,16728.29411764706
+Università della Svizzera italiana,16650.5
+The Hong Kong Polytechnic University,16308.470588235294
+TTI Chicago,16185.692307692309
+University of Texas at Austin,16103.92
+Michigan State University,15730.20588235294
+Ecole Normale Superieure,15486.24
+University of Southern California,15436.102040816326
+LMU Munich,14961.652173913044
+KAUST,14563.047619047618
+Nanyang Technological University,14360.625
+Univ. of Illinois at Urbana-Champaign,14284.730434782608
+Pennsylvania State University,14035.82456140351
+University of Manitoba,13933.95
+Queen’s University,13657.59090909091
+University of Edinburgh,13538.30693069307
+University of Washington,13526.706666666667
+University College London,13321.54430379747
+University of Alberta,13296.565217391304
+University of Chicago,13138.926829268292
+University of Leipzig,13052.0
+New York University,13030.058823529413
+University of Notre Dame,12781.677419354839
+University of Maryland - College Park,12683.58762886598
+Hasso Plattner Institute,12627.846153846154
+Northeastern University,12546.975903614459
+Duke University,12410.692307692309
+University of Amsterdam,12242.875
+Brown University,12214.441176470587
+University of Bremen,12212.625
+Univ. of California - Irvine,12177.89705882353
+NWPU,12045.857142857143
+University of Texas at Arlington,11911.709677419354
+Univ. of California - Merced,11903.722222222223
+Yale University,11866.625
+Washington University in St. Louis,11769.310344827587
+Univ. of California - Santa Barbara,11603.794871794871
+University of Mannheim,11595.875
+TU Munich,11548.06
+TU Berlin,11493.57142857143
+National Taiwan University,11428.777777777777
+University of Oxford,11372.68115942029
+University of Toronto,11351.559139784946
+RWTH Aachen,11248.392857142857
+Chinese University of Hong Kong,11226.02380952381
+Rice University,11178.709677419354
+MBZUAI,11112.95
+Hebrew University of Jerusalem,10929.891304347826
+Imperial College London,10897.140625
+Georgia Institute of Technology,10811.490384615385
+Victoria University of Wellington,10718.027027027027
+University of North Carolina,10592.225
+University of Tennessee,10477.175
+York University,10359.645161290322
+Univ. of California - Davis,10292.931818181818
+University of Sydney,10292.93023255814
+Karlsruhe Institute of Technology,10134.233333333334
+University of Cambridge,10133.285714285714
+USTC,10104.863636363636
+Purdue University,10071.74647887324
+University of Arizona,10040.5
+University of Tübingen,10032.542857142857
+University of Michigan,9943.978723404256
+University of South Florida,9898.42857142857
+HSE University,9850.625
+Univ. of Maryland - Baltimore County,9835.555555555555
+Rensselaer Polytechnic Institute,9795.1
+University of Bern,9764.25
+Tel Aviv University,9757.85
+University of Wisconsin - Madison,9757.666666666666
+Simon Fraser University,9757.229166666666
+University of Adelaide,9754.4
+CWI,9724.451612903225
+University of Stuttgart,9719.535714285714
+Temple University,9716.809523809523
+KAIST,9650.494736842105
+Brno University of Technology,9558.8
+University of Kent,9558.279069767443
+University of Hildesheim,9501.333333333334
+University of Luxembourg,9411.307692307691
+University of Manchester,9395.263157894737
+Bar-Ilan University,9338.0
+Vanderbilt University,9186.25
+University of Illinois at Chicago,9115.673469387755
+University of Melbourne,9112.415384615384
+Arizona State University,9104.81081081081
+Stony Brook University,9049.305084745763
+IIT Guwahati,8993.260869565218
+University of Konstanz,8974.0
+Tsinghua University,8948.673684210526
+TU Darmstadt,8939.74074074074
+Czech Technical University,8937.148148148148
+University of Oklahoma,8909.75
+Ecole Normale Superieure de Cachan,8813.555555555555
+Goethe University Frankfurt,8778.1875
+University of Hong Kong,8751.0
+Technion,8638.158536585366
+JKU Linz,8608.689655172413
+University of Virginia,8584.432432432432
+University of British Columbia,8582.677966101695
+University of Vienna,8507.0
+University of Southern Mississippi,8500.0
+Missouri University of Technology,8487.9
+University of Surrey,8476.962962962964
+University of Massachusetts Amherst,8463.666666666666
+Lund University,8398.90909090909
+Dartmouth College,8384.173913043478
+Univ. of California - Riverside,8370.209302325582
+University of Utah,8324.671875
+Sun Yat-sen University,8319.266666666666
+Ohio State University,8290.75
+Boston University,8280.238095238095
+NJIT,8250.241379310344
+Emory University,8190.684210526316
+Graz University of Technology,8166.450980392156
+Carleton University,8163.333333333333
+Rutgers University,8089.709090909091
+University of Zurich,8081.333333333333
+National University of Singapore,8069.450704225352
+VU Amsterdam,8038.3
+McGill University,7871.071428571428
+University of Trento,7854.5641025641025
+University of Otago,7846.692307692308
+Indiana University,7836.948453608247
+University of Marburg,7765.166666666667
+Queen Mary University of London,7748.742857142857
+Texas A&M at Qatar,7729.416666666667
+University of Helsinki,7687.3448275862065
+Bilkent University,7674.555555555556
+University of Queensland,7671.68085106383
+University of Texas at Dallas,7557.571428571428
+University at Buffalo,7547.5
+University of Missouri,7537.818181818182
+Bielefeld University,7534.222222222223
+TU Dresden,7481.625
+Colorado School of Mines,7458.0
+Scuola Superiore Sant'Anna,7419.6
+Shanghai Jiao Tong University,7387.7764705882355
+University of Waterloo,7374.7441860465115
+Hong Kong Baptist University,7347.266666666666
+University of Bonn,7336.2
+Wuhan University,7280.333333333333
+Colorado State University,7249.235294117647
+Northwestern University,7210.477272727273
+Oregon State University,7181.978723404255
+Saarland University,7179.4375
+University of Central Florida,7149.862068965517
+North Carolina State University,7127.34
+Soochow University,7115.428571428572
+University of Massachusetts Boston,7111.461538461538
+EURECOM,7084.615384615385
+Univ. of California - Santa Cruz,7020.28813559322
+University of Connecticut,6982.275862068966
+University of Innsbruck,6977.071428571428
+UCCS,6965.785714285715
+Chinese Academy of Sciences,6960.463768115942
+University of Saskatchewan,6873.941176470588
+KU Leuven,6831.541666666667
+University of Nebraska,6825.125
+IST Austria,6817.121212121212
+University of Würzburg,6787.923076923077
+City University of Hong Kong,6777.333333333333
+University of Oregon,6731.222222222223
+Monash University,6730.736842105263
+University of Tokyo,6722.7962962962965
+University of Athens,6666.409090909091
+Heidelberg University,6664.421052631579
+CUNY,6662.782051282052
+University of Pittsburgh,6628.533333333334
+University of Erlangen–Nuremberg,6593.181818181818
+Fudan University,6553.583333333333
+Bauhaus University Weimar,6540.0
+Drexel University,6512.578947368421
+University of Kassel,6450.666666666667
+SUSTech,6449.023809523809
+IMDEA Networks Institute,6448.75
+TU Eindhoven,6401.156862745098
+University of Colorado Boulder,6384.726027397261
+UNSW,6380.259259259259
+University of Wyoming,6332.75
+George Mason University,6327.865384615385
+Peking University,6281.927083333333
+TU Braunschweig,6209.692307692308
+University of Newcastle,6175.6
+Politecnico di Milano,6163.220588235294
+Australian National University,6145.5
+University of Memphis,6136.5
+University of Florida,6136.14705882353
+Zhejiang University,6099.585714285714
+University of Houston,6075.866666666667
+Humboldt University of Berlin,6061.733333333334
+SUTD,6041.909090909091
+TU Wien,6041.377777777778
+Ruhr-University Bochum,6041.333333333333
+University of Regina,6023.0
+University of Calgary,6011.529411764706
+University of Ottawa,5997.071428571428
+University of Hawaii at Manoa,5978.466666666666
+Aalto University,5960.325581395349
+University of Western Australia,5911.375
+Ben-Gurion University of the Negev,5888.933333333333
+Texas A&M University,5879.065573770492
+University of Hamburg,5876.5
+Cleveland State University,5858.3
+Seoul National University,5840.2
+University of Warwick,5827.488888888889
+Singapore Management University,5822.0
+University of Southampton,5816.5352112676055
+University of York,5792.7959183673465
+POSTECH,5792.580645161291
+University of Hannover,5777.4
+Florida State University,5774.083333333333
+Tata Inst. of Fundamental Research,5737.333333333333
+University of Auckland,5734.428571428572
+University of Passau,5700.25
+Western Michigan University,5658.6
+George Washington University,5652.363636363636
+Kyoto University,5616.666666666667
+Washington State University,5606.463414634146
+TU Delft,5605.597402597403
+Northern Arizona University,5572.863636363636
+Case Western Reserve University,5557.785714285715
+University of Massachusetts Lowell,5528.666666666667
+University of Crete,5513.92
+University of Texas at San Antonio,5505.1578947368425
+TU Dortmund,5498.666666666667
+University of Canterbury,5488.454545454545
+Rochester Institute of Technology,5461.869565217391
+Osaka University,5447.222222222223
+Tufts University,5431.833333333333
+Université libre de Bruxelles,5419.8125
+West Virginia University,5419.8
+Freie Universitaet Berlin,5407.6
+University of Düsseldorf,5354.0
+Radboud University,5340.346153846154
+Simula UiB,5338.0
+IIT Kanpur,5318.214285714285
+University of Miami,5308.571428571428
+TU Kaiserslautern,5271.857142857143
+Syracuse University,5256.090909090909
+Tampere University,5255.024390243902
+University of Guelph,5249.235294117647
+University of Sannio,5238.384615384615
+Brigham Young University,5224.6
+University of New Brunswick,5216.0
+University of Potsdam,5213.7
+University of Delaware,5211.074074074074
+Brunel University London,5203.742857142857
+Qatar Computing Research Institute,5192.25
+ETS Montreal,5164.466666666666
+Ontario Tech University,5157.8
+University of Groningen,5114.272727272727
+Bocconi University,5094.333333333333
+University of Bath,5088.115384615385
+Louisiana State University,5061.111111111111
+Queensland University of Technology,5053.529411764706
+Worcester Polytechnic Institute,5046.538461538462
+College of William and Mary,5045.3125
+University of Bergen,5041.8
+UNC - Charlotte,5037.3
+University of New Mexico,4979.142857142857
+University of Duisburg-Essen,4967.7692307692305
+University of Augsburg,4964.75
+Paderborn University,4964.176470588235
+University of Göttingen,4949.7
+Brandeis University,4943.545454545455
+Lehigh University,4942.166666666667
+Lancaster University,4929.886363636364
+Illinois Institute of Technology,4926.6
+AUEB,4917.62962962963
+HUST,4907.444444444444
+University of Glasgow,4898.5675675675675
+Harbin Institute of Technology,4887.840579710145
+Universidad Rey Juan Carlos,4851.1
+King's College London,4850.978723404255
+University of Technology Sydney,4834.173913043478
+Florida International University,4824.909090909091
+Binghamton University,4807.708333333333
+University of Ulm,4795.0
+University of Siegen,4778.75
+Beihang University,4756.470588235294
+Virginia Tech,4752.370967741936
+Université de Sherbrooke,4721.363636363636
+University of South Carolina,4701.6
+Chalmers/GU,4684.65
+University of Nottingham,4623.086956521739
+Clemson University,4606.542857142857
+CISPA Helmholtz Center,4598.933333333333
+IIT (BHU) Varanasi,4594.6
+Polytechnique Montreal,4590.666666666667
+NTUA,4590.638888888889
+Sapienza University of Rome,4584.72972972973
+University of Bristol,4583.121951219512
+Georgia State University,4563.761904761905
+Florida Atlantic University,4535.105263157895
+National Chiao Tung University,4533.282051282052
+UFMG,4517.773584905661
+Kyung Hee University,4506.166666666667
+KTH Royal Institute of Technology,4498.367647058823
+Wayne State University,4487.25
+University of Copenhagen,4479.140625
+University of Magdeburg,4474.35294117647
+University of Kiel,4473.333333333333
+University of Klagenfurt,4464.71875
+Macquarie University,4447.166666666667
+IIT Patna,4421.214285714285
+University of Liverpool,4405.636363636364
+Florida Institute of Technology,4394.0
+Uppsala University,4385.050847457627
+University of Cincinnati,4379.307692307692
+Auburn University,4318.692307692308
+Nanjing University,4300.561643835616
+Virginia Commonwealth University,4297.5
+Iowa State University,4296.575757575758
+University of L'Aquila,4264.444444444444
+UESTC,4255.111111111111
+University of Münster,4240.944444444444
+University of Leeds,4237.766666666666
+University of Michigan-Dearborn,4222.6
+University of Trier,4215.4
+University of Victoria,4202.357142857143
+Universidade de Lisboa,4189.56
+University of Mainz,4189.0
+University of Georgia,4142.695652173913
+Xidian University,4137.5
+University of Lübeck,4130.227272727273
+Universidad de Chile,4113.181818181818
+Polytechnic University of Catalonia,4112.666666666667
+University of Birmingham,4098.847826086957
+Aarhus University,4055.095238095238
+Dalhousie University,4043.71875
+Tokyo Institute of Technology,4043.6666666666665
+University of Kentucky,4000.8
+University of Sheffield,3997.7735849056603
+University of New Hampshire,3988.6666666666665
+Birkbeck University of London,3988.4347826086955
+IISc Bangalore,3984.277777777778
+Waseda University,3970.0
+University of Molise,3965.5
+Koç University,3963.75
+University of Louisiana - Lafayette,3953.5
+IIT Gandhinagar,3946.222222222222
+Aalborg University,3934.170731707317
+University of Alabama - Birmingham,3867.8
+University of Texas - El Paso,3852.6363636363635
+TU Ilmenau,3842.4545454545455
+University of Mississippi,3832.0
+Xi'an Jiaotong University,3829.3333333333335
+Jacobs University Bremen,3799.8333333333335
+University of Rostock,3788.0714285714284
+PUC-RIO,3777.6
+Open University UK,3755.5714285714284
+University of Dundee,3753.4545454545455
+Naval Postgraduate School,3742.6111111111113
+University of Tartu,3719.3636363636365
+Utrecht University,3710.6382978723404
+City University of London,3687.6666666666665
+University of Pisa,3683.159090909091
+Royal Holloway University of London,3669.40625
+University of Louisville,3658.5
+Brandenburg University of Technology,3657.625
+University of Koblenz-Landau,3648.2727272727275
+Özyeğin University,3619.1666666666665
+IIT Bombay,3617.9142857142856
+University of Salzburg,3605.285714285714
+University of Aberdeen,3604.7272727272725
+University College Dublin,3581.5652173913045
+IIIT Hyderabad,3580.0714285714284
+University of Iowa,3560.0
+Claremont Graduate University,3558.0
+Kansas State University,3535.0
+University of Halle-Wittenberg,3516.2
+University of North Texas,3515.181818181818
+University of Sussex,3480.85
+Boise State University,3471.4117647058824
+Aberystwyth University,3463.0714285714284
+National Tsing Hua University,3457.909090909091
+University of Ioannina,3450.32
+University of Szeged,3438.181818181818
+Concordia University,3432.633333333333
+University of Missouri - Kansas City,3400.153846153846
+University of Piraeus,3394.875
+Old Dominion University,3391.153846153846
+Masdar Institute,3384.235294117647
+Portland State University,3360.777777777778
+Cardiff University,3347.98
+University of Vermont,3338.7
+IIT Kharagpur,3319.3
+Cyprus University of Technology,3319.2727272727275
+Ryerson University,3289.818181818182
+IIT Delhi,3271.5
+University of Bayreuth,3271.1
+University of Tulsa,3259.777777777778
+TU Clausthal,3240.5
+University of Oldenburg,3207.3333333333335
+Hunan University,3190.4848484848485
+IIT Bhubaneswar,3178.5
+IUPUI,3162.4444444444443
+Tulane University,3157.0
+National Cheng Kung University,3103.6
+Kyungpook National University,3102.206896551724
+University of Maine,3099.5
+University of Osnabrück,3097.8888888888887
+University of Salerno,3095.6935483870966
+Keio University,3086.470588235294
+University of Bamberg,3085.9166666666665
+PUC-RS,3073.2272727272725
+DePaul University,3042.153846153846
+Yonsei University,3036.16
+BUPT,3005.7708333333335
+Friedrich Schiller University Jena,3001.0
+Queen's University Belfast,2990.3414634146343
+IT University of Copenhagen,2986.4556962025317
+Southern Methodist University,2976.4
+Ecole Normale Superieure de Lyon,2953.156862745098
+OHSU,2946.714285714286
+Bundeswehr University Munich,2940.6923076923076
+Boğaziçi University,2940.5625
+University of Essex,2938.057971014493
+IIT Hyderabad,2902.315789473684
+University of Exeter,2899.4583333333335
+Tongji University,2881.0
+Simmons University,2879.0
+UNICAMP,2848.6744186046512
+Korea University,2842.6111111111113
+IMDEA Software Institute,2841.75
+Université Laval,2841.266666666667
+Tilburg University,2823.076923076923
+Lebanese American University,2812.3333333333335
+University of Twente,2800.0
+The University of Alabama,2788.8333333333335
+NTNU,2777.0
+RMIT University,2774.92
+Qatar University,2768.1153846153848
+Shandong University,2763.235294117647
+University of Tsukuba,2756.6382978723404
+Texas Tech University,2727.25
+IPM,2720.3333333333335
+IMSc,2693.0
+University of Malaya,2651.75
+USP-ICMC,2638.2
+IIT Mandi,2637.7
+University of Denver,2634.3333333333335
+Hamburg University of Technology,2624.5
+Utah State University,2607.6363636363635
+University of Alabama - Huntsville,2604.25
+Maastricht University,2579.1481481481483
+University of Nevada,2553.7
+University of Haifa,2521.75
+Sabancı University,2518.4444444444443
+Heriot-Watt University,2505.189189189189
+Massey University,2497.310344827586
+Hanyang University,2477.6111111111113
+Stellenbosch University,2457.285714285714
+IPI PAN,2438.909090909091
+Renmin University of China,2429.3142857142857
+University of St Andrews,2427.85
+University of Warsaw,2427.423076923077
+Masaryk University,2424.7567567567567
+IIT Ropar,2411.25
+New Mexico State University,2391.705882352941
+USP,2369.8928571428573
+Nova Southeastern University,2363.5555555555557
+DAIICT,2347.0
+University of Wuppertal,2338.4285714285716
+North Dakota State University,2337.0
+UFRGS,2324.377358490566
+American University in Cairo,2321.8333333333335
+Kent State University,2315.0
+Texas State University,2299.1875
+American University of Beirut,2272.7272727272725
+Ohio University,2267.1666666666665
+CMI,2256.2727272727275
+University of Wroclaw,2250.0333333333333
+McMaster University,2244.190476190476
+TOBB ETÜ,2239.3846153846152
+CRIStAL,2204.3406593406594
+University of Buenos Aires,2201.6
+Mississippi State University,2177.8571428571427
+IIT Jodhpur,2170.923076923077
+UFPE,2157.2413793103447
+UFRJ,2138.935483870968
+IIT Indore,2137.777777777778
+BITS Pilani,2101.0
+IIIT Delhi,2071.846153846154
+University of Arkansas,2069.4166666666665
+Durham University,2061.4666666666667
+Universidade NOVA de Lisboa,2049.1111111111113
+IIT Roorkee,2045.2727272727273
+Shenzhen University,2034.4285714285713
+Oakland University,2017.125
+UFF,1986.78125
+IIIT Bangalore,1981.6363636363637
+Stevens Institute of Technology,1973.0
+IIT Madras,1951.84
+Hacettepe University,1938.5357142857142
+Charles University,1931.0
+Université Jean Monnet,1915.7692307692307
+Ecole Normale Superieure de Rennes,1913.75
+TU Chemnitz,1906.857142857143
+Universidad de Zaragoza,1903.3333333333333
+Montana State University,1833.5714285714287
+University at Albany - SUNY,1813.2727272727273
+University of Murcia,1798.939393939394
+Boston College,1792.6363636363637
+Sharif University of Technology,1789.6451612903227
+DTU,1787.3333333333333
+Middlesex University,1759.9583333333333
+University of Wisconsin - Milwaukee,1734.25
+University of A Coruña,1730.1833333333334
+University of Nevada Las Vegas,1662.2
+Universidade de Brasília,1641.6470588235295
+Istanbul Technical University,1607.7272727272727
+Memorial University of Newfoundland,1604.642857142857
+Middle East Technical University,1579.7142857142858
+South Asian University,1570.2857142857142
+University of Cape Town,1547.0
+University of Nicosia,1535.1
+UNIST,1530.7586206896551
+University of Idaho,1521.888888888889
+University of Windsor,1448.7
+Goldsmiths University of London,1407.9130434782608
+Michigan Technological University,1402.0
+Loughborough University,1401.5
+JUST,1398.4444444444443
+ShanghaiTech University,1375.1538461538462
+Universidad Nacional de Córdoba,1356.857142857143
+University of Nebraska - Omaha,1286.25
+IUST,1246.142857142857
+Galatasaray University,1227.875
+University of New Orleans,1219.375
+BUET,1216.888888888889
+UFPR,1193.235294117647
+Wichita State University,1188.8461538461538
+Federal University of Rio Grande,1162.6875
+UFMS,1139.142857142857
+Yıldız Technical University,1123.2
+LUMS,1120.7692307692307
+Towson University,1111.3333333333333
+University of Arkansas - Little Rock,1096.75
+Louisiana Tech University,1079.0
+Ariel University,1075.764705882353
+Babeș-Bolyai University,1051.5
+Indiana State University,1049.0
+Augusta University,1041.076923076923
+University of Malta,984.4545454545455
+SUFE,977.2857142857143
+Universidad de los Andes,955.9090909090909
+New Mexico Tech,932.1428571428571
+Izmir Institute of Technology,901.0
+Ruhr-Universty Bochum,868.0
+National Institute of Technology Silchar,836.0
+KMUTNB,811.2857142857143
+Missouri S&T,799.4
+UFU,745.4166666666666
+Royal Military College of Canada,737.6
+King Abdulaziz University,730.12
+Oklahoma State University,708.8333333333334
+BITS Pilani-Goa,671.0
+TU Freiberg,639.0
+Universidade Federal de Viçosa,634.2
+Air Force Institute of Technology,513.2
+University of Jordan,512.4324324324324
+University of Colorado - Denver,507.0
+Chulalongkorn University,456.0
+LIU Post,421.0
+De La Salle University,203.5625
+IIT Goa,124.66666666666667
+Wichita State Unitveristy,31.0
