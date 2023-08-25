@@ -31,6 +31,33 @@
                 <p>Objective ranking of computer science programs from institutions around the world, based on Google Scholar research data of professors.</p>
 
                 <div class = "sortable" id="table-container"></div>
+                <script>
+                    function format_link(link) {
+                        if (link)
+                            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+                        else return "";
+                    }
+            
+                    CsvToHtmlTable.init({
+                        csv_path: "data/college_avg_rank.csv",
+                        element: "table-container",
+                        allow_download: false,
+                        csv_options: {
+                            separator: ",",
+                            delimiter: '"'
+                        },
+                        datatables_options: {
+                            paging: false
+                        },
+                        custom_formatting: [
+                            [4, format_link]
+                        ]
+                    });
+                </script>
+                <script>
+                    alert(document.getElementsByClassName('sorting')[0].innerHTML);
+                    document.getElementsByClassName('sorting')[0].click();
+                </script>
             </div>
         </main>
         <footer class="row">
@@ -45,33 +72,7 @@
     
     
 
-    <script>
-        function format_link(link) {
-            if (link)
-                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-            else return "";
-        }
-
-        CsvToHtmlTable.init({
-            csv_path: "data/college_avg_rank.csv",
-            element: "table-container",
-            allow_download: false,
-            csv_options: {
-                separator: ",",
-                delimiter: '"'
-            },
-            datatables_options: {
-                paging: false
-            },
-            custom_formatting: [
-                [4, format_link]
-            ]
-        });
-    </script>
-    <script>
-        alert(document.getElementsByClassName('sorting')[0].innerHTML);
-        document.getElementsByClassName('sorting')[0].click();
-    </script>
+    
 </body>
 
 </html>
