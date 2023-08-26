@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
         crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-    <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
     <script src="js/jquery.csv.min.js"></script>
@@ -55,8 +54,8 @@
                     });
                 </script>
                 <script>
-                    alert(document.getElementsByClassName('sorting')[0].innerHTML);
-                    document.getElementsByClassName('sorting')[0].click();
+                    // alert(document.getElementsByClassName('sorting')[0].innerHTML);
+                    document.getElementById('table-container').getElementsByClassName('th')[1].click();
                 </script>
             </div>
         </main>
