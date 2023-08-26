@@ -28,7 +28,29 @@
                 <h1>CSImpact</h1>
 
                 <p>Objective ranking of computer science programs from institutions around the world, based on Google Scholar research data of professors.</p>
+                <select id = "metric">
+                    <option value="" disabled="disabled" selected="selected">Select a metric</option>
+                    <option value="overall">Overall</option>
+                    <option value="total_citations">Total Citations</option>
+                    <option value="avg_citations">Average Citations</option>
+                    <option value="total_h_index">Total h-index</option>
+                    <option value="avg_h_index">Average h-index</option>
+                </select>
 
+                <button type = "submit" onclick = "CsvToHtmlTable.init({
+                    csv_path: 'data/'+document.getElementById('metric').value+'_ranking.csv',
+                    element: 'table-container',
+                    allow_download: false,
+                    csv_options: {
+                        separator: ',',
+                    },
+                    datatables_options: {
+                        paging: false
+                    },
+                    custom_formatting: [
+                        [4, format_link]
+                    ]
+                });">Submit</button>
                 <div id="table-container"></div>
                 <script>
                     function format_link(link) {
@@ -63,9 +85,8 @@
         <footer class="row">
             <div class="col">
                 <hr>
-                <p class="text-right"><a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by
-                    <a href="http://derekeder.com">Derek
-                        Eder</a></p>
+                <p class="text-right">Kevin Song</p>
+                <p class="text-right">under the guidance of Professor Remzi Arpaci-Dusseau</p>
             </div>
         </footer>
     </div>

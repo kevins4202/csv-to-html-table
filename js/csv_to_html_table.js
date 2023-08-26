@@ -58,5 +58,5 @@ CsvToHtmlTable = {
 
                 document.getElementsByTagName('th')[1].click();
             });
-    }
+        }
 };
