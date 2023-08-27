@@ -55,9 +55,9 @@ CsvToHtmlTable = {
                 if (allow_download) {
                     $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
                 }
-                document.getElementsByTagName('th')[1].click();
-                if(document.getElementsByTagName('th')[1].innerHTML!='avg_rank'){
-                    document.getElementsByTagName('th')[1].click();
+                document.getElementsByTagName('th')[2].click();
+                if(document.getElementsByTagName('th')[2].innerHTML!='Average of Places From Four Metrics'){
+                    document.getElementsByTagName('th')[2].click();
                 }
             });
         }
