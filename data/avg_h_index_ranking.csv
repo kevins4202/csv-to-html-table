@@ -1,597 +1,597 @@
-Ranking,Institution,Average h-index,Country,Continent
-1,Westlake University,67.67,China,Asia
-2,Univ. of California - Berkeley,64.86,USA,North America
-3,California Institute of Technology,61.2,USA,North America
-4,Stanford University,60.65,USA,North America
-5,Weizmann Institute of Science,58.88,Israel,Asia
-6,Massachusetts Institute of Technology,58.0,USA,North America
-7,NYU Shanghai,57.33,China,Asia
-8,University of Freiburg,56.38,Germany,Europe
-9,Max Planck Society,56.15,Germany,Europe
-10,ETH Zurich,56.15,Switzerland,Europe
-11,Univ. of California - Los Angeles,55.8,USA,North America
-12,Harvard University,54.94,USA,North America
-13,Princeton University,53.45,USA,North America
-14,Columbia University,52.52,USA,North America
-15,Western University,51.86,Canada,North America
-16,The Hong Kong Polytechnic University,51.18,Hong Kong,Asia
-17,Hasso Plattner Institute,50.62,Germany,Europe
-18,Johns Hopkins University,50.53,USA,North America
-19,EPFL,50.23,Switzerland,Europe
-20,Carnegie Mellon University,48.79,USA,North America
-21,University of Pennsylvania,47.89,USA,North America
-22,University of Rochester,47.58,USA,North America
-23,LMU Munich,47.57,Germany,Europe
-24,University of Southern California,46.98,USA,North America
-25,NWPU,46.93,China,Asia
-26,TTI Chicago,46.92,USA,North America
-27,University of Bremen,46.62,Germany,Europe
-28,KAUST,46.33,Saudi Arabia,Asia
-29,HKUST,46.3,Hong Kong,Asia
-30,Nanyang Technological University,46.28,Singapore,Asia
-31,University of Bern,45.75,Switzerland,Europe
-32,University of Minnesota,45.73,USA,North America
-33,Univ. of Illinois at Urbana-Champaign,45.28,USA,North America
-34,University of Washington,45.08,USA,North America
-35,Queen’s University,45.05,Canada,North America
-36,University of Southern Mississippi,44.0,USA,North America
-37,Cornell University,43.91,USA,North America
-38,RWTH Aachen,43.82,Germany,Europe
-39,Univ. of California - San Diego,43.55,USA,North America
-40,University of Maryland - College Park,43.21,USA,North America
-41,TU Munich,43.12,Germany,Europe
-42,Chinese University of Hong Kong,43.0,Hong Kong,Asia
-43,University of Mannheim,43.0,Germany,Europe
-44,University of Stuttgart,42.75,Germany,Europe
-45,Università della Svizzera italiana,42.73,Switzerland,Europe
-46,Univ. of California - Santa Barbara,42.54,USA,North America
-47,University of Texas at Austin,42.38,USA,North America
-48,Yale University,41.62,USA,North America
-49,New York University,41.56,USA,North America
-50,University College London,41.35,UK,Europe
-51,Univ. of California - Irvine,41.35,USA,North America
-52,Michigan State University,41.26,USA,North America
-53,University of Oxford,41.23,UK,Europe
-54,TU Berlin,41.21,Germany,Europe
-55,University of Luxembourg,41.08,Luxembourg,Europe
-56,Georgia Institute of Technology,40.7,USA,North America
-57,University of Leipzig,40.17,Germany,Europe
-58,Rice University,40.16,USA,North America
-59,Vanderbilt University,40.12,USA,North America
-60,TU Darmstadt,39.96,Germany,Europe
-61,MBZUAI,39.85,UAE,Asia
-62,University of Hildesheim,39.67,Germany,Europe
-63,USTC,39.45,China,Asia
-64,Brown University,39.44,USA,North America
-65,Sun Yat-sen University,39.4,China,Asia
-66,University of Notre Dame,39.35,USA,North America
-67,Duke University,39.27,USA,North America
-68,Texas A&M at Qatar,39.25,Qatar,Asia
-69,Washington University in St. Louis,39.17,USA,North America
-70,Imperial College London,39.03,UK,Europe
-71,Pennsylvania State University,38.96,USA,North America
-72,Ecole Normale Superieure,38.96,France,Europe
-73,University of Michigan,38.95,USA,North America
-74,University of Zurich,38.93,Switzerland,Europe
-75,University of Amsterdam,38.88,Netherlands,Europe
-76,University of North Carolina,38.88,USA,North America
-77,University of Alberta,38.85,Canada,North America
-78,Tel Aviv University,38.83,Israel,Asia
-79,University of Konstanz,38.69,Germany,Europe
-80,Hebrew University of Jerusalem,38.67,Israel,Asia
-81,University of Tübingen,38.63,Germany,Europe
-82,University of Tennessee,38.62,USA,North America
-83,Karlsruhe Institute of Technology,38.6,Germany,Europe
-84,Ohio State University,38.5,USA,North America
-85,Stony Brook University,38.49,USA,North America
-86,Bielefeld University,38.22,Germany,Europe
-87,Saarland University,38.22,Germany,Europe
-88,University of Edinburgh,38.05,UK,Europe
-89,Simula UiB,38.0,Norway,Europe
-90,Georgetown University,38.0,USA,North America
-91,Univ. of Maryland - Baltimore County,37.81,USA,North America
-92,University of Trento,37.79,Italy,Europe
-93,Queen Mary University of London,37.77,UK,Europe
-94,University of Cambridge,37.65,UK,Europe
-95,Bauhaus University Weimar,37.5,Germany,Europe
-96,Univ. of California - Merced,37.5,USA,North America
-97,Northeastern University,37.46,USA,North America
-98,Hong Kong Baptist University,37.4,Hong Kong,Asia
-99,University of Toronto,37.18,Canada,North America
-100,CWI,37.13,Netherlands,Europe
-101,University of Chicago,37.1,USA,North America
-102,Rensselaer Polytechnic Institute,36.95,USA,North America
-103,University of Manchester,36.89,UK,Europe
-104,Bar-Ilan University,36.88,Israel,Asia
-105,TU Braunschweig,36.85,Germany,Europe
-106,Scuola Superiore Sant'Anna,36.8,Italy,Europe
-107,Univ. of California - Davis,36.8,USA,North America
-108,Tsinghua University,36.79,China,Asia
-109,Technion,36.74,Israel,Asia
-110,University of Marburg,36.67,Germany,Europe
-111,University of Montreal,36.58,Canada,North America
-112,University of Hong Kong,36.54,Hong Kong,Asia
-113,University of Bonn,36.47,Germany,Europe
-114,Ecole Normale Superieure de Cachan,36.22,France,Europe
-115,University of Utah,36.14,USA,North America
-116,Arizona State University,36.05,USA,North America
-117,Northwestern University,35.98,USA,North America
-118,Colorado State University,35.94,USA,North America
-119,University of British Columbia,35.92,Canada,North America
-120,University of Missouri,35.82,USA,North America
-121,University of Adelaide,35.8,Australia,Australia
-122,University of Innsbruck,35.71,Austria,Europe
-123,Univ. of California - Riverside,35.67,USA,North America
-124,Universidad Rey Juan Carlos,35.6,Spain,Europe
-125,TU Dortmund,35.58,Germany,Europe
-126,EURECOM,35.58,France,Europe
-127,University of South Florida,35.57,USA,North America
-128,Victoria University of Wellington,35.49,New Zealand,Australia
-129,University of Texas at Arlington,35.48,USA,North America
-130,University of Würzburg,35.46,Germany,Europe
-131,National University of Singapore,35.41,Singapore,Asia
-132,University of Kassel,35.33,Germany,Europe
-133,Temple University,35.33,USA,North America
-134,University of Virginia,35.32,USA,North America
-135,University of Wisconsin - Madison,35.23,USA,North America
-136,KU Leuven,35.19,Belgium,Europe
-137,University of Queensland,35.17,Australia,Australia
-138,University of Melbourne,35.11,Australia,Australia
-139,Graz University of Technology,35.04,Austria,Europe
-140,IMDEA Networks Institute,35.0,Spain,Europe
-141,Rutgers University,35.0,USA,North America
-142,City University of Hong Kong,34.92,Hong Kong,Asia
-143,University of Erlangen–Nuremberg,34.91,Germany,Europe
-144,University of Newcastle,34.8,Australia,Australia
-145,Brno University of Technology,34.8,Czech Republic,Europe
-146,University of Saskatchewan,34.76,Canada,North America
-147,University of Kansas,34.71,USA,North America
-148,University of Texas at Dallas,34.67,USA,North America
-149,University of Sydney,34.3,Australia,Australia
-150,TU Dresden,34.25,Germany,Europe
-151,University of Vienna,34.21,Austria,Europe
-152,Heidelberg University,34.21,Germany,Europe
-153,University of Manitoba,34.2,Canada,North America
-154,University of Tokyo,34.15,Japan,Asia
-155,University at Buffalo,34.13,USA,North America
-156,National Taiwan University,34.07,Taiwan,Asia
-157,University of Passau,33.67,Germany,Europe
-158,University of Helsinki,33.62,Finland,Europe
-159,Missouri University of Technology,33.6,USA,North America
-160,Simon Fraser University,33.54,Canada,North America
-161,Purdue University,33.54,USA,North America
-162,Emory University,33.53,USA,North America
-163,VU Amsterdam,33.52,Netherlands,Europe
-164,TU Wien,33.47,Austria,Europe
-165,University of Athens,33.41,Greece,Europe
-166,University of Groningen,33.27,Netherlands,Europe
-167,JKU Linz,33.24,Austria,Europe
-168,University of Massachusetts Boston,33.23,USA,North America
-169,Humboldt University of Berlin,33.13,Germany,Europe
-170,University of Arizona,33.12,USA,North America
-171,Carleton University,33.1,Canada,North America
-172,McGill University,33.07,Canada,North America
-173,Goethe University Frankfurt,33.06,Germany,Europe
-174,TU Kaiserslautern,33.0,Germany,Europe
-175,Qatar Computing Research Institute,33.0,Qatar,Asia
-176,University of Waikato,32.93,New Zealand,Australia
-177,Czech Technical University,32.93,Czech Republic,Europe
-178,Boston University,32.88,USA,North America
-179,University of Kent,32.86,UK,Europe
-180,University of Surrey,32.85,UK,Europe
-181,Texas A&M University,32.84,USA,North America
-182,University of Western Australia,32.69,Australia,Australia
-183,Ben-Gurion University of the Negev,32.67,Israel,Asia
-184,Ruhr-University Bochum,32.67,Germany,Europe
-185,University of Calgary,32.65,Canada,North America
-186,University of Sannio,32.62,Italy,Europe
-187,Chinese Academy of Sciences,32.59,China,Asia
-188,Politecnico di Milano,32.54,Italy,Europe
-189,Shanghai Jiao Tong University,32.53,China,Asia
-190,University of Hamburg,32.5,Germany,Europe
-191,University of Ottawa,32.4,Canada,North America
-192,University of Pittsburgh,32.4,USA,North America
-193,Dartmouth College,32.35,USA,North America
-194,University of Houston,32.33,USA,North America
-195,University of Connecticut,32.31,USA,North America
-196,University of Oklahoma,32.25,USA,North America
-197,University of Oregon,32.22,USA,North America
-198,University of L'Aquila,32.22,Italy,Europe
-199,Seoul National University,32.2,South Korea,Asia
-200,University of Potsdam,32.1,Germany,Europe
-201,University of Hannover,32.05,Germany,Europe
-202,Univ. of California - Santa Cruz,32.03,USA,North America
-203,University of Crete,32.0,Greece,Europe
-204,University of Otago,31.92,New Zealand,Australia
-205,Université libre de Bruxelles,31.88,Belgium,Europe
-206,ETS Montreal,31.87,Canada,North America
-207,Peking University,31.84,China,Asia
-208,University of Massachusetts Amherst,31.75,USA,North America
-209,University of Waterloo,31.53,Canada,North America
-210,Lund University,31.36,Sweden,Europe
-211,Wuhan University,31.25,China,Asia
-212,University of Canterbury,31.18,New Zealand,Australia
-213,Paderborn University,31.18,Germany,Europe
-214,York University,31.16,Canada,North America
-215,Indiana University,31.15,USA,North America
-216,Oregon State University,31.15,USA,North America
-217,University of Memphis,31.12,USA,North America
-218,Zhejiang University,31.09,China,Asia
-219,University of Florida,31.06,USA,North America
-220,University of Ulm,31.0,Germany,Europe
-221,University of Central Florida,30.98,USA,North America
-222,University of Glasgow,30.89,UK,Europe
-223,Singapore Management University,30.88,Singapore,Asia
-224,University of Colorado Boulder,30.85,USA,North America
-225,Freie Universitaet Berlin,30.8,Germany,Europe
-226,University of York,30.78,UK,Europe
-227,University of Miami,30.71,USA,North America
-228,UCCS,30.71,USA,North America
-229,University of Nebraska,30.71,USA,North America
-230,University of Düsseldorf,30.69,Germany,Europe
-231,George Mason University,30.62,USA,North America
-232,University of Trier,30.6,Germany,Europe
-233,University of Kiel,30.6,Germany,Europe
-234,Monash University,30.57,Australia,Australia
-235,Northern Arizona University,30.55,USA,North America
-236,George Washington University,30.55,USA,North America
-237,University of Molise,30.5,Italy,Europe
-238,NTUA,30.5,Greece,Europe
-239,Aalto University,30.49,Finland,Europe
-240,TU Delft,30.45,Netherlands,Europe
-241,UNSW,30.39,Australia,Australia
-242,Kyoto University,30.37,Japan,Asia
-243,University of Duisburg-Essen,30.31,Germany,Europe
-244,North Carolina State University,30.3,USA,North America
-245,University of Southampton,30.24,UK,Europe
-246,University of Mainz,30.14,Germany,Europe
-247,Macquarie University,30.07,Australia,Australia
-248,KAIST,30.0,South Korea,Asia
-249,Radboud University,29.98,Netherlands,Europe
-250,Beihang University,29.94,China,Asia
-251,West Virginia University,29.9,USA,North America
-252,University of Bergen,29.85,Norway,Europe
-253,Osaka University,29.78,Japan,Asia
-254,NJIT,29.72,USA,North America
-255,Lehigh University,29.56,USA,North America
-256,University of Magdeburg,29.53,Germany,Europe
-257,IST Austria,29.48,Austria,Europe
-258,Université de Sherbrooke,29.45,Canada,North America
-259,University of Klagenfurt,29.38,Austria,Europe
-260,SUTD,29.36,Singapore,Asia
-261,Case Western Reserve University,29.36,USA,North America
-262,University of Nottingham,29.33,UK,Europe
-263,Brandenburg University of Technology,29.25,Germany,Europe
-264,University of Salzburg,29.14,Austria,Europe
-265,University of Regina,29.11,Canada,North America
-266,TU Eindhoven,29.1,Netherlands,Europe
-267,University of Technology Sydney,29.09,Australia,Australia
-268,Chalmers/GU,29.02,Sweden,Europe
-269,University of Warwick,29.0,UK,Europe
-270,Bocconi University,29.0,Italy,Europe
-271,TU Ilmenau,28.91,Germany,Europe
-272,Georgia State University,28.9,USA,North America
-273,College of William and Mary,28.88,USA,North America
-274,Sapienza University of Rome,28.72,Italy,Europe
-275,Polytechnique Montreal,28.67,Canada,North America
-276,University of New Mexico,28.64,USA,North America
-277,University of Victoria,28.61,Canada,North America
-278,University of Augsburg,28.33,Germany,Europe
-279,Brunel University London,28.31,UK,Europe
-280,Virginia Commonwealth University,28.31,USA,North America
-281,Florida State University,28.29,USA,North America
-282,Florida International University,28.27,USA,North America
-283,Florida Atlantic University,28.21,USA,North America
-284,University of Halle-Wittenberg,28.2,Germany,Europe
-285,Lancaster University,28.18,UK,Europe
-286,UNC - Charlotte,28.1,USA,North America
-287,University of Texas at San Antonio,28.05,USA,North America
-288,Ontario Tech University,28.0,Canada,North America
-289,University of Siegen,28.0,Germany,Europe
-290,University of Hawaii at Manoa,27.93,USA,North America
-291,University of Göttingen,27.8,Germany,Europe
-292,University of Illinois at Chicago,27.78,USA,North America
-293,University of Guelph,27.76,Canada,North America
-294,CISPA Helmholtz Center,27.7,Germany,Europe
-295,University of Leeds,27.7,UK,Europe
-296,Tampere University,27.54,Finland,Europe
-297,AUEB,27.52,Greece,Europe
-298,University of Münster,27.5,Germany,Europe
-299,University of Delaware,27.48,USA,North America
-300,University of Bayreuth,27.4,Germany,Europe
-301,University of Koblenz-Landau,27.36,Germany,Europe
-302,Worcester Polytechnic Institute,27.31,USA,North America
-303,PUC-RIO,27.3,Brazil,South America
-304,Cleveland State University,27.3,USA,North America
-305,KTH Royal Institute of Technology,27.26,Sweden,Europe
-306,Queensland University of Technology,27.24,Australia,Australia
-307,Australian National University,27.19,Australia,Oceania
-308,University of Birmingham,27.17,UK,Europe
-309,CUNY,27.14,USA,North America
-310,Tokyo Institute of Technology,27.14,Japan,Asia
-311,Koç University,27.12,Turkey,Asia
-312,Washington State University,27.1,USA,North America
-313,Binghamton University,27.08,USA,North America
-314,HUST,27.06,China,Asia
-315,Fudan University,27.02,China,Asia
-316,Illinois Institute of Technology,27.0,USA,North America
-317,Simmons University,27.0,USA,North America
-318,University of Twente,27.0,Netherlands,Europe
-319,POSTECH,27.0,South Korea,Asia
-320,Clemson University,26.97,USA,North America
-321,Colorado School of Mines,26.91,USA,North America
-322,University of Liverpool,26.88,UK,Europe
-323,Harbin Institute of Technology,26.83,China,Asia
-324,University of Rostock,26.79,Germany,Europe
-325,Birkbeck University of London,26.74,UK,Europe
-326,Syracuse University,26.73,USA,North America
-327,HSE University,26.62,Russia,Europe
-328,University of Sheffield,26.6,UK,Europe
-329,University of Georgia,26.48,USA,North America
-330,University of Oldenburg,26.44,Germany,Europe
-331,Louisiana State University,26.44,USA,North America
-332,UFMG,26.4,Brazil,South America
-333,Bilkent University,26.39,Turkey,Asia
-334,National Chiao Tung University,26.38,Taiwan,Asia
-335,Virginia Tech,26.37,USA,North America
-336,University of Auckland,26.36,New Zealand,Australia
-337,Tata Inst. of Fundamental Research,26.33,India,Asia
-338,University of North Texas,26.32,USA,North America
-339,Dalhousie University,26.31,Canada,North America
-340,Kansas State University,26.29,USA,North America
-341,Iowa State University,26.27,USA,North America
-342,University of Pisa,26.25,Italy,Europe
-343,University of South Carolina,26.23,USA,North America
-344,UESTC,26.22,China,Asia
-345,Wayne State University,26.2,USA,North America
-346,TU Clausthal,26.17,Germany,Europe
-347,Tufts University,26.17,USA,North America
-348,Uppsala University,26.15,Sweden,Europe
-349,Waseda University,26.11,Japan,Asia
-350,Polytechnic University of Catalonia,26.08,Spain,Europe
-351,University of Bath,26.04,UK,Europe
-352,University of New Brunswick,25.94,Canada,North America
-353,University of Lübeck,25.86,Germany,Europe
-354,King's College London,25.77,UK,Europe
-355,University of Bamberg,25.75,Germany,Europe
-356,University of Maine,25.75,USA,North America
-357,University of Aberdeen,25.73,UK,Europe
-358,Keio University,25.71,Japan,Asia
-359,University of Massachusetts Lowell,25.67,USA,North America
-360,Friedrich Schiller University Jena,25.67,Germany,Europe
-361,Xidian University,25.62,China,Asia
-362,IIT Bhubaneswar,25.5,India,Asia
-363,Jacobs University Bremen,25.5,Germany,Europe
-364,Brigham Young University,25.48,USA,North America
-365,National Tsing Hua University,25.45,Taiwan,Asia
-366,Brandeis University,25.45,USA,North America
-367,University of Tulsa,25.44,USA,North America
-368,Utrecht University,25.34,Netherlands,Europe
-369,Aarhus University,25.31,Denmark,Europe
-370,Concordia University,25.3,Canada,North America
-371,Universidad de Chile,25.27,Chile,South America
-372,University of Osnabrück,25.22,Germany,Europe
-373,Old Dominion University,25.15,USA,North America
-374,University College Dublin,25.15,Ireland,Europe
-375,University of Salerno,25.15,Italy,Europe
-376,Aalborg University,25.12,Denmark,Europe
-377,IIT Kanpur,25.07,India,Asia
-378,IMDEA Software Institute,25.06,Spain,Europe
-379,IMSc,25.0,India,Asia
-380,University of Louisville,25.0,USA,North America
-381,Florida Institute of Technology,25.0,USA,North America
-382,Hamburg University of Technology,25.0,Germany,Europe
-383,University of Alabama - Birmingham,25.0,USA,North America
-384,Western Michigan University,24.8,USA,North America
-385,IPM,24.67,Iran,Asia
-386,University of Sussex,24.65,UK,Europe
-387,University of Piraeus,24.65,Greece,Europe
-388,Cyprus University of Technology,24.64,Cyprus,Europe
-389,University of Cincinnati,24.54,USA,North America
-390,Tulane University,24.5,USA,North America
-391,University of Bristol,24.49,UK,Europe
-392,Ryerson University,24.45,Canada,North America
-393,City University of London,24.44,UK,Europe
-394,University of Ioannina,24.4,Greece,Europe
-395,Drexel University,24.37,USA,North America
-396,Bundeswehr University Munich,24.15,Germany,Europe
-397,University of Missouri - Kansas City,24.15,USA,North America
-398,Universidade de Lisboa,24.13,Portugal,Europe
-399,Aberystwyth University,24.0,UK,Europe
-400,Claremont Graduate University,24.0,USA,North America
-401,Korea University,23.94,South Korea,Asia
-402,University of Copenhagen,23.92,Denmark,Europe
-403,IIT Kharagpur,23.9,India,Asia
-404,Sabancı University,23.89,Turkey,Asia
-405,Auburn University,23.85,USA,North America
-406,Masdar Institute,23.82,UAE,Asia
-407,University of Kentucky,23.8,USA,North America
-408,SUSTech,23.79,China,Asia
-409,Queen's University Belfast,23.76,UK,Europe
-410,Boğaziçi University,23.69,Turkey,Europe
-411,PUC-RS,23.68,Brazil,South America
-412,NTNU,23.67,Norway,Europe
-413,University of Iowa,23.64,USA,North America
-414,Portland State University,23.56,USA,North America
-415,University of Dundee,23.55,UK,Europe
-416,Soochow University,23.5,China,Asia
-417,IIT Delhi,23.5,India,Asia
-418,National Cheng Kung University,23.45,Taiwan,Asia
-419,Nanjing University,23.44,China,Asia
-420,University of Wuppertal,23.29,Germany,Europe
-421,University of Szeged,23.18,Hungary,Europe
-422,The University of Alabama,23.17,USA,North America
-423,Shandong University,23.12,China,Asia
-424,University of Texas - El Paso,23.09,USA,North America
-425,IIT Bombay,23.0,India,Asia
-426,University of Nevada,22.95,USA,North America
-427,University of Haifa,22.94,Israel,Asia
-428,University of Exeter,22.92,UK,Europe
-429,RMIT University,22.9,Australia,Australia
-430,IIIT Hyderabad,22.88,India,Asia
-431,Kyung Hee University,22.83,South Korea,Asia
-432,USP-ICMC,22.82,Brazil,South America
-433,BUPT,22.81,China,Asia
-434,IIT Patna,22.79,India,Asia
-435,Ecole Normale Superieure de Lyon,22.76,France,Europe
-436,Xi'an Jiaotong University,22.67,China,Asia
-437,Yonsei University,22.64,South Korea,Asia
-438,IISc Bangalore,22.64,India,Asia
-439,Cardiff University,22.6,UK,Europe
-440,Qatar University,22.58,Qatar,Asia
-441,Tilburg University,22.54,Netherlands,Europe
-442,Rochester Institute of Technology,22.52,USA,North America
-443,University of Alabama - Huntsville,22.5,USA,North America
-444,Ecole Normale Superieure de Rennes,22.5,France,Europe
-445,UNICAMP,22.23,Brazil,South America
-446,Hunan University,22.21,China,Asia
-447,University of Vermont,22.2,USA,North America
-448,Mississippi State University,22.14,USA,North America
-449,University of Tartu,22.12,Estonia,Europe
-450,Open University UK,22.11,UK,Europe
-451,Özyeğin University,22.0,Turkey,Europe
-452,OHSU,22.0,USA,North America
-453,University of Tsukuba,21.94,Japan,Asia
-454,UFRGS,21.91,Brazil,South America
-455,IIT Guwahati,21.87,India,Asia
-456,Southern Methodist University,21.8,USA,North America
-457,University of Essex,21.78,UK,Europe
-458,IIT Indore,21.78,India,Asia
-459,McMaster University,21.71,Canada,North America
-460,Kyungpook National University,21.69,South Korea,Asia
-461,American University of Beirut,21.68,Lebanon,Asia
-462,Naval Postgraduate School,21.67,USA,North America
-463,IIT Gandhinagar,21.67,India,Asia
-464,USP,21.57,Brazil,South America
-465,IUPUI,21.5,USA,North America
-466,University of Malaya,21.5,Malaysia,Asia
-467,University of New Hampshire,21.44,USA,North America
-468,Université Laval,21.4,Canada,North America
-469,Masaryk University,21.35,Czech Republic,Europe
-470,Massey University,21.24,New Zealand,Australia
-471,University of St Andrews,21.2,UK,Europe
-472,University of Wyoming,21.0,USA,North America
-473,Texas Tech University,21.0,USA,North America
-474,Utah State University,21.0,USA,North America
-475,IIT (BHU) Varanasi,20.9,India,Asia
-476,University of Louisiana - Lafayette,20.86,USA,North America
-477,Stellenbosch University,20.71,South Africa,Africa
-478,University of Warsaw,20.65,Poland,Europe
-479,University of Arkansas,20.58,USA,North America
-480,TU Chemnitz,20.57,Germany,Europe
-481,IPI PAN,20.5,Poland,Europe
-482,DePaul University,20.38,USA,North America
-483,UFF,20.38,Brazil,South America
-484,University of Murcia,20.36,Spain,Europe
-485,UFPE,20.34,Brazil,South America
-486,Ohio University,20.33,USA,North America
-487,American University in Cairo,20.33,Egypt,Africa
-488,IIT Ropar,20.25,India,Asia
-489,UFRJ,20.23,Brazil,South America
-490,Universidade NOVA de Lisboa,20.15,Portugal,Europe
-491,University of Wisconsin - Milwaukee,20.12,USA,North America
-492,Heriot-Watt University,20.0,UK,Europe
-493,Kent State University,20.0,USA,North America
-494,DTU,20.0,Denmark,Europe
-495,Royal Holloway University of London,19.94,UK,Europe
-496,Texas State University,19.88,USA,North America
-497,Montana State University,19.86,USA,North America
-498,University of Buenos Aires,19.85,Argentina,South America
-499,Charles University,19.73,Czech Republic,Europe
-500,Universidade de Brasília,19.65,Brazil,South America
-501,Renmin University of China,19.54,China,Asia
-502,CRIStAL,19.53,France,Europe
-503,Durham University,19.43,UK,Europe
-504,Maastricht University,19.41,Netherlands,Europe
-505,Lebanese American University,19.33,Lebanon,Asia
-506,University of Denver,19.33,USA,North America
-507,Sharif University of Technology,19.03,Iran,Asia
-508,University of Mississippi,19.0,USA,North America
-509,IT University of Copenhagen,18.9,Denmark,Europe
-510,Oakland University,18.88,USA,North America
-511,Université Jean Monnet,18.77,France,Europe
-512,CMI,18.73,India,Asia
-513,Shenzhen University,18.67,China,Asia
-514,Boise State University,18.47,USA,North America
-515,University of Idaho,18.44,USA,North America
-516,Middlesex University,18.42,UK,Europe
-517,University at Albany - SUNY,18.36,USA,North America
-518,Universidad de Zaragoza,18.33,Spain,Europe
-519,IIT Jodhpur,18.15,India,Asia
-520,Tongji University,18.14,China,Asia
-521,Boston College,18.0,USA,North America
-522,Stevens Institute of Technology,18.0,USA,North America
-523,North Dakota State University,18.0,USA,North America
-524,Indiana State University,18.0,USA,North America
-525,University of Cape Town,18.0,South Africa,Africa
-526,University of Nevada Las Vegas,17.9,USA,North America
-527,IIT Madras,17.6,India,Asia
-528,Hanyang University,17.39,South Korea,Asia
-529,University of A Coruña,17.35,Spain,Europe
-530,University of Windsor,17.3,Canada,North America
-531,Memorial University of Newfoundland,17.29,Canada,North America
-532,IIIT Delhi,17.21,India,Asia
-533,IIIT Bangalore,17.14,India,Asia
-534,Istanbul Technical University,17.14,Turkey,Asia
-535,South Asian University,17.0,India,Asia
-536,IIT Roorkee,16.91,India,Asia
-537,Middle East Technical University,16.79,Turkey,Asia
-538,University of Arkansas - Little Rock,16.75,USA,North America
-539,Loughborough University,16.75,UK,Europe
-540,IIT Mandi,16.7,India,Asia
-541,New Mexico State University,16.65,USA,North America
-542,BITS Pilani,16.5,India,Asia
-543,University of Michigan-Dearborn,16.4,USA,North America
-544,Michigan Technological University,16.33,USA,North America
-545,University of Wroclaw,16.27,Poland,Europe
-546,IUST,16.24,Iran,Asia
-547,Nova Southeastern University,16.11,USA,North America
-548,Towson University,16.11,USA,North America
-549,Babeș-Bolyai University,16.0,Romania,Europe
-550,Ariel University,15.41,Israel,Asia
-551,Goldsmiths University of London,15.35,UK,Europe
-552,SUFE,15.29,China,Asia
-553,IIT Hyderabad,15.26,India,Asia
-554,University of New Orleans,15.25,USA,North America
-555,Wichita State University,15.15,USA,North America
-556,Yıldız Technical University,15.0,Turkey,Europe
-557,University of Nebraska - Omaha,15.0,USA,North America
-558,ShanghaiTech University,14.77,China,Asia
-559,New Mexico Tech,14.71,USA,North America
-560,Royal Military College of Canada,14.6,Canada,North America
-561,JUST,14.56,Jordan,Asia
-562,TOBB ETÜ,14.54,Turkey,Asia
-563,LUMS,14.46,Pakistan,Asia
-564,BUET,14.28,Bangladesh,Asia
-565,Hacettepe University,14.25,Turkey,Asia
-566,UFPR,14.09,Brazil,South America
-567,Ruhr-Universty Bochum,14.0,Germany,Europe
-568,Universidad de los Andes,13.95,Colombia,South America
-569,UNIST,13.76,South Korea,Asia
-570,University of Malta,13.73,Malta,Europe
-571,DAIICT,13.7,India,Asia
-572,Federal University of Rio Grande,13.25,Brazil,South America
-573,University of Nicosia,13.2,Cyprus,Europe
-574,TU Freiberg,13.0,Germany,Europe
-575,UFU,12.92,Brazil,South America
-576,Augusta University,12.58,USA,North America
-577,Louisiana Tech University,12.5,USA,North America
-578,Oklahoma State University,12.5,USA,North America
-579,Galatasaray University,12.38,Turkey,Europe
-580,Universidad Nacional de Córdoba,12.36,Argentina,South America
-581,UFMS,12.29,Brazil,South America
-582,KMUTNB,12.14,Thailand,Asia
-583,Missouri S&T,12.0,USA,North America
-584,Air Force Institute of Technology,12.0,USA,North America
-585,King Abdulaziz University,12.0,Saudi Arabia,Asia
-586,University of Colorado - Denver,11.5,USA,North America
-587,National Institute of Technology Silchar,11.25,India,Asia
-588,Universidade Federal de Viçosa,11.1,Brazil,South America
-589,LIU Post,11.0,USA,North America
-590,University of Jordan,10.76,Jordan,Asia
-591,Izmir Institute of Technology,10.18,Turkey,Asia
-592,BITS Pilani-Goa,9.59,India,Asia
-593,Chulalongkorn University,7.5,Thailand,Asia
-594,De La Salle University,6.16,Philippines,Asia
-595,IIT Goa,5.67,India,Asia
-596,Wichita State Unitveristy,3.0,USA,North America
+Ranking,Institution,Faculty Count,Average h-index,Country,Continent
+1,Westlake University,3,67.67,China,Asia
+2,Univ. of California - Berkeley,115,64.86,USA,North America
+3,California Institute of Technology,18,61.2,USA,North America
+4,Stanford University,72,60.65,USA,North America
+5,Weizmann Institute of Science,28,58.88,Israel,Asia
+6,Massachusetts Institute of Technology,116,58.0,USA,North America
+7,NYU Shanghai,3,57.33,China,Asia
+8,University of Freiburg,17,56.38,Germany,Europe
+9,Max Planck Society,42,56.15,Germany,Europe
+10,ETH Zurich,50,56.15,Switzerland,Europe
+11,Univ. of California - Los Angeles,47,55.8,USA,North America
+12,Harvard University,34,54.94,USA,North America
+13,Princeton University,45,53.45,USA,North America
+14,Columbia University,61,52.52,USA,North America
+15,Western University,22,51.86,Canada,North America
+16,The Hong Kong Polytechnic University,17,51.18,Hong Kong,Asia
+17,Hasso Plattner Institute,18,50.62,Germany,Europe
+18,Johns Hopkins University,35,50.53,USA,North America
+19,EPFL,70,50.23,Switzerland,Europe
+20,Carnegie Mellon University,185,48.79,USA,North America
+21,University of Pennsylvania,65,47.89,USA,North America
+22,University of Rochester,25,47.58,USA,North America
+23,LMU Munich,30,47.57,Germany,Europe
+24,University of Southern California,60,46.98,USA,North America
+25,NWPU,20,46.93,China,Asia
+26,TTI Chicago,13,46.92,USA,North America
+27,University of Bremen,20,46.62,Germany,Europe
+28,KAUST,22,46.33,Saudi Arabia,Asia
+29,HKUST,61,46.3,Hong Kong,Asia
+30,Nanyang Technological University,75,46.28,Singapore,Asia
+31,University of Bern,4,45.75,Switzerland,Europe
+32,University of Minnesota,47,45.73,USA,North America
+33,Univ. of Illinois at Urbana-Champaign,127,45.28,USA,North America
+34,University of Washington,80,45.08,USA,North America
+35,Queen’s University,31,45.05,Canada,North America
+36,University of Southern Mississippi,13,44.0,USA,North America
+37,Cornell University,87,43.91,USA,North America
+38,RWTH Aachen,34,43.82,Germany,Europe
+39,Univ. of California - San Diego,128,43.55,USA,North America
+40,University of Maryland - College Park,106,43.21,USA,North America
+41,TU Munich,61,43.12,Germany,Europe
+42,Chinese University of Hong Kong,46,43.0,Hong Kong,Asia
+43,University of Mannheim,10,43.0,Germany,Europe
+44,University of Stuttgart,35,42.75,Germany,Europe
+45,Università della Svizzera italiana,30,42.73,Switzerland,Europe
+46,Univ. of California - Santa Barbara,47,42.54,USA,North America
+47,University of Texas at Austin,58,42.38,USA,North America
+48,Yale University,36,41.62,USA,North America
+49,New York University,73,41.56,USA,North America
+50,University College London,91,41.35,UK,Europe
+51,Univ. of California - Irvine,81,41.35,USA,North America
+52,Michigan State University,38,41.26,USA,North America
+53,University of Oxford,77,41.23,UK,Europe
+54,TU Berlin,50,41.21,Germany,Europe
+55,University of Luxembourg,22,41.08,Luxembourg,Europe
+56,Georgia Institute of Technology,115,40.7,USA,North America
+57,University of Leipzig,16,40.17,Germany,Europe
+58,Rice University,33,40.16,USA,North America
+59,Vanderbilt University,48,40.12,USA,North America
+60,TU Darmstadt,31,39.96,Germany,Europe
+61,MBZUAI,22,39.85,UAE,Asia
+62,University of Hildesheim,3,39.67,Germany,Europe
+63,USTC,30,39.45,China,Asia
+64,Brown University,38,39.44,USA,North America
+65,Sun Yat-sen University,15,39.4,China,Asia
+66,University of Notre Dame,33,39.35,USA,North America
+67,Duke University,59,39.27,USA,North America
+68,Texas A&M at Qatar,12,39.25,Qatar,Asia
+69,Washington University in St. Louis,30,39.17,USA,North America
+70,Imperial College London,68,39.03,UK,Europe
+71,Pennsylvania State University,65,38.96,USA,North America
+72,Ecole Normale Superieure,32,38.96,France,Europe
+73,University of Michigan,103,38.95,USA,North America
+74,University of Zurich,18,38.93,Switzerland,Europe
+75,University of Amsterdam,26,38.88,Netherlands,Europe
+76,University of North Carolina,45,38.88,USA,North America
+77,University of Alberta,56,38.85,Canada,North America
+78,Tel Aviv University,51,38.83,Israel,Asia
+79,University of Konstanz,14,38.69,Germany,Europe
+80,Hebrew University of Jerusalem,49,38.67,Israel,Asia
+81,University of Tübingen,40,38.63,Germany,Europe
+82,University of Tennessee,45,38.62,USA,North America
+83,Karlsruhe Institute of Technology,34,38.6,Germany,Europe
+84,Ohio State University,42,38.5,USA,North America
+85,Stony Brook University,64,38.49,USA,North America
+86,Bielefeld University,13,38.22,Germany,Europe
+87,Saarland University,34,38.22,Germany,Europe
+88,University of Edinburgh,117,38.05,UK,Europe
+89,Simula UiB,2,38.0,Norway,Europe
+90,Georgetown University,22,38.0,USA,North America
+91,Univ. of Maryland - Baltimore County,34,37.81,USA,North America
+92,University of Trento,42,37.79,Italy,Europe
+93,Queen Mary University of London,36,37.77,UK,Europe
+94,University of Cambridge,54,37.65,UK,Europe
+95,Bauhaus University Weimar,9,37.5,Germany,Europe
+96,Univ. of California - Merced,22,37.5,USA,North America
+97,Northeastern University,86,37.46,USA,North America
+98,Hong Kong Baptist University,17,37.4,Hong Kong,Asia
+99,University of Toronto,107,37.18,Canada,North America
+100,CWI,32,37.13,Netherlands,Europe
+101,University of Chicago,51,37.1,USA,North America
+102,Rensselaer Polytechnic Institute,27,36.95,USA,North America
+103,University of Manchester,39,36.89,UK,Europe
+104,Bar-Ilan University,27,36.88,Israel,Asia
+105,TU Braunschweig,14,36.85,Germany,Europe
+106,Scuola Superiore Sant'Anna,5,36.8,Italy,Europe
+107,Univ. of California - Davis,51,36.8,USA,North America
+108,Tsinghua University,160,36.79,China,Asia
+109,Technion,101,36.74,Israel,Asia
+110,University of Marburg,9,36.67,Germany,Europe
+111,University of Montreal,47,36.58,Canada,North America
+112,University of Hong Kong,33,36.54,Hong Kong,Asia
+113,University of Bonn,23,36.47,Germany,Europe
+114,Ecole Normale Superieure de Cachan,25,36.22,France,Europe
+115,University of Utah,72,36.14,USA,North America
+116,Arizona State University,44,36.05,USA,North America
+117,Northwestern University,50,35.98,USA,North America
+118,Colorado State University,19,35.94,USA,North America
+119,University of British Columbia,65,35.92,Canada,North America
+120,University of Missouri,16,35.82,USA,North America
+121,University of Adelaide,34,35.8,Australia,Australia
+122,University of Innsbruck,16,35.71,Austria,Europe
+123,Univ. of California - Riverside,48,35.67,USA,North America
+124,Universidad Rey Juan Carlos,10,35.6,Spain,Europe
+125,TU Dortmund,21,35.58,Germany,Europe
+126,EURECOM,26,35.58,France,Europe
+127,University of South Florida,22,35.57,USA,North America
+128,Victoria University of Wellington,46,35.49,New Zealand,Australia
+129,University of Texas at Arlington,36,35.48,USA,North America
+130,University of Würzburg,19,35.46,Germany,Europe
+131,National University of Singapore,79,35.41,Singapore,Asia
+132,University of Kassel,12,35.33,Germany,Europe
+133,Temple University,21,35.33,USA,North America
+134,University of Virginia,42,35.32,USA,North America
+135,University of Wisconsin - Madison,75,35.23,USA,North America
+136,KU Leuven,49,35.19,Belgium,Europe
+137,University of Queensland,51,35.17,Australia,Australia
+138,University of Melbourne,68,35.11,Australia,Australia
+139,Graz University of Technology,56,35.04,Austria,Europe
+140,IMDEA Networks Institute,12,35.0,Spain,Europe
+141,Rutgers University,61,35.0,USA,North America
+142,City University of Hong Kong,44,34.92,Hong Kong,Asia
+143,University of Erlangen–Nuremberg,30,34.91,Germany,Europe
+144,University of Newcastle,5,34.8,Australia,Australia
+145,Brno University of Technology,8,34.8,Czech Republic,Europe
+146,University of Saskatchewan,24,34.76,Canada,North America
+147,University of Kansas,41,34.71,USA,North America
+148,University of Texas at Dallas,58,34.67,USA,North America
+149,University of Sydney,47,34.3,Australia,Australia
+150,TU Dresden,28,34.25,Germany,Europe
+151,University of Vienna,26,34.21,Austria,Europe
+152,Heidelberg University,26,34.21,Germany,Europe
+153,University of Manitoba,31,34.2,Canada,North America
+154,University of Tokyo,87,34.15,Japan,Asia
+155,University at Buffalo,52,34.13,USA,North America
+156,National Taiwan University,44,34.07,Taiwan,Asia
+157,University of Passau,14,33.67,Germany,Europe
+158,University of Helsinki,29,33.62,Finland,Europe
+159,Missouri University of Technology,10,33.6,USA,North America
+160,Simon Fraser University,60,33.54,Canada,North America
+161,Purdue University,87,33.54,USA,North America
+162,Emory University,20,33.53,USA,North America
+163,VU Amsterdam,55,33.52,Netherlands,Europe
+164,TU Wien,64,33.47,Austria,Europe
+165,University of Athens,37,33.41,Greece,Europe
+166,University of Groningen,12,33.27,Netherlands,Europe
+167,JKU Linz,35,33.24,Austria,Europe
+168,University of Massachusetts Boston,16,33.23,USA,North America
+169,Humboldt University of Berlin,20,33.13,Germany,Europe
+170,University of Arizona,26,33.12,USA,North America
+171,Carleton University,33,33.1,Canada,North America
+172,McGill University,31,33.07,Canada,North America
+173,Goethe University Frankfurt,25,33.06,Germany,Europe
+174,TU Kaiserslautern,27,33.0,Germany,Europe
+175,Qatar Computing Research Institute,16,33.0,Qatar,Asia
+176,University of Waikato,29,32.93,New Zealand,Australia
+177,Czech Technical University,27,32.93,Czech Republic,Europe
+178,Boston University,43,32.88,USA,North America
+179,University of Kent,48,32.86,UK,Europe
+180,University of Surrey,27,32.85,UK,Europe
+181,Texas A&M University,61,32.84,USA,North America
+182,University of Western Australia,17,32.69,Australia,Australia
+183,Ben-Gurion University of the Negev,18,32.67,Israel,Asia
+184,Ruhr-University Bochum,21,32.67,Germany,Europe
+185,University of Calgary,45,32.65,Canada,North America
+186,University of Sannio,14,32.62,Italy,Europe
+187,Chinese Academy of Sciences,76,32.59,China,Asia
+188,Politecnico di Milano,87,32.54,Italy,Europe
+189,Shanghai Jiao Tong University,97,32.53,China,Asia
+190,University of Hamburg,27,32.5,Germany,Europe
+191,University of Ottawa,46,32.4,Canada,North America
+192,University of Pittsburgh,50,32.4,USA,North America
+193,Dartmouth College,26,32.35,USA,North America
+194,University of Houston,31,32.33,USA,North America
+195,University of Connecticut,33,32.31,USA,North America
+196,University of Oklahoma,17,32.25,USA,North America
+197,University of Oregon,20,32.22,USA,North America
+198,University of L'Aquila,9,32.22,Italy,Europe
+199,Seoul National University,58,32.2,South Korea,Asia
+200,University of Potsdam,14,32.1,Germany,Europe
+201,University of Hannover,23,32.05,Germany,Europe
+202,Univ. of California - Santa Cruz,70,32.03,USA,North America
+203,University of Crete,25,32.0,Greece,Europe
+204,University of Otago,17,31.92,New Zealand,Australia
+205,Université libre de Bruxelles,18,31.88,Belgium,Europe
+206,ETS Montreal,15,31.87,Canada,North America
+207,Peking University,169,31.84,China,Asia
+208,University of Massachusetts Amherst,67,31.75,USA,North America
+209,University of Waterloo,107,31.53,Canada,North America
+210,Lund University,14,31.36,Sweden,Europe
+211,Wuhan University,20,31.25,China,Asia
+212,University of Canterbury,17,31.18,New Zealand,Australia
+213,Paderborn University,17,31.18,Germany,Europe
+214,York University,43,31.16,Canada,North America
+215,Indiana University,110,31.15,USA,North America
+216,Oregon State University,65,31.15,USA,North America
+217,University of Memphis,11,31.12,USA,North America
+218,Zhejiang University,108,31.09,China,Asia
+219,University of Florida,47,31.06,USA,North America
+220,University of Ulm,18,31.0,Germany,Europe
+221,University of Central Florida,66,30.98,USA,North America
+222,University of Glasgow,41,30.89,UK,Europe
+223,Singapore Management University,43,30.88,Singapore,Asia
+224,University of Colorado Boulder,79,30.85,USA,North America
+225,Freie Universitaet Berlin,7,30.8,Germany,Europe
+226,University of York,51,30.78,UK,Europe
+227,University of Miami,11,30.71,USA,North America
+228,UCCS,15,30.71,USA,North America
+229,University of Nebraska,28,30.71,USA,North America
+230,University of Düsseldorf,13,30.69,Germany,Europe
+231,George Mason University,64,30.62,USA,North America
+232,University of Trier,9,30.6,Germany,Europe
+233,University of Kiel,17,30.6,Germany,Europe
+234,Monash University,93,30.57,Australia,Australia
+235,Northern Arizona University,29,30.55,USA,North America
+236,George Washington University,19,30.55,USA,North America
+237,University of Molise,7,30.5,Italy,Europe
+238,NTUA,41,30.5,Greece,Europe
+239,Aalto University,50,30.49,Finland,Europe
+240,TU Delft,77,30.45,Netherlands,Europe
+241,UNSW,70,30.39,Australia,Australia
+242,Kyoto University,48,30.37,Japan,Asia
+243,University of Duisburg-Essen,17,30.31,Germany,Europe
+244,North Carolina State University,63,30.3,USA,North America
+245,University of Southampton,82,30.24,UK,Europe
+246,University of Mainz,9,30.14,Germany,Europe
+247,Macquarie University,30,30.07,Australia,Australia
+248,KAIST,110,30.0,South Korea,Asia
+249,Radboud University,58,29.98,Netherlands,Europe
+250,Beihang University,51,29.94,China,Asia
+251,West Virginia University,15,29.9,USA,North America
+252,University of Bergen,36,29.85,Norway,Europe
+253,Osaka University,32,29.78,Japan,Asia
+254,NJIT,37,29.72,USA,North America
+255,Lehigh University,21,29.56,USA,North America
+256,University of Magdeburg,21,29.53,Germany,Europe
+257,IST Austria,47,29.48,Austria,Europe
+258,Université de Sherbrooke,18,29.45,Canada,North America
+259,University of Klagenfurt,32,29.38,Austria,Europe
+260,SUTD,22,29.36,Singapore,Asia
+261,Case Western Reserve University,18,29.36,USA,North America
+262,University of Nottingham,47,29.33,UK,Europe
+263,Brandenburg University of Technology,13,29.25,Germany,Europe
+264,University of Salzburg,17,29.14,Austria,Europe
+265,University of Regina,15,29.11,Canada,North America
+266,TU Eindhoven,53,29.1,Netherlands,Europe
+267,University of Technology Sydney,55,29.09,Australia,Australia
+268,Chalmers/GU,102,29.02,Sweden,Europe
+269,University of Warwick,49,29.0,UK,Europe
+270,Bocconi University,6,29.0,Italy,Europe
+271,TU Ilmenau,15,28.91,Germany,Europe
+272,Georgia State University,22,28.9,USA,North America
+273,College of William and Mary,19,28.88,USA,North America
+274,Sapienza University of Rome,88,28.72,Italy,Europe
+275,Polytechnique Montreal,7,28.67,Canada,North America
+276,University of New Mexico,14,28.64,USA,North America
+277,University of Victoria,29,28.61,Canada,North America
+278,University of Augsburg,19,28.33,Germany,Europe
+279,Brunel University London,36,28.31,UK,Europe
+280,Virginia Commonwealth University,18,28.31,USA,North America
+281,Florida State University,27,28.29,USA,North America
+282,Florida International University,30,28.27,USA,North America
+283,Florida Atlantic University,28,28.21,USA,North America
+284,University of Halle-Wittenberg,9,28.2,Germany,Europe
+285,Lancaster University,47,28.18,UK,Europe
+286,UNC - Charlotte,19,28.1,USA,North America
+287,University of Texas at San Antonio,20,28.05,USA,North America
+288,Ontario Tech University,15,28.0,Canada,North America
+289,University of Siegen,13,28.0,Germany,Europe
+290,University of Hawaii at Manoa,22,27.93,USA,North America
+291,University of Göttingen,16,27.8,Germany,Europe
+292,University of Illinois at Chicago,59,27.78,USA,North America
+293,University of Guelph,30,27.76,Canada,North America
+294,CISPA Helmholtz Center,31,27.7,Germany,Europe
+295,University of Leeds,35,27.7,UK,Europe
+296,Tampere University,41,27.54,Finland,Europe
+297,AUEB,29,27.52,Greece,Europe
+298,University of Münster,23,27.5,Germany,Europe
+299,University of Delaware,31,27.48,USA,North America
+300,University of Bayreuth,13,27.4,Germany,Europe
+301,University of Koblenz-Landau,19,27.36,Germany,Europe
+302,Worcester Polytechnic Institute,46,27.31,USA,North America
+303,PUC-RIO,20,27.3,Brazil,South America
+304,Cleveland State University,18,27.3,USA,North America
+305,KTH Royal Institute of Technology,75,27.26,Sweden,Europe
+306,Queensland University of Technology,19,27.24,Australia,Australia
+307,Australian National University,64,27.19,Australia,Oceania
+308,University of Birmingham,46,27.17,UK,Europe
+309,CUNY,82,27.14,USA,North America
+310,Tokyo Institute of Technology,59,27.14,Japan,Asia
+311,Koç University,10,27.12,Turkey,Asia
+312,Washington State University,53,27.1,USA,North America
+313,Binghamton University,25,27.08,USA,North America
+314,HUST,27,27.06,China,Asia
+315,Fudan University,83,27.02,China,Asia
+316,Illinois Institute of Technology,24,27.0,USA,North America
+317,Simmons University,1,27.0,USA,North America
+318,University of Twente,1,27.0,Netherlands,Europe
+319,POSTECH,34,27.0,South Korea,Asia
+320,Clemson University,42,26.97,USA,North America
+321,Colorado School of Mines,12,26.91,USA,North America
+322,University of Liverpool,76,26.88,UK,Europe
+323,Harbin Institute of Technology,101,26.83,China,Asia
+324,University of Rostock,17,26.79,Germany,Europe
+325,Birkbeck University of London,29,26.74,UK,Europe
+326,Syracuse University,33,26.73,USA,North America
+327,HSE University,17,26.62,Russia,Europe
+328,University of Sheffield,53,26.6,UK,Europe
+329,University of Georgia,25,26.48,USA,North America
+330,University of Oldenburg,16,26.44,Germany,Europe
+331,Louisiana State University,16,26.44,USA,North America
+332,UFMG,60,26.4,Brazil,South America
+333,Bilkent University,18,26.39,Turkey,Asia
+334,National Chiao Tung University,68,26.38,Taiwan,Asia
+335,Virginia Tech,68,26.37,USA,North America
+336,University of Auckland,45,26.36,New Zealand,Australia
+337,Tata Inst. of Fundamental Research,14,26.33,India,Asia
+338,University of North Texas,27,26.32,USA,North America
+339,Dalhousie University,39,26.31,Canada,North America
+340,Kansas State University,17,26.29,USA,North America
+341,Iowa State University,36,26.27,USA,North America
+342,University of Pisa,64,26.25,Italy,Europe
+343,University of South Carolina,33,26.23,USA,North America
+344,UESTC,130,26.22,China,Asia
+345,Wayne State University,22,26.2,USA,North America
+346,TU Clausthal,9,26.17,Germany,Europe
+347,Tufts University,19,26.17,USA,North America
+348,Uppsala University,75,26.15,Sweden,Europe
+349,Waseda University,14,26.11,Japan,Asia
+350,Polytechnic University of Catalonia,61,26.08,Spain,Europe
+351,University of Bath,30,26.04,UK,Europe
+352,University of New Brunswick,21,25.94,Canada,North America
+353,University of Lübeck,27,25.86,Germany,Europe
+354,King's College London,51,25.77,UK,Europe
+355,University of Bamberg,16,25.75,Germany,Europe
+356,University of Maine,6,25.75,USA,North America
+357,University of Aberdeen,14,25.73,UK,Europe
+358,Keio University,17,25.71,Japan,Asia
+359,University of Massachusetts Lowell,38,25.67,USA,North America
+360,Friedrich Schiller University Jena,18,25.67,Germany,Europe
+361,Xidian University,61,25.62,China,Asia
+362,IIT Bhubaneswar,2,25.5,India,Asia
+363,Jacobs University Bremen,6,25.5,Germany,Europe
+364,Brigham Young University,30,25.48,USA,North America
+365,National Tsing Hua University,42,25.45,Taiwan,Asia
+366,Brandeis University,16,25.45,USA,North America
+367,University of Tulsa,11,25.44,USA,North America
+368,Utrecht University,47,25.34,Netherlands,Europe
+369,Aarhus University,42,25.31,Denmark,Europe
+370,Concordia University,45,25.3,Canada,North America
+371,Universidad de Chile,15,25.27,Chile,South America
+372,University of Osnabrück,12,25.22,Germany,Europe
+373,Old Dominion University,15,25.15,USA,North America
+374,University College Dublin,52,25.15,Ireland,Europe
+375,University of Salerno,70,25.15,Italy,Europe
+376,Aalborg University,43,25.12,Denmark,Europe
+377,IIT Kanpur,34,25.07,India,Asia
+378,IMDEA Software Institute,17,25.06,Spain,Europe
+379,IMSc,8,25.0,India,Asia
+380,University of Louisville,14,25.0,USA,North America
+381,Florida Institute of Technology,13,25.0,USA,North America
+382,Hamburg University of Technology,15,25.0,Germany,Europe
+383,University of Alabama - Birmingham,10,25.0,USA,North America
+384,Western Michigan University,13,24.8,USA,North America
+385,IPM,3,24.67,Iran,Asia
+386,University of Sussex,25,24.65,UK,Europe
+387,University of Piraeus,46,24.65,Greece,Europe
+388,Cyprus University of Technology,12,24.64,Cyprus,Europe
+389,University of Cincinnati,20,24.54,USA,North America
+390,Tulane University,10,24.5,USA,North America
+391,University of Bristol,47,24.49,UK,Europe
+392,Ryerson University,19,24.45,Canada,North America
+393,City University of London,39,24.44,UK,Europe
+394,University of Ioannina,26,24.4,Greece,Europe
+395,Drexel University,19,24.37,USA,North America
+396,Bundeswehr University Munich,21,24.15,Germany,Europe
+397,University of Missouri - Kansas City,17,24.15,USA,North America
+398,Universidade de Lisboa,160,24.13,Portugal,Europe
+399,Aberystwyth University,19,24.0,UK,Europe
+400,Claremont Graduate University,6,24.0,USA,North America
+401,Korea University,30,23.94,South Korea,Asia
+402,University of Copenhagen,68,23.92,Denmark,Europe
+403,IIT Kharagpur,44,23.9,India,Asia
+404,Sabancı University,11,23.89,Turkey,Asia
+405,Auburn University,17,23.85,USA,North America
+406,Masdar Institute,17,23.82,UAE,Asia
+407,University of Kentucky,29,23.8,USA,North America
+408,SUSTech,47,23.79,China,Asia
+409,Queen's University Belfast,54,23.76,UK,Europe
+410,Boğaziçi University,17,23.69,Turkey,Europe
+411,PUC-RS,22,23.68,Brazil,South America
+412,NTNU,37,23.67,Norway,Europe
+413,University of Iowa,25,23.64,USA,North America
+414,Portland State University,19,23.56,USA,North America
+415,University of Dundee,18,23.55,UK,Europe
+416,Soochow University,41,23.5,China,Asia
+417,IIT Delhi,31,23.5,India,Asia
+418,National Cheng Kung University,40,23.45,Taiwan,Asia
+419,Nanjing University,103,23.44,China,Asia
+420,University of Wuppertal,17,23.29,Germany,Europe
+421,University of Szeged,12,23.18,Hungary,Europe
+422,The University of Alabama,17,23.17,USA,North America
+423,Shandong University,33,23.12,China,Asia
+424,University of Texas - El Paso,13,23.09,USA,North America
+425,IIT Bombay,41,23.0,India,Asia
+426,University of Nevada,22,22.95,USA,North America
+427,University of Haifa,20,22.94,Israel,Asia
+428,University of Exeter,25,22.92,UK,Europe
+429,RMIT University,55,22.9,Australia,Australia
+430,IIIT Hyderabad,50,22.88,India,Asia
+431,Kyung Hee University,6,22.83,South Korea,Asia
+432,USP-ICMC,49,22.82,Brazil,South America
+433,BUPT,83,22.81,China,Asia
+434,IIT Patna,14,22.79,India,Asia
+435,Ecole Normale Superieure de Lyon,87,22.76,France,Europe
+436,Xi'an Jiaotong University,36,22.67,China,Asia
+437,Yonsei University,28,22.64,South Korea,Asia
+438,IISc Bangalore,39,22.64,India,Asia
+439,Cardiff University,58,22.6,UK,Europe
+440,Qatar University,30,22.58,Qatar,Asia
+441,Tilburg University,16,22.54,Netherlands,Europe
+442,Rochester Institute of Technology,99,22.52,USA,North America
+443,University of Alabama - Huntsville,13,22.5,USA,North America
+444,Ecole Normale Superieure de Rennes,5,22.5,France,Europe
+445,UNICAMP,43,22.23,Brazil,South America
+446,Hunan University,53,22.21,China,Asia
+447,University of Vermont,24,22.2,USA,North America
+448,Mississippi State University,14,22.14,USA,North America
+449,University of Tartu,39,22.12,Estonia,Europe
+450,Open University UK,42,22.11,UK,Europe
+451,Özyeğin University,13,22.0,Turkey,Europe
+452,OHSU,10,22.0,USA,North America
+453,University of Tsukuba,66,21.94,Japan,Asia
+454,UFRGS,63,21.91,Brazil,South America
+455,IIT Guwahati,28,21.87,India,Asia
+456,Southern Methodist University,10,21.8,USA,North America
+457,University of Essex,70,21.78,UK,Europe
+458,IIT Indore,10,21.78,India,Asia
+459,McMaster University,24,21.71,Canada,North America
+460,Kyungpook National University,33,21.69,South Korea,Asia
+461,American University of Beirut,23,21.68,Lebanon,Asia
+462,Naval Postgraduate School,23,21.67,USA,North America
+463,IIT Gandhinagar,11,21.67,India,Asia
+464,USP,36,21.57,Brazil,South America
+465,IUPUI,23,21.5,USA,North America
+466,University of Malaya,21,21.5,Malaysia,Asia
+467,University of New Hampshire,11,21.44,USA,North America
+468,Université Laval,23,21.4,Canada,North America
+469,Masaryk University,42,21.35,Czech Republic,Europe
+470,Massey University,43,21.24,New Zealand,Australia
+471,University of St Andrews,31,21.2,UK,Europe
+472,University of Wyoming,4,21.0,USA,North America
+473,Texas Tech University,15,21.0,USA,North America
+474,Utah State University,12,21.0,USA,North America
+475,IIT (BHU) Varanasi,13,20.9,India,Asia
+476,University of Louisiana - Lafayette,22,20.86,USA,North America
+477,Stellenbosch University,7,20.71,South Africa,Africa
+478,University of Warsaw,62,20.65,Poland,Europe
+479,University of Arkansas,19,20.58,USA,North America
+480,TU Chemnitz,14,20.57,Germany,Europe
+481,IPI PAN,24,20.5,Poland,Europe
+482,DePaul University,45,20.38,USA,North America
+483,UFF,35,20.38,Brazil,South America
+484,University of Murcia,34,20.36,Spain,Europe
+485,UFPE,30,20.34,Brazil,South America
+486,Ohio University,17,20.33,USA,North America
+487,American University in Cairo,9,20.33,Egypt,Africa
+488,IIT Ropar,12,20.25,India,Asia
+489,UFRJ,38,20.23,Brazil,South America
+490,Universidade NOVA de Lisboa,27,20.15,Portugal,Europe
+491,University of Wisconsin - Milwaukee,11,20.12,USA,North America
+492,Heriot-Watt University,43,20.0,UK,Europe
+493,Kent State University,24,20.0,USA,North America
+494,DTU,3,20.0,Denmark,Europe
+495,Royal Holloway University of London,41,19.94,UK,Europe
+496,Texas State University,21,19.88,USA,North America
+497,Montana State University,8,19.86,USA,North America
+498,University of Buenos Aires,33,19.85,Argentina,South America
+499,Charles University,29,19.73,Czech Republic,Europe
+500,Universidade de Brasília,17,19.65,Brazil,South America
+501,Renmin University of China,50,19.54,China,Asia
+502,CRIStAL,132,19.53,France,Europe
+503,Durham University,33,19.43,UK,Europe
+504,Maastricht University,27,19.41,Netherlands,Europe
+505,Lebanese American University,13,19.33,Lebanon,Asia
+506,University of Denver,7,19.33,USA,North America
+507,Sharif University of Technology,33,19.03,Iran,Asia
+508,University of Mississippi,4,19.0,USA,North America
+509,IT University of Copenhagen,85,18.9,Denmark,Europe
+510,Oakland University,13,18.88,USA,North America
+511,Université Jean Monnet,34,18.77,France,Europe
+512,CMI,12,18.73,India,Asia
+513,Shenzhen University,51,18.67,China,Asia
+514,Boise State University,20,18.47,USA,North America
+515,University of Idaho,13,18.44,USA,North America
+516,Middlesex University,44,18.42,UK,Europe
+517,University at Albany - SUNY,14,18.36,USA,North America
+518,Universidad de Zaragoza,7,18.33,Spain,Europe
+519,IIT Jodhpur,13,18.15,India,Asia
+520,Tongji University,23,18.14,China,Asia
+521,Boston College,14,18.0,USA,North America
+522,Stevens Institute of Technology,29,18.0,USA,North America
+523,North Dakota State University,5,18.0,USA,North America
+524,Indiana State University,4,18.0,USA,North America
+525,University of Cape Town,12,18.0,South Africa,Africa
+526,University of Nevada Las Vegas,14,17.9,USA,North America
+527,IIT Madras,31,17.6,India,Asia
+528,Hanyang University,26,17.39,South Korea,Asia
+529,University of A Coruña,81,17.35,Spain,Europe
+530,University of Windsor,19,17.3,Canada,North America
+531,Memorial University of Newfoundland,20,17.29,Canada,North America
+532,IIIT Delhi,39,17.21,India,Asia
+533,IIIT Bangalore,30,17.14,India,Asia
+534,Istanbul Technical University,25,17.14,Turkey,Asia
+535,South Asian University,7,17.0,India,Asia
+536,IIT Roorkee,13,16.91,India,Asia
+537,Middle East Technical University,30,16.79,Turkey,Asia
+538,University of Arkansas - Little Rock,7,16.75,USA,North America
+539,Loughborough University,23,16.75,UK,Europe
+540,IIT Mandi,14,16.7,India,Asia
+541,New Mexico State University,17,16.65,USA,North America
+542,BITS Pilani,22,16.5,India,Asia
+543,University of Michigan-Dearborn,12,16.4,USA,North America
+544,Michigan Technological University,15,16.33,USA,North America
+545,University of Wroclaw,31,16.27,Poland,Europe
+546,IUST,26,16.24,Iran,Asia
+547,Nova Southeastern University,20,16.11,USA,North America
+548,Towson University,24,16.11,USA,North America
+549,Babeș-Bolyai University,4,16.0,Romania,Europe
+550,Ariel University,18,15.41,Israel,Asia
+551,Goldsmiths University of London,39,15.35,UK,Europe
+552,SUFE,7,15.29,China,Asia
+553,IIT Hyderabad,23,15.26,India,Asia
+554,University of New Orleans,10,15.25,USA,North America
+555,Wichita State University,18,15.15,USA,North America
+556,Yıldız Technical University,22,15.0,Turkey,Europe
+557,University of Nebraska - Omaha,17,15.0,USA,North America
+558,ShanghaiTech University,43,14.77,China,Asia
+559,New Mexico Tech,7,14.71,USA,North America
+560,Royal Military College of Canada,10,14.6,Canada,North America
+561,JUST,22,14.56,Jordan,Asia
+562,TOBB ETÜ,13,14.54,Turkey,Asia
+563,LUMS,16,14.46,Pakistan,Asia
+564,BUET,21,14.28,Bangladesh,Asia
+565,Hacettepe University,28,14.25,Turkey,Asia
+566,UFPR,35,14.09,Brazil,South America
+567,Ruhr-Universty Bochum,1,14.0,Germany,Europe
+568,Universidad de los Andes,24,13.95,Colombia,South America
+569,UNIST,29,13.76,South Korea,Asia
+570,University of Malta,11,13.73,Malta,Europe
+571,DAIICT,27,13.7,India,Asia
+572,Federal University of Rio Grande,18,13.25,Brazil,South America
+573,University of Nicosia,15,13.2,Cyprus,Europe
+574,TU Freiberg,4,13.0,Germany,Europe
+575,UFU,31,12.92,Brazil,South America
+576,Augusta University,29,12.58,USA,North America
+577,Louisiana Tech University,4,12.5,USA,North America
+578,Oklahoma State University,17,12.5,USA,North America
+579,Galatasaray University,13,12.38,Turkey,Europe
+580,Universidad Nacional de Córdoba,23,12.36,Argentina,South America
+581,UFMS,11,12.29,Brazil,South America
+582,KMUTNB,11,12.14,Thailand,Asia
+583,Missouri S&T,5,12.0,USA,North America
+584,Air Force Institute of Technology,10,12.0,USA,North America
+585,King Abdulaziz University,37,12.0,Saudi Arabia,Asia
+586,University of Colorado - Denver,8,11.5,USA,North America
+587,National Institute of Technology Silchar,20,11.25,India,Asia
+588,Universidade Federal de Viçosa,13,11.1,Brazil,South America
+589,LIU Post,4,11.0,USA,North America
+590,University of Jordan,38,10.76,Jordan,Asia
+591,Izmir Institute of Technology,11,10.18,Turkey,Asia
+592,BITS Pilani-Goa,27,9.59,India,Asia
+593,Chulalongkorn University,16,7.5,Thailand,Asia
+594,De La Salle University,36,6.16,Philippines,Asia
+595,IIT Goa,9,5.67,India,Asia
+596,Wichita State Unitveristy,1,3.0,USA,North America

@@ -1,597 +1,597 @@
-Ranking,Institution,Total Citations,Country,Continent
-1,Univ. of California - Berkeley,3412088.0,USA,North America
-2,Carnegie Mellon University,2977857.0,USA,North America
-3,Massachusetts Institute of Technology,2728678.0,USA,North America
-4,Univ. of California - San Diego,2190653.0,USA,North America
-5,Stanford University,1959089.0,USA,North America
-6,Univ. of Illinois at Urbana-Champaign,1642744.0,USA,North America
-7,Columbia University,1505533.0,USA,North America
-8,Cornell University,1419189.0,USA,North America
-9,University of Edinburgh,1367369.0,UK,Europe
-10,Max Planck Society,1296688.0,Germany,Europe
-11,University of Maryland - College Park,1230308.0,USA,North America
-12,Georgia Institute of Technology,1124395.0,USA,North America
-13,University of Pennsylvania,1058493.0,USA,North America
-14,University of Toronto,1055695.0,Canada,North America
-15,University College London,1052402.0,UK,Europe
-16,EPFL,1045852.0,Switzerland,Europe
-17,Northeastern University,1041399.0,USA,North America
-18,Univ. of California - Los Angeles,1029429.0,USA,North America
-19,Princeton University,1022740.0,USA,North America
-20,University of Washington,1014503.0,USA,North America
-21,University of Montreal,1003163.0,Canada,North America
-22,University of Michigan,934734.0,USA,North America
-23,Nanyang Technological University,919080.0,Singapore,Asia
-24,KAIST,916797.0,South Korea,Asia
-25,HKUST,912535.0,Hong Kong,Asia
-26,New York University,886044.0,USA,North America
-27,ETH Zurich,882597.0,Switzerland,Europe
-28,Tsinghua University,850124.0,China,Asia
-29,Univ. of California - Irvine,828097.0,USA,North America
-30,University of Texas at Austin,805196.0,USA,North America
-31,Pennsylvania State University,800042.0,USA,North America
-32,University of Oxford,784715.0,UK,Europe
-33,Indiana University,760184.0,USA,North America
-34,University of Southern California,756369.0,USA,North America
-35,Harvard University,717786.0,USA,North America
-36,Purdue University,715094.0,USA,North America
-37,Technion,708329.0,Israel,Asia
-38,University of Minnesota,702944.0,USA,North America
-39,Johns Hopkins University,697994.0,USA,North America
-40,Imperial College London,697417.0,UK,Europe
-41,University of Wisconsin - Madison,673279.0,USA,North America
-42,Duke University,645356.0,USA,North America
-43,University of Waterloo,634228.0,Canada,North America
-44,Universidade de Lisboa,628434.0,Portugal,Europe
-45,Shanghai Jiao Tong University,627961.0,China,Asia
-46,University of Alberta,611642.0,Canada,North America
-47,University of Kansas,603823.0,USA,North America
-48,Peking University,603065.0,China,Asia
-49,Weizmann Institute of Science,592822.0,Israel,Asia
-50,University of Melbourne,592307.0,Australia,Australia
-51,TU Munich,577403.0,Germany,Europe
-52,National University of Singapore,572931.0,Singapore,Asia
-53,University of Waikato,572789.0,New Zealand,Australia
-54,University of Chicago,538696.0,USA,North America
-55,Michigan State University,534827.0,USA,North America
-56,Stony Brook University,533909.0,USA,North America
-57,University of Utah,532779.0,USA,North America
-58,CUNY,519697.0,USA,North America
-59,Monash University,511536.0,Australia,Australia
-60,University of Massachusetts Amherst,507820.0,USA,North America
-61,University of British Columbia,506378.0,Canada,North America
-62,Hebrew University of Jerusalem,502775.0,Israel,Asia
-63,Western University,497580.0,Canada,North America
-64,University of Cambridge,496531.0,UK,Europe
-65,TU Berlin,482730.0,Germany,Europe
-66,Chinese Academy of Sciences,480272.0,China,Asia
-67,Chinese University of Hong Kong,471493.0,Hong Kong,Asia
-68,Simon Fraser University,468347.0,Canada,North America
-69,University of Colorado Boulder,466085.0,USA,North America
-70,California Institute of Technology,454131.0,USA,North America
-71,Univ. of California - Davis,452889.0,USA,North America
-72,Univ. of California - Santa Barbara,452548.0,USA,North America
-73,University of Illinois at Chicago,446668.0,USA,North America
-74,Rutgers University,444934.0,USA,North America
-75,University of Sydney,442596.0,Australia,Australia
-76,Università della Svizzera italiana,432913.0,Switzerland,Europe
-77,TU Delft,431631.0,Netherlands,Europe
-78,Zhejiang University,426971.0,China,Asia
-79,University of North Carolina,423689.0,USA,North America
-80,Politecnico di Milano,419099.0,Italy,Europe
-81,University of Tennessee,419087.0,USA,North America
-82,Graz University of Technology,416489.0,Austria,Europe
-83,Brown University,415291.0,USA,North America
-84,University of Central Florida,414692.0,USA,North America
-85,Univ. of California - Santa Cruz,414197.0,USA,North America
-86,University of Southampton,412974.0,UK,Europe
-87,University of Kent,411006.0,UK,Europe
-88,VU Amsterdam,401915.0,Netherlands,Europe
-89,Victoria University of Wellington,396567.0,New Zealand,Australia
-90,University of Notre Dame,396232.0,USA,North America
-91,University at Buffalo,392470.0,USA,North America
-92,Tel Aviv University,390314.0,Israel,Asia
-93,University of Freiburg,388417.0,Germany,Europe
-94,Ecole Normale Superieure,387156.0,France,Europe
-95,University of Rochester,386869.0,USA,North America
-96,Yale University,379732.0,USA,North America
-97,Rochester Institute of Technology,376869.0,USA,North America
-98,University of Texas at Arlington,369263.0,USA,North America
-99,Vanderbilt University,367450.0,USA,North America
-100,University of Tokyo,363031.0,Japan,Asia
-101,University of Queensland,360569.0,Australia,Australia
-102,Univ. of California - Riverside,359919.0,USA,North America
-103,Texas A&M University,358623.0,USA,North America
-104,University of Manchester,357020.0,UK,Europe
-105,North Carolina State University,356367.0,USA,North America
-106,University of Tübingen,351139.0,Germany,Europe
-107,Boston University,347770.0,USA,North America
-108,Rice University,346540.0,USA,North America
-109,UNSW,344534.0,Australia,Australia
-110,LMU Munich,344118.0,Germany,Europe
-111,Washington University in St. Louis,341310.0,USA,North America
-112,Sapienza University of Rome,339270.0,Italy,Europe
-113,Oregon State University,337553.0,USA,North America
-114,Harbin Institute of Technology,337261.0,China,Asia
-115,Arizona State University,336878.0,USA,North America
-116,Australian National University,331857.0,Australia,Oceania
-117,George Mason University,329049.0,USA,North America
-118,KU Leuven,327914.0,Belgium,Europe
-119,TU Eindhoven,326459.0,Netherlands,Europe
-120,Seoul National University,321211.0,South Korea,Asia
-121,York University,321149.0,Canada,North America
-122,University of Virginia,317624.0,USA,North America
-123,University of Texas at Dallas,317418.0,USA,North America
-124,Northwestern University,317261.0,USA,North America
-125,RWTH Aachen,314955.0,Germany,Europe
-126,Fudan University,314572.0,China,Asia
-127,Nanjing University,313941.0,China,Asia
-128,National Taiwan University,308577.0,Taiwan,Asia
-129,University of Trento,306328.0,Italy,Europe
-130,KTH Royal Institute of Technology,305889.0,Sweden,Europe
-131,KAUST,305824.0,Saudi Arabia,Asia
-132,Karlsruhe Institute of Technology,304027.0,Germany,Europe
-133,CWI,301458.0,Netherlands,Europe
-134,Queen’s University,300467.0,Canada,North America
-135,Ohio State University,298467.0,USA,North America
-136,University of Pittsburgh,298284.0,USA,North America
-137,Virginia Tech,294647.0,USA,North America
-138,University of Amsterdam,293829.0,Netherlands,Europe
-139,University of Adelaide,292632.0,Australia,Australia
-140,University of Liverpool,290772.0,UK,Europe
-141,University of Copenhagen,286665.0,Denmark,Europe
-142,Georgetown University,284381.0,USA,North America
-143,University of York,283847.0,UK,Europe
-144,University of Manitoba,278679.0,Canada,North America
-145,Radboud University,277698.0,Netherlands,Europe
-146,The Hong Kong Polytechnic University,277244.0,Hong Kong,Asia
-147,University of Stuttgart,272147.0,Germany,Europe
-148,TU Wien,271862.0,Austria,Europe
-149,Queen Mary University of London,271206.0,UK,Europe
-150,SUSTech,270859.0,China,Asia
-151,UESTC,268072.0,China,Asia
-152,Univ. of Maryland - Baltimore County,265560.0,USA,North America
-153,City University of Hong Kong,264316.0,Hong Kong,Asia
-154,University of Warwick,262237.0,UK,Europe
-155,Uppsala University,258718.0,Sweden,Europe
-156,Aalto University,256294.0,Finland,Europe
-157,University of Ottawa,251877.0,Canada,North America
-158,JKU Linz,249652.0,Austria,Europe
-159,TU Darmstadt,241373.0,Germany,Europe
-160,Czech Technical University,241303.0,Czech Republic,Europe
-161,University of Arizona,240972.0,USA,North America
-162,University of Auckland,240846.0,New Zealand,Australia
-163,Xidian University,239975.0,China,Asia
-164,UFMG,239442.0,Brazil,South America
-165,NJIT,239257.0,USA,North America
-166,Singapore Management University,238702.0,Singapore,Asia
-167,IT University of Copenhagen,235930.0,Denmark,Europe
-168,Washington State University,229865.0,USA,North America
-169,Saarland University,229742.0,Germany,Europe
-170,University of Surrey,228878.0,UK,Europe
-171,King's College London,227996.0,UK,Europe
-172,University of Hong Kong,227526.0,Hong Kong,Asia
-173,IST Austria,224965.0,Austria,Europe
-174,Bar-Ilan University,224112.0,Israel,Asia
-175,University of Helsinki,222933.0,Finland,Europe
-176,University of Technology Sydney,222372.0,Australia,Australia
-177,USTC,222307.0,China,Asia
-178,MBZUAI,222259.0,UAE,Asia
-179,McGill University,220390.0,Canada,North America
-180,Lancaster University,216915.0,UK,Europe
-181,Tampere University,215456.0,Finland,Europe
-182,Univ. of California - Merced,214267.0,USA,North America
-183,University of Nottingham,212662.0,UK,Europe
-184,University of Sheffield,211882.0,UK,Europe
-185,TTI Chicago,210414.0,USA,North America
-186,University of Florida,208629.0,USA,North America
-187,University of South Florida,207867.0,USA,North America
-188,IIT Guwahati,206845.0,India,Asia
-189,University of Calgary,204392.0,Canada,North America
-190,Temple University,204053.0,USA,North America
-191,University of Essex,202726.0,UK,Europe
-192,University of Connecticut,202486.0,USA,North America
-193,CRIStAL,200595.0,France,Europe
-194,Soochow University,199232.0,China,Asia
-195,Polytechnic University of Catalonia,197408.0,Spain,Europe
-196,Worcester Polytechnic Institute,196815.0,USA,North America
-197,Rensselaer Polytechnic Institute,195902.0,USA,North America
-198,University of Bremen,195402.0,Germany,Europe
-199,Dartmouth College,192836.0,USA,North America
-200,University of Salerno,191933.0,Italy,Europe
-201,University of Birmingham,188547.0,UK,Europe
-202,University of Bristol,187908.0,UK,Europe
-203,Chalmers/GU,187386.0,Sweden,Europe
-204,EURECOM,184200.0,France,Europe
-205,University of Houston,182276.0,USA,North America
-206,Brunel University London,182131.0,UK,Europe
-207,University of Glasgow,181247.0,UK,Europe
-208,POSTECH,179570.0,South Korea,Asia
-209,National Chiao Tung University,176798.0,Taiwan,Asia
-210,Utrecht University,174400.0,Netherlands,Europe
-211,Carleton University,171430.0,Canada,North America
-212,Aarhus University,170314.0,Denmark,Europe
-213,NWPU,168642.0,China,Asia
-214,Kyoto University,168500.0,Japan,Asia
-215,Cardiff University,167399.0,UK,Europe
-216,University of Massachusetts Lowell,165860.0,USA,North America
-217,NTUA,165263.0,Greece,Europe
-218,University College Dublin,164752.0,Ireland,Europe
-219,Hasso Plattner Institute,164162.0,Germany,Europe
-220,University of Nebraska,163803.0,USA,North America
-221,University of Pisa,162059.0,Italy,Europe
-222,University of Vienna,161633.0,Austria,Europe
-223,Aalborg University,161301.0,Denmark,Europe
-224,Clemson University,161229.0,USA,North America
-225,Ecole Normale Superieure de Cachan,158644.0,France,Europe
-226,HSE University,157610.0,Russia,Europe
-227,University of Leipzig,156624.0,Germany,Europe
-228,Emory University,155623.0,USA,North America
-229,Ecole Normale Superieure de Lyon,150611.0,France,Europe
-230,IIIT Hyderabad,150363.0,India,Asia
-231,IIT Kanpur,148910.0,India,Asia
-232,Osaka University,147075.0,Japan,Asia
-233,University of Athens,146661.0,Greece,Europe
-234,Tokyo Institute of Technology,145572.0,Japan,Asia
-235,University of Erlangen–Nuremberg,145050.0,Germany,Europe
-236,BUPT,144277.0,China,Asia
-237,IISc Bangalore,143434.0,India,Asia
-238,University of Klagenfurt,142871.0,Austria,Europe
-239,Iowa State University,141787.0,USA,North America
-240,University of South Carolina,141048.0,USA,North America
-241,University of Delaware,140699.0,USA,North America
-242,Goethe University Frankfurt,140451.0,Germany,Europe
-243,RMIT University,138746.0,Australia,Australia
-244,Florida State University,138578.0,USA,North America
-245,Bilkent University,138142.0,Turkey,Asia
-246,CISPA Helmholtz Center,137968.0,Germany,Europe
-247,University of Crete,137848.0,Greece,Europe
-248,University of Piraeus,135795.0,Greece,Europe
-249,Macquarie University,133415.0,Australia,Australia
-250,SUTD,132922.0,Singapore,Asia
-251,AUEB,132776.0,Greece,Europe
-252,IIT Kharagpur,132772.0,India,Asia
-253,City University of London,132756.0,UK,Europe
-254,University of Bath,132291.0,UK,Europe
-255,Brigham Young University,130615.0,USA,North America
-256,University of Tsukuba,129562.0,Japan,Asia
-257,Dalhousie University,129399.0,Canada,North America
-258,University of Leeds,127133.0,UK,Europe
-259,Ruhr-University Bochum,126868.0,Germany,Europe
-260,IIT Bombay,126627.0,India,Asia
-261,Heidelberg University,126624.0,Germany,Europe
-262,University of Warsaw,126226.0,Poland,Europe
-263,Sun Yat-sen University,124789.0,China,Asia
-264,Drexel University,123739.0,USA,North America
-265,Colorado State University,123237.0,USA,North America
-266,UFRGS,123192.0,Brazil,South America
-267,University of Tartu,122739.0,Estonia,Europe
-268,Queen's University Belfast,122604.0,UK,Europe
-269,Northern Arizona University,122603.0,USA,North America
-270,UNICAMP,122493.0,Brazil,South America
-271,University of Luxembourg,122347.0,Luxembourg,Europe
-272,University of Zurich,121220.0,Switzerland,Europe
-273,University of Oregon,121162.0,USA,North America
-274,TU Dresden,119706.0,Germany,Europe
-275,USP-ICMC,118719.0,Brazil,South America
-276,University of Victoria,117666.0,Canada,North America
-277,Royal Holloway University of London,117421.0,UK,Europe
-278,University of Saskatchewan,116857.0,Canada,North America
-279,University of Konstanz,116662.0,Germany,Europe
-280,Syracuse University,115634.0,USA,North America
-281,University of Hannover,115548.0,Germany,Europe
-282,Binghamton University,115385.0,USA,North America
-283,TU Kaiserslautern,110709.0,Germany,Europe
-284,Hong Kong Baptist University,110209.0,Hong Kong,Asia
-285,University of Bonn,110043.0,Germany,Europe
-286,University of Oklahoma,106917.0,USA,North America
-287,Florida International University,106148.0,USA,North America
-288,University of Hamburg,105777.0,Germany,Europe
-289,Hunan University,105286.0,China,Asia
-290,Open University UK,105156.0,UK,Europe
-291,University of Texas at San Antonio,104598.0,USA,North America
-292,University of A Coruña,103811.0,Spain,Europe
-293,Xi'an Jiaotong University,103392.0,China,Asia
-294,Concordia University,102979.0,Canada,North America
-295,University of Otago,102007.0,New Zealand,Australia
-296,University of Bergen,100836.0,Norway,Europe
-297,Shenzhen University,99687.0,China,Asia
-298,Illinois Institute of Technology,98532.0,USA,North America
-299,Tufts University,97773.0,USA,North America
-300,University of Innsbruck,97679.0,Austria,Europe
-301,UCCS,97521.0,USA,North America
-302,Georgia State University,95839.0,USA,North America
-303,University of Georgia,95282.0,USA,North America
-304,University of Western Australia,94582.0,Australia,Australia
-305,University of Mannheim,92767.0,Germany,Europe
-306,Texas A&M at Qatar,92753.0,Qatar,Asia
-307,Heriot-Watt University,92692.0,UK,Europe
-308,University of Massachusetts Boston,92449.0,USA,North America
-309,Lund University,92388.0,Sweden,Europe
-310,Birkbeck University of London,91734.0,UK,Europe
-311,NTNU,91641.0,Norway,Europe
-312,Humboldt University of Berlin,90926.0,Germany,Europe
-313,University of Lübeck,90865.0,Germany,Europe
-314,Kyungpook National University,89964.0,South Korea,Asia
-315,Wayne State University,89745.0,USA,North America
-316,Masaryk University,89716.0,Czech Republic,Europe
-317,University of Hawaii at Manoa,89677.0,USA,North America
-318,University of Guelph,89237.0,Canada,North America
-319,Lehigh University,88959.0,USA,North America
-320,University of New Brunswick,88672.0,Canada,North America
-321,HUST,88334.0,China,Asia
-322,Ben-Gurion University of the Negev,88334.0,Israel,Asia
-323,University of Würzburg,88243.0,Germany,Europe
-324,Wuhan University,87364.0,China,Asia
-325,Université libre de Bruxelles,86717.0,Belgium,Europe
-326,University of Ulm,86310.0,Germany,Europe
-327,University of Ioannina,86258.0,Greece,Europe
-328,Florida Atlantic University,86167.0,USA,North America
-329,Queensland University of Technology,85910.0,Australia,Australia
-330,Renmin University of China,85026.0,China,Asia
-331,Missouri University of Technology,84879.0,USA,North America
-332,Paderborn University,84391.0,Germany,Europe
-333,Qatar Computing Research Institute,83076.0,Qatar,Asia
-334,University of Missouri,82916.0,USA,North America
-335,Colorado School of Mines,82038.0,USA,North America
-336,Beihang University,80860.0,China,Asia
-337,IIIT Delhi,80802.0,India,Asia
-338,TU Braunschweig,80726.0,Germany,Europe
-339,College of William and Mary,80725.0,USA,North America
-340,University of Kentucky,80016.0,USA,North America
-341,DePaul University,79096.0,USA,North America
-342,University of Iowa,78320.0,USA,North America
-343,Case Western Reserve University,77809.0,USA,North America
-344,ETS Montreal,77467.0,Canada,North America
-345,IMDEA Networks Institute,77385.0,Spain,Europe
-346,University of North Texas,77334.0,USA,North America
-347,University of Münster,76337.0,Germany,Europe
-348,National Tsing Hua University,76074.0,Taiwan,Asia
-349,University of Magdeburg,76064.0,Germany,Europe
-350,Yonsei University,75904.0,South Korea,Asia
-351,PUC-RIO,75552.0,Brazil,South America
-352,Massey University,72422.0,New Zealand,Australia
-353,IIT Delhi,71973.0,India,Asia
-354,Qatar University,71971.0,Qatar,Asia
-355,Westlake University,70226.0,China,Asia
-356,University of New Mexico,69708.0,USA,North America
-357,Maastricht University,69637.0,Netherlands,Europe
-358,University of Sussex,69617.0,UK,Europe
-359,University of Düsseldorf,69602.0,Germany,Europe
-360,University of Exeter,69587.0,UK,Europe
-361,Virginia Commonwealth University,68760.0,USA,North America
-362,University of Passau,68403.0,Germany,Europe
-363,University of Sannio,68099.0,Italy,Europe
-364,Bielefeld University,67808.0,Germany,Europe
-365,PUC-RS,67611.0,Brazil,South America
-366,University of Wroclaw,67501.0,Poland,Europe
-367,Naval Postgraduate School,67367.0,USA,North America
-368,University of Kiel,67100.0,Germany,Europe
-369,University of Vermont,66774.0,USA,North America
-370,USP,66357.0,Brazil,South America
-371,UFRJ,66307.0,Brazil,South America
-372,TU Dortmund,65984.0,Germany,Europe
-373,University of Duisburg-Essen,64581.0,Germany,Europe
-374,UFF,63577.0,Brazil,South America
-375,NYU Shanghai,63156.0,China,Asia
-376,UFPE,62560.0,Brazil,South America
-377,George Washington University,62176.0,USA,North America
-378,National Cheng Kung University,62072.0,Taiwan,Asia
-379,IIT Patna,61897.0,India,Asia
-380,Durham University,61844.0,UK,Europe
-381,University of Canterbury,60373.0,New Zealand,Australia
-382,University of Augsburg,59577.0,Germany,Europe
-383,University of Murcia,59365.0,Spain,Europe
-384,Boise State University,59014.0,USA,North America
-385,Cleveland State University,58583.0,USA,North America
-386,Masdar Institute,57532.0,UAE,Asia
-387,Stevens Institute of Technology,57217.0,USA,North America
-388,University of Cincinnati,56931.0,USA,North America
-389,IUPUI,56924.0,USA,North America
-390,University of Groningen,56257.0,Netherlands,Europe
-391,Auburn University,56143.0,USA,North America
-392,Sharif University of Technology,55479.0,Iran,Asia
-393,University of Louisiana - Lafayette,55349.0,USA,North America
-394,Universidade NOVA de Lisboa,55326.0,Portugal,Europe
-395,IIT Hyderabad,55144.0,India,Asia
-396,Brandeis University,54379.0,USA,North America
-397,Hacettepe University,54279.0,Turkey,Asia
-398,University of Regina,54207.0,Canada,North America
-399,West Virginia University,54198.0,USA,North America
-400,IPI PAN,53656.0,Poland,Europe
-401,ShanghaiTech University,53631.0,China,Asia
-402,University of Malaya,53035.0,Malaysia,Asia
-403,University of Rostock,53033.0,Germany,Europe
-404,Keio University,52470.0,Japan,Asia
-405,University of Potsdam,52137.0,Germany,Europe
-406,Université de Sherbrooke,51935.0,Canada,North America
-407,Tata Inst. of Fundamental Research,51636.0,India,Asia
-408,Ontario Tech University,51578.0,Canada,North America
-409,Korea University,51167.0,South Korea,Asia
-410,University of Nevada,51074.0,USA,North America
-411,UNC - Charlotte,50373.0,USA,North America
-412,Charles University,50206.0,Czech Republic,Europe
-413,American University of Beirut,50000.0,Lebanon,Asia
-414,Université Jean Monnet,49810.0,France,Europe
-415,University of Göttingen,49497.0,Germany,Europe
-416,Kansas State University,49490.0,USA,North America
-417,University of Memphis,49092.0,USA,North America
-418,IIT Madras,48796.0,India,Asia
-419,University of St Andrews,48557.0,UK,Europe
-420,Universidad Rey Juan Carlos,48511.0,Spain,Europe
-421,Aberystwyth University,48483.0,UK,Europe
-422,Brno University of Technology,47794.0,Czech Republic,Europe
-423,McMaster University,47128.0,Canada,North America
-424,Boğaziçi University,47049.0,Turkey,Europe
-425,Shandong University,46975.0,China,Asia
-426,DAIICT,46940.0,India,Asia
-427,University of Marburg,46591.0,Germany,Europe
-428,IIT (BHU) Varanasi,45946.0,India,Asia
-429,Louisiana State University,45550.0,USA,North America
-430,IMDEA Software Institute,45468.0,Spain,Europe
-431,Universidad de Chile,45245.0,Chile,South America
-432,Hanyang University,44597.0,South Korea,Asia
-433,UNIST,44392.0,South Korea,Asia
-434,Middle East Technical University,44232.0,Turkey,Asia
-435,University of Missouri - Kansas City,44202.0,USA,North America
-436,Old Dominion University,44085.0,USA,North America
-437,University of Buenos Aires,44032.0,Argentina,South America
-438,IIIT Bangalore,43596.0,India,Asia
-439,Özyeğin University,43430.0,Turkey,Europe
-440,Université Laval,42619.0,Canada,North America
-441,University of Texas - El Paso,42379.0,USA,North America
-442,TU Ilmenau,42267.0,Germany,Europe
-443,Middlesex University,42239.0,UK,Europe
-444,University of Michigan-Dearborn,42226.0,USA,North America
-445,University of Dundee,41288.0,UK,Europe
-446,New Mexico State University,40659.0,USA,North America
-447,UFPR,40570.0,Brazil,South America
-448,University of Haifa,40348.0,Israel,Asia
-449,University of Koblenz-Landau,40131.0,Germany,Europe
-450,University of Aberdeen,39652.0,UK,Europe
-451,Florida Institute of Technology,39546.0,USA,North America
-452,University of Bern,39057.0,Switzerland,Europe
-453,University of Kassel,38704.0,Germany,Europe
-454,University of L'Aquila,38380.0,Italy,Europe
-455,University of Siegen,38230.0,Germany,Europe
-456,Bundeswehr University Munich,38229.0,Germany,Europe
-457,University of Szeged,37820.0,Hungary,Europe
-458,University of Miami,37160.0,USA,North America
-459,Scuola Superiore Sant'Anna,37098.0,Italy,Europe
-460,University of Bamberg,37031.0,Germany,Europe
-461,Texas State University,36787.0,USA,North America
-462,Tilburg University,36700.0,Netherlands,Europe
-463,University of Louisville,36585.0,USA,North America
-464,Cyprus University of Technology,36512.0,Cyprus,Europe
-465,Ryerson University,36188.0,Canada,North America
-466,University of New Hampshire,35898.0,USA,North America
-467,Waseda University,35730.0,Japan,Asia
-468,IIT Gandhinagar,35516.0,India,Asia
-469,Istanbul Technical University,35370.0,Turkey,Asia
-470,Lebanese American University,33748.0,Lebanon,Asia
-471,BITS Pilani,33616.0,India,Asia
-472,University of Wuppertal,32738.0,Germany,Europe
-473,University of Bayreuth,32711.0,Germany,Europe
-474,Kent State University,32410.0,USA,North America
-475,Goldsmiths University of London,32382.0,UK,Europe
-476,Koç University,31710.0,Turkey,Asia
-477,Tulane University,31570.0,USA,North America
-478,University of Newcastle,30878.0,Australia,Australia
-479,Bocconi University,30566.0,Italy,Europe
-480,Portland State University,30247.0,USA,North America
-481,University of Tulsa,29338.0,USA,North America
-482,University of Mainz,29323.0,Germany,Europe
-483,Brandenburg University of Technology,29261.0,Germany,Europe
-484,TOBB ETÜ,29112.0,Turkey,Asia
-485,University of Oldenburg,28866.0,Germany,Europe
-486,Utah State University,28684.0,USA,North America
-487,University of Hildesheim,28504.0,Germany,Europe
-488,Western Michigan University,28293.0,USA,North America
-489,IIT Jodhpur,28222.0,India,Asia
-490,Loughborough University,28030.0,UK,Europe
-491,Universidade de Brasília,27908.0,Brazil,South America
-492,University of Osnabrück,27881.0,Germany,Europe
-493,Polytechnique Montreal,27544.0,Canada,North America
-494,Augusta University,27068.0,USA,North America
-495,Freie Universitaet Berlin,27038.0,Germany,Europe
-496,Kyung Hee University,27037.0,South Korea,Asia
-497,Friedrich Schiller University Jena,27009.0,Germany,Europe
-498,IIT Mandi,26377.0,India,Asia
-499,IUST,26169.0,Iran,Asia
-500,University of Wyoming,25331.0,USA,North America
-501,University of Salzburg,25237.0,Austria,Europe
-502,JUST,25172.0,Jordan,Asia
-503,University of Arkansas,24833.0,USA,North America
-504,CMI,24819.0,India,Asia
-505,University of Molise,23793.0,Italy,Europe
-506,Jacobs University Bremen,22799.0,Germany,Europe
-507,Sabancı University,22666.0,Turkey,Asia
-508,IIT Roorkee,22498.0,India,Asia
-509,Memorial University of Newfoundland,22465.0,Canada,North America
-510,BUET,21904.0,Bangladesh,Asia
-511,Texas Tech University,21818.0,USA,North America
-512,Nova Southeastern University,21272.0,USA,North America
-513,University of Trier,21077.0,Germany,Europe
-514,Universidad de los Andes,21030.0,Colombia,South America
-515,Hamburg University of Technology,20996.0,Germany,Europe
-516,OHSU,20627.0,USA,North America
-517,Tongji University,20167.0,China,Asia
-518,University at Albany - SUNY,19946.0,USA,North America
-519,Boston College,19719.0,USA,North America
-520,TU Clausthal,19443.0,Germany,Europe
-521,University of Alabama - Birmingham,19339.0,USA,North America
-522,IIT Ropar,19290.0,India,Asia
-523,IIT Indore,19240.0,India,Asia
-524,Universidad Nacional de Córdoba,18996.0,Argentina,South America
-525,University of Jordan,18960.0,Jordan,Asia
-526,Federal University of Rio Grande,18603.0,Brazil,South America
-527,Ariel University,18288.0,Israel,Asia
-528,King Abdulaziz University,18253.0,Saudi Arabia,Asia
-529,UFU,17890.0,Brazil,South America
-530,University of Halle-Wittenberg,17581.0,Germany,Europe
-531,Stellenbosch University,17201.0,South Africa,Africa
-532,Yıldız Technical University,16848.0,Turkey,Europe
-533,Michigan Technological University,16824.0,USA,North America
-534,The University of Alabama,16733.0,USA,North America
-535,National Institute of Technology Silchar,16720.0,India,Asia
-536,University of Nevada Las Vegas,16622.0,USA,North America
-537,Oakland University,16137.0,USA,North America
-538,University of Cape Town,15470.0,South Africa,Africa
-539,Wichita State University,15455.0,USA,North America
-540,University of Nicosia,15351.0,Cyprus,Europe
-541,Mississippi State University,15245.0,USA,North America
-542,Southern Methodist University,14882.0,USA,North America
-543,BITS Pilani-Goa,14762.0,India,Asia
-544,LUMS,14570.0,Pakistan,Asia
-545,University of Windsor,14487.0,Canada,North America
-546,Claremont Graduate University,14232.0,USA,North America
-547,American University in Cairo,13931.0,Egypt,Africa
-548,University of Wisconsin - Milwaukee,13874.0,USA,North America
-549,University of Idaho,13697.0,USA,North America
-550,Ohio University,13603.0,USA,North America
-551,IMSc,13465.0,India,Asia
-552,TU Chemnitz,13348.0,Germany,Europe
-553,Bauhaus University Weimar,13080.0,Germany,Europe
-554,Montana State University,12835.0,USA,North America
-555,University of Maine,12398.0,USA,North America
-556,Universidad de Zaragoza,11420.0,Spain,Europe
-557,South Asian University,10992.0,India,Asia
-558,University of Malta,10829.0,Malta,Europe
-559,University of Alabama - Huntsville,10417.0,USA,North America
-560,University of Nebraska - Omaha,10290.0,USA,North America
-561,Towson University,10002.0,USA,North America
-562,Izmir Institute of Technology,9911.0,Turkey,Asia
-563,Galatasaray University,9823.0,Turkey,Europe
-564,University of New Orleans,9755.0,USA,North America
-565,University of Southern Mississippi,8500.0,USA,North America
-566,IPM,8161.0,Iran,Asia
-567,UFMS,7974.0,Brazil,South America
-568,University of Denver,7903.0,USA,North America
-569,Ecole Normale Superieure de Rennes,7655.0,France,Europe
-570,SUFE,6841.0,China,Asia
-571,New Mexico Tech,6525.0,USA,North America
-572,De La Salle University,6514.0,Philippines,Asia
-573,IIT Bhubaneswar,6357.0,India,Asia
-574,Universidade Federal de Viçosa,6342.0,Brazil,South America
-575,KMUTNB,5679.0,Thailand,Asia
-576,DTU,5362.0,Denmark,Europe
-577,Simula UiB,5338.0,Norway,Europe
-578,University of Arkansas - Little Rock,4387.0,USA,North America
-579,Oklahoma State University,4253.0,USA,North America
-580,Babeș-Bolyai University,4206.0,Romania,Europe
-581,Missouri S&T,3997.0,USA,North America
-582,University of Mississippi,3832.0,USA,North America
-583,Royal Military College of Canada,3688.0,Canada,North America
-584,Simmons University,2879.0,USA,North America
-585,University of Twente,2800.0,Netherlands,Europe
-586,Air Force Institute of Technology,2566.0,USA,North America
-587,North Dakota State University,2337.0,USA,North America
-588,Louisiana Tech University,2158.0,USA,North America
-589,IIT Goa,1122.0,India,Asia
-590,Indiana State University,1049.0,USA,North America
-591,University of Colorado - Denver,1014.0,USA,North America
-592,Chulalongkorn University,912.0,Thailand,Asia
-593,Ruhr-Universty Bochum,868.0,Germany,Europe
-594,TU Freiberg,639.0,Germany,Europe
-595,LIU Post,421.0,USA,North America
-596,Wichita State Unitveristy,31.0,USA,North America
+Ranking,Institution,Faculty Count,Total Citations,Country,Continent
+1,Univ. of California - Berkeley,115,3412088.0,USA,North America
+2,Carnegie Mellon University,185,2977857.0,USA,North America
+3,Massachusetts Institute of Technology,116,2728678.0,USA,North America
+4,Univ. of California - San Diego,128,2190653.0,USA,North America
+5,Stanford University,72,1959089.0,USA,North America
+6,Univ. of Illinois at Urbana-Champaign,127,1642744.0,USA,North America
+7,Columbia University,61,1505533.0,USA,North America
+8,Cornell University,87,1419189.0,USA,North America
+9,University of Edinburgh,117,1367369.0,UK,Europe
+10,Max Planck Society,42,1296688.0,Germany,Europe
+11,University of Maryland - College Park,106,1230308.0,USA,North America
+12,Georgia Institute of Technology,115,1124395.0,USA,North America
+13,University of Pennsylvania,65,1058493.0,USA,North America
+14,University of Toronto,107,1055695.0,Canada,North America
+15,University College London,91,1052402.0,UK,Europe
+16,EPFL,70,1045852.0,Switzerland,Europe
+17,Northeastern University,86,1041399.0,USA,North America
+18,Univ. of California - Los Angeles,47,1029429.0,USA,North America
+19,Princeton University,45,1022740.0,USA,North America
+20,University of Washington,80,1014503.0,USA,North America
+21,University of Montreal,47,1003163.0,Canada,North America
+22,University of Michigan,103,934734.0,USA,North America
+23,Nanyang Technological University,75,919080.0,Singapore,Asia
+24,KAIST,110,916797.0,South Korea,Asia
+25,HKUST,61,912535.0,Hong Kong,Asia
+26,New York University,73,886044.0,USA,North America
+27,ETH Zurich,50,882597.0,Switzerland,Europe
+28,Tsinghua University,160,850124.0,China,Asia
+29,Univ. of California - Irvine,81,828097.0,USA,North America
+30,University of Texas at Austin,58,805196.0,USA,North America
+31,Pennsylvania State University,65,800042.0,USA,North America
+32,University of Oxford,77,784715.0,UK,Europe
+33,Indiana University,110,760184.0,USA,North America
+34,University of Southern California,60,756369.0,USA,North America
+35,Harvard University,34,717786.0,USA,North America
+36,Purdue University,87,715094.0,USA,North America
+37,Technion,101,708329.0,Israel,Asia
+38,University of Minnesota,47,702944.0,USA,North America
+39,Johns Hopkins University,35,697994.0,USA,North America
+40,Imperial College London,68,697417.0,UK,Europe
+41,University of Wisconsin - Madison,75,673279.0,USA,North America
+42,Duke University,59,645356.0,USA,North America
+43,University of Waterloo,107,634228.0,Canada,North America
+44,Universidade de Lisboa,160,628434.0,Portugal,Europe
+45,Shanghai Jiao Tong University,97,627961.0,China,Asia
+46,University of Alberta,56,611642.0,Canada,North America
+47,University of Kansas,41,603823.0,USA,North America
+48,Peking University,169,603065.0,China,Asia
+49,Weizmann Institute of Science,28,592822.0,Israel,Asia
+50,University of Melbourne,68,592307.0,Australia,Australia
+51,TU Munich,61,577403.0,Germany,Europe
+52,National University of Singapore,79,572931.0,Singapore,Asia
+53,University of Waikato,29,572789.0,New Zealand,Australia
+54,University of Chicago,51,538696.0,USA,North America
+55,Michigan State University,38,534827.0,USA,North America
+56,Stony Brook University,64,533909.0,USA,North America
+57,University of Utah,72,532779.0,USA,North America
+58,CUNY,82,519697.0,USA,North America
+59,Monash University,93,511536.0,Australia,Australia
+60,University of Massachusetts Amherst,67,507820.0,USA,North America
+61,University of British Columbia,65,506378.0,Canada,North America
+62,Hebrew University of Jerusalem,49,502775.0,Israel,Asia
+63,Western University,22,497580.0,Canada,North America
+64,University of Cambridge,54,496531.0,UK,Europe
+65,TU Berlin,50,482730.0,Germany,Europe
+66,Chinese Academy of Sciences,76,480272.0,China,Asia
+67,Chinese University of Hong Kong,46,471493.0,Hong Kong,Asia
+68,Simon Fraser University,60,468347.0,Canada,North America
+69,University of Colorado Boulder,79,466085.0,USA,North America
+70,California Institute of Technology,18,454131.0,USA,North America
+71,Univ. of California - Davis,51,452889.0,USA,North America
+72,Univ. of California - Santa Barbara,47,452548.0,USA,North America
+73,University of Illinois at Chicago,59,446668.0,USA,North America
+74,Rutgers University,61,444934.0,USA,North America
+75,University of Sydney,47,442596.0,Australia,Australia
+76,Università della Svizzera italiana,30,432913.0,Switzerland,Europe
+77,TU Delft,77,431631.0,Netherlands,Europe
+78,Zhejiang University,108,426971.0,China,Asia
+79,University of North Carolina,45,423689.0,USA,North America
+80,Politecnico di Milano,87,419099.0,Italy,Europe
+81,University of Tennessee,45,419087.0,USA,North America
+82,Graz University of Technology,56,416489.0,Austria,Europe
+83,Brown University,38,415291.0,USA,North America
+84,University of Central Florida,66,414692.0,USA,North America
+85,Univ. of California - Santa Cruz,70,414197.0,USA,North America
+86,University of Southampton,82,412974.0,UK,Europe
+87,University of Kent,48,411006.0,UK,Europe
+88,VU Amsterdam,55,401915.0,Netherlands,Europe
+89,Victoria University of Wellington,46,396567.0,New Zealand,Australia
+90,University of Notre Dame,33,396232.0,USA,North America
+91,University at Buffalo,52,392470.0,USA,North America
+92,Tel Aviv University,51,390314.0,Israel,Asia
+93,University of Freiburg,17,388417.0,Germany,Europe
+94,Ecole Normale Superieure,32,387156.0,France,Europe
+95,University of Rochester,25,386869.0,USA,North America
+96,Yale University,36,379732.0,USA,North America
+97,Rochester Institute of Technology,99,376869.0,USA,North America
+98,University of Texas at Arlington,36,369263.0,USA,North America
+99,Vanderbilt University,48,367450.0,USA,North America
+100,University of Tokyo,87,363031.0,Japan,Asia
+101,University of Queensland,51,360569.0,Australia,Australia
+102,Univ. of California - Riverside,48,359919.0,USA,North America
+103,Texas A&M University,61,358623.0,USA,North America
+104,University of Manchester,39,357020.0,UK,Europe
+105,North Carolina State University,63,356367.0,USA,North America
+106,University of Tübingen,40,351139.0,Germany,Europe
+107,Boston University,43,347770.0,USA,North America
+108,Rice University,33,346540.0,USA,North America
+109,UNSW,70,344534.0,Australia,Australia
+110,LMU Munich,30,344118.0,Germany,Europe
+111,Washington University in St. Louis,30,341310.0,USA,North America
+112,Sapienza University of Rome,88,339270.0,Italy,Europe
+113,Oregon State University,65,337553.0,USA,North America
+114,Harbin Institute of Technology,101,337261.0,China,Asia
+115,Arizona State University,44,336878.0,USA,North America
+116,Australian National University,64,331857.0,Australia,Oceania
+117,George Mason University,64,329049.0,USA,North America
+118,KU Leuven,49,327914.0,Belgium,Europe
+119,TU Eindhoven,53,326459.0,Netherlands,Europe
+120,Seoul National University,58,321211.0,South Korea,Asia
+121,York University,43,321149.0,Canada,North America
+122,University of Virginia,42,317624.0,USA,North America
+123,University of Texas at Dallas,58,317418.0,USA,North America
+124,Northwestern University,50,317261.0,USA,North America
+125,RWTH Aachen,34,314955.0,Germany,Europe
+126,Fudan University,83,314572.0,China,Asia
+127,Nanjing University,103,313941.0,China,Asia
+128,National Taiwan University,44,308577.0,Taiwan,Asia
+129,University of Trento,42,306328.0,Italy,Europe
+130,KTH Royal Institute of Technology,75,305889.0,Sweden,Europe
+131,KAUST,22,305824.0,Saudi Arabia,Asia
+132,Karlsruhe Institute of Technology,34,304027.0,Germany,Europe
+133,CWI,32,301458.0,Netherlands,Europe
+134,Queen’s University,31,300467.0,Canada,North America
+135,Ohio State University,42,298467.0,USA,North America
+136,University of Pittsburgh,50,298284.0,USA,North America
+137,Virginia Tech,68,294647.0,USA,North America
+138,University of Amsterdam,26,293829.0,Netherlands,Europe
+139,University of Adelaide,34,292632.0,Australia,Australia
+140,University of Liverpool,76,290772.0,UK,Europe
+141,University of Copenhagen,68,286665.0,Denmark,Europe
+142,Georgetown University,22,284381.0,USA,North America
+143,University of York,51,283847.0,UK,Europe
+144,University of Manitoba,31,278679.0,Canada,North America
+145,Radboud University,58,277698.0,Netherlands,Europe
+146,The Hong Kong Polytechnic University,17,277244.0,Hong Kong,Asia
+147,University of Stuttgart,35,272147.0,Germany,Europe
+148,TU Wien,64,271862.0,Austria,Europe
+149,Queen Mary University of London,36,271206.0,UK,Europe
+150,SUSTech,47,270859.0,China,Asia
+151,UESTC,130,268072.0,China,Asia
+152,Univ. of Maryland - Baltimore County,34,265560.0,USA,North America
+153,City University of Hong Kong,44,264316.0,Hong Kong,Asia
+154,University of Warwick,49,262237.0,UK,Europe
+155,Uppsala University,75,258718.0,Sweden,Europe
+156,Aalto University,50,256294.0,Finland,Europe
+157,University of Ottawa,46,251877.0,Canada,North America
+158,JKU Linz,35,249652.0,Austria,Europe
+159,TU Darmstadt,31,241373.0,Germany,Europe
+160,Czech Technical University,27,241303.0,Czech Republic,Europe
+161,University of Arizona,26,240972.0,USA,North America
+162,University of Auckland,45,240846.0,New Zealand,Australia
+163,Xidian University,61,239975.0,China,Asia
+164,UFMG,60,239442.0,Brazil,South America
+165,NJIT,37,239257.0,USA,North America
+166,Singapore Management University,43,238702.0,Singapore,Asia
+167,IT University of Copenhagen,85,235930.0,Denmark,Europe
+168,Washington State University,53,229865.0,USA,North America
+169,Saarland University,34,229742.0,Germany,Europe
+170,University of Surrey,27,228878.0,UK,Europe
+171,King's College London,51,227996.0,UK,Europe
+172,University of Hong Kong,33,227526.0,Hong Kong,Asia
+173,IST Austria,47,224965.0,Austria,Europe
+174,Bar-Ilan University,27,224112.0,Israel,Asia
+175,University of Helsinki,29,222933.0,Finland,Europe
+176,University of Technology Sydney,55,222372.0,Australia,Australia
+177,USTC,30,222307.0,China,Asia
+178,MBZUAI,22,222259.0,UAE,Asia
+179,McGill University,31,220390.0,Canada,North America
+180,Lancaster University,47,216915.0,UK,Europe
+181,Tampere University,41,215456.0,Finland,Europe
+182,Univ. of California - Merced,22,214267.0,USA,North America
+183,University of Nottingham,47,212662.0,UK,Europe
+184,University of Sheffield,53,211882.0,UK,Europe
+185,TTI Chicago,13,210414.0,USA,North America
+186,University of Florida,47,208629.0,USA,North America
+187,University of South Florida,22,207867.0,USA,North America
+188,IIT Guwahati,28,206845.0,India,Asia
+189,University of Calgary,45,204392.0,Canada,North America
+190,Temple University,21,204053.0,USA,North America
+191,University of Essex,70,202726.0,UK,Europe
+192,University of Connecticut,33,202486.0,USA,North America
+193,CRIStAL,132,200595.0,France,Europe
+194,Soochow University,41,199232.0,China,Asia
+195,Polytechnic University of Catalonia,61,197408.0,Spain,Europe
+196,Worcester Polytechnic Institute,46,196815.0,USA,North America
+197,Rensselaer Polytechnic Institute,27,195902.0,USA,North America
+198,University of Bremen,20,195402.0,Germany,Europe
+199,Dartmouth College,26,192836.0,USA,North America
+200,University of Salerno,70,191933.0,Italy,Europe
+201,University of Birmingham,46,188547.0,UK,Europe
+202,University of Bristol,47,187908.0,UK,Europe
+203,Chalmers/GU,102,187386.0,Sweden,Europe
+204,EURECOM,26,184200.0,France,Europe
+205,University of Houston,31,182276.0,USA,North America
+206,Brunel University London,36,182131.0,UK,Europe
+207,University of Glasgow,41,181247.0,UK,Europe
+208,POSTECH,34,179570.0,South Korea,Asia
+209,National Chiao Tung University,68,176798.0,Taiwan,Asia
+210,Utrecht University,47,174400.0,Netherlands,Europe
+211,Carleton University,33,171430.0,Canada,North America
+212,Aarhus University,42,170314.0,Denmark,Europe
+213,NWPU,20,168642.0,China,Asia
+214,Kyoto University,48,168500.0,Japan,Asia
+215,Cardiff University,58,167399.0,UK,Europe
+216,University of Massachusetts Lowell,38,165860.0,USA,North America
+217,NTUA,41,165263.0,Greece,Europe
+218,University College Dublin,52,164752.0,Ireland,Europe
+219,Hasso Plattner Institute,18,164162.0,Germany,Europe
+220,University of Nebraska,28,163803.0,USA,North America
+221,University of Pisa,64,162059.0,Italy,Europe
+222,University of Vienna,26,161633.0,Austria,Europe
+223,Aalborg University,43,161301.0,Denmark,Europe
+224,Clemson University,42,161229.0,USA,North America
+225,Ecole Normale Superieure de Cachan,25,158644.0,France,Europe
+226,HSE University,17,157610.0,Russia,Europe
+227,University of Leipzig,16,156624.0,Germany,Europe
+228,Emory University,20,155623.0,USA,North America
+229,Ecole Normale Superieure de Lyon,87,150611.0,France,Europe
+230,IIIT Hyderabad,50,150363.0,India,Asia
+231,IIT Kanpur,34,148910.0,India,Asia
+232,Osaka University,32,147075.0,Japan,Asia
+233,University of Athens,37,146661.0,Greece,Europe
+234,Tokyo Institute of Technology,59,145572.0,Japan,Asia
+235,University of Erlangen–Nuremberg,30,145050.0,Germany,Europe
+236,BUPT,83,144277.0,China,Asia
+237,IISc Bangalore,39,143434.0,India,Asia
+238,University of Klagenfurt,32,142871.0,Austria,Europe
+239,Iowa State University,36,141787.0,USA,North America
+240,University of South Carolina,33,141048.0,USA,North America
+241,University of Delaware,31,140699.0,USA,North America
+242,Goethe University Frankfurt,25,140451.0,Germany,Europe
+243,RMIT University,55,138746.0,Australia,Australia
+244,Florida State University,27,138578.0,USA,North America
+245,Bilkent University,18,138142.0,Turkey,Asia
+246,CISPA Helmholtz Center,31,137968.0,Germany,Europe
+247,University of Crete,25,137848.0,Greece,Europe
+248,University of Piraeus,46,135795.0,Greece,Europe
+249,Macquarie University,30,133415.0,Australia,Australia
+250,SUTD,22,132922.0,Singapore,Asia
+251,AUEB,29,132776.0,Greece,Europe
+252,IIT Kharagpur,44,132772.0,India,Asia
+253,City University of London,39,132756.0,UK,Europe
+254,University of Bath,30,132291.0,UK,Europe
+255,Brigham Young University,30,130615.0,USA,North America
+256,University of Tsukuba,66,129562.0,Japan,Asia
+257,Dalhousie University,39,129399.0,Canada,North America
+258,University of Leeds,35,127133.0,UK,Europe
+259,Ruhr-University Bochum,21,126868.0,Germany,Europe
+260,IIT Bombay,41,126627.0,India,Asia
+261,Heidelberg University,26,126624.0,Germany,Europe
+262,University of Warsaw,62,126226.0,Poland,Europe
+263,Sun Yat-sen University,15,124789.0,China,Asia
+264,Drexel University,19,123739.0,USA,North America
+265,Colorado State University,19,123237.0,USA,North America
+266,UFRGS,63,123192.0,Brazil,South America
+267,University of Tartu,39,122739.0,Estonia,Europe
+268,Queen's University Belfast,54,122604.0,UK,Europe
+269,Northern Arizona University,29,122603.0,USA,North America
+270,UNICAMP,43,122493.0,Brazil,South America
+271,University of Luxembourg,22,122347.0,Luxembourg,Europe
+272,University of Zurich,18,121220.0,Switzerland,Europe
+273,University of Oregon,20,121162.0,USA,North America
+274,TU Dresden,28,119706.0,Germany,Europe
+275,USP-ICMC,49,118719.0,Brazil,South America
+276,University of Victoria,29,117666.0,Canada,North America
+277,Royal Holloway University of London,41,117421.0,UK,Europe
+278,University of Saskatchewan,24,116857.0,Canada,North America
+279,University of Konstanz,14,116662.0,Germany,Europe
+280,Syracuse University,33,115634.0,USA,North America
+281,University of Hannover,23,115548.0,Germany,Europe
+282,Binghamton University,25,115385.0,USA,North America
+283,TU Kaiserslautern,27,110709.0,Germany,Europe
+284,Hong Kong Baptist University,17,110209.0,Hong Kong,Asia
+285,University of Bonn,23,110043.0,Germany,Europe
+286,University of Oklahoma,17,106917.0,USA,North America
+287,Florida International University,30,106148.0,USA,North America
+288,University of Hamburg,27,105777.0,Germany,Europe
+289,Hunan University,53,105286.0,China,Asia
+290,Open University UK,42,105156.0,UK,Europe
+291,University of Texas at San Antonio,20,104598.0,USA,North America
+292,University of A Coruña,81,103811.0,Spain,Europe
+293,Xi'an Jiaotong University,36,103392.0,China,Asia
+294,Concordia University,45,102979.0,Canada,North America
+295,University of Otago,17,102007.0,New Zealand,Australia
+296,University of Bergen,36,100836.0,Norway,Europe
+297,Shenzhen University,51,99687.0,China,Asia
+298,Illinois Institute of Technology,24,98532.0,USA,North America
+299,Tufts University,19,97773.0,USA,North America
+300,University of Innsbruck,16,97679.0,Austria,Europe
+301,UCCS,15,97521.0,USA,North America
+302,Georgia State University,22,95839.0,USA,North America
+303,University of Georgia,25,95282.0,USA,North America
+304,University of Western Australia,17,94582.0,Australia,Australia
+305,University of Mannheim,10,92767.0,Germany,Europe
+306,Texas A&M at Qatar,12,92753.0,Qatar,Asia
+307,Heriot-Watt University,43,92692.0,UK,Europe
+308,University of Massachusetts Boston,16,92449.0,USA,North America
+309,Lund University,14,92388.0,Sweden,Europe
+310,Birkbeck University of London,29,91734.0,UK,Europe
+311,NTNU,37,91641.0,Norway,Europe
+312,Humboldt University of Berlin,20,90926.0,Germany,Europe
+313,University of Lübeck,27,90865.0,Germany,Europe
+314,Kyungpook National University,33,89964.0,South Korea,Asia
+315,Wayne State University,22,89745.0,USA,North America
+316,Masaryk University,42,89716.0,Czech Republic,Europe
+317,University of Hawaii at Manoa,22,89677.0,USA,North America
+318,University of Guelph,30,89237.0,Canada,North America
+319,Lehigh University,21,88959.0,USA,North America
+320,University of New Brunswick,21,88672.0,Canada,North America
+321,HUST,27,88334.0,China,Asia
+322,Ben-Gurion University of the Negev,18,88334.0,Israel,Asia
+323,University of Würzburg,19,88243.0,Germany,Europe
+324,Wuhan University,20,87364.0,China,Asia
+325,Université libre de Bruxelles,18,86717.0,Belgium,Europe
+326,University of Ulm,18,86310.0,Germany,Europe
+327,University of Ioannina,26,86258.0,Greece,Europe
+328,Florida Atlantic University,28,86167.0,USA,North America
+329,Queensland University of Technology,19,85910.0,Australia,Australia
+330,Renmin University of China,50,85026.0,China,Asia
+331,Missouri University of Technology,10,84879.0,USA,North America
+332,Paderborn University,17,84391.0,Germany,Europe
+333,Qatar Computing Research Institute,16,83076.0,Qatar,Asia
+334,University of Missouri,16,82916.0,USA,North America
+335,Colorado School of Mines,12,82038.0,USA,North America
+336,Beihang University,51,80860.0,China,Asia
+337,IIIT Delhi,39,80802.0,India,Asia
+338,TU Braunschweig,14,80726.0,Germany,Europe
+339,College of William and Mary,19,80725.0,USA,North America
+340,University of Kentucky,29,80016.0,USA,North America
+341,DePaul University,45,79096.0,USA,North America
+342,University of Iowa,25,78320.0,USA,North America
+343,Case Western Reserve University,18,77809.0,USA,North America
+344,ETS Montreal,15,77467.0,Canada,North America
+345,IMDEA Networks Institute,12,77385.0,Spain,Europe
+346,University of North Texas,27,77334.0,USA,North America
+347,University of Münster,23,76337.0,Germany,Europe
+348,National Tsing Hua University,42,76074.0,Taiwan,Asia
+349,University of Magdeburg,21,76064.0,Germany,Europe
+350,Yonsei University,28,75904.0,South Korea,Asia
+351,PUC-RIO,20,75552.0,Brazil,South America
+352,Massey University,43,72422.0,New Zealand,Australia
+353,IIT Delhi,31,71973.0,India,Asia
+354,Qatar University,30,71971.0,Qatar,Asia
+355,Westlake University,3,70226.0,China,Asia
+356,University of New Mexico,14,69708.0,USA,North America
+357,Maastricht University,27,69637.0,Netherlands,Europe
+358,University of Sussex,25,69617.0,UK,Europe
+359,University of Düsseldorf,13,69602.0,Germany,Europe
+360,University of Exeter,25,69587.0,UK,Europe
+361,Virginia Commonwealth University,18,68760.0,USA,North America
+362,University of Passau,14,68403.0,Germany,Europe
+363,University of Sannio,14,68099.0,Italy,Europe
+364,Bielefeld University,13,67808.0,Germany,Europe
+365,PUC-RS,22,67611.0,Brazil,South America
+366,University of Wroclaw,31,67501.0,Poland,Europe
+367,Naval Postgraduate School,23,67367.0,USA,North America
+368,University of Kiel,17,67100.0,Germany,Europe
+369,University of Vermont,24,66774.0,USA,North America
+370,USP,36,66357.0,Brazil,South America
+371,UFRJ,38,66307.0,Brazil,South America
+372,TU Dortmund,21,65984.0,Germany,Europe
+373,University of Duisburg-Essen,17,64581.0,Germany,Europe
+374,UFF,35,63577.0,Brazil,South America
+375,NYU Shanghai,3,63156.0,China,Asia
+376,UFPE,30,62560.0,Brazil,South America
+377,George Washington University,19,62176.0,USA,North America
+378,National Cheng Kung University,40,62072.0,Taiwan,Asia
+379,IIT Patna,14,61897.0,India,Asia
+380,Durham University,33,61844.0,UK,Europe
+381,University of Canterbury,17,60373.0,New Zealand,Australia
+382,University of Augsburg,19,59577.0,Germany,Europe
+383,University of Murcia,34,59365.0,Spain,Europe
+384,Boise State University,20,59014.0,USA,North America
+385,Cleveland State University,18,58583.0,USA,North America
+386,Masdar Institute,17,57532.0,UAE,Asia
+387,Stevens Institute of Technology,29,57217.0,USA,North America
+388,University of Cincinnati,20,56931.0,USA,North America
+389,IUPUI,23,56924.0,USA,North America
+390,University of Groningen,12,56257.0,Netherlands,Europe
+391,Auburn University,17,56143.0,USA,North America
+392,Sharif University of Technology,33,55479.0,Iran,Asia
+393,University of Louisiana - Lafayette,22,55349.0,USA,North America
+394,Universidade NOVA de Lisboa,27,55326.0,Portugal,Europe
+395,IIT Hyderabad,23,55144.0,India,Asia
+396,Brandeis University,16,54379.0,USA,North America
+397,Hacettepe University,28,54279.0,Turkey,Asia
+398,University of Regina,15,54207.0,Canada,North America
+399,West Virginia University,15,54198.0,USA,North America
+400,IPI PAN,24,53656.0,Poland,Europe
+401,ShanghaiTech University,43,53631.0,China,Asia
+402,University of Malaya,21,53035.0,Malaysia,Asia
+403,University of Rostock,17,53033.0,Germany,Europe
+404,Keio University,17,52470.0,Japan,Asia
+405,University of Potsdam,14,52137.0,Germany,Europe
+406,Université de Sherbrooke,18,51935.0,Canada,North America
+407,Tata Inst. of Fundamental Research,14,51636.0,India,Asia
+408,Ontario Tech University,15,51578.0,Canada,North America
+409,Korea University,30,51167.0,South Korea,Asia
+410,University of Nevada,22,51074.0,USA,North America
+411,UNC - Charlotte,19,50373.0,USA,North America
+412,Charles University,29,50206.0,Czech Republic,Europe
+413,American University of Beirut,23,50000.0,Lebanon,Asia
+414,Université Jean Monnet,34,49810.0,France,Europe
+415,University of Göttingen,16,49497.0,Germany,Europe
+416,Kansas State University,17,49490.0,USA,North America
+417,University of Memphis,11,49092.0,USA,North America
+418,IIT Madras,31,48796.0,India,Asia
+419,University of St Andrews,31,48557.0,UK,Europe
+420,Universidad Rey Juan Carlos,10,48511.0,Spain,Europe
+421,Aberystwyth University,19,48483.0,UK,Europe
+422,Brno University of Technology,8,47794.0,Czech Republic,Europe
+423,McMaster University,24,47128.0,Canada,North America
+424,Boğaziçi University,17,47049.0,Turkey,Europe
+425,Shandong University,33,46975.0,China,Asia
+426,DAIICT,27,46940.0,India,Asia
+427,University of Marburg,9,46591.0,Germany,Europe
+428,IIT (BHU) Varanasi,13,45946.0,India,Asia
+429,Louisiana State University,16,45550.0,USA,North America
+430,IMDEA Software Institute,17,45468.0,Spain,Europe
+431,Universidad de Chile,15,45245.0,Chile,South America
+432,Hanyang University,26,44597.0,South Korea,Asia
+433,UNIST,29,44392.0,South Korea,Asia
+434,Middle East Technical University,30,44232.0,Turkey,Asia
+435,University of Missouri - Kansas City,17,44202.0,USA,North America
+436,Old Dominion University,15,44085.0,USA,North America
+437,University of Buenos Aires,33,44032.0,Argentina,South America
+438,IIIT Bangalore,30,43596.0,India,Asia
+439,Özyeğin University,13,43430.0,Turkey,Europe
+440,Université Laval,23,42619.0,Canada,North America
+441,University of Texas - El Paso,13,42379.0,USA,North America
+442,TU Ilmenau,15,42267.0,Germany,Europe
+443,Middlesex University,44,42239.0,UK,Europe
+444,University of Michigan-Dearborn,12,42226.0,USA,North America
+445,University of Dundee,18,41288.0,UK,Europe
+446,New Mexico State University,17,40659.0,USA,North America
+447,UFPR,35,40570.0,Brazil,South America
+448,University of Haifa,20,40348.0,Israel,Asia
+449,University of Koblenz-Landau,19,40131.0,Germany,Europe
+450,University of Aberdeen,14,39652.0,UK,Europe
+451,Florida Institute of Technology,13,39546.0,USA,North America
+452,University of Bern,4,39057.0,Switzerland,Europe
+453,University of Kassel,12,38704.0,Germany,Europe
+454,University of L'Aquila,9,38380.0,Italy,Europe
+455,University of Siegen,13,38230.0,Germany,Europe
+456,Bundeswehr University Munich,21,38229.0,Germany,Europe
+457,University of Szeged,12,37820.0,Hungary,Europe
+458,University of Miami,11,37160.0,USA,North America
+459,Scuola Superiore Sant'Anna,5,37098.0,Italy,Europe
+460,University of Bamberg,16,37031.0,Germany,Europe
+461,Texas State University,21,36787.0,USA,North America
+462,Tilburg University,16,36700.0,Netherlands,Europe
+463,University of Louisville,14,36585.0,USA,North America
+464,Cyprus University of Technology,12,36512.0,Cyprus,Europe
+465,Ryerson University,19,36188.0,Canada,North America
+466,University of New Hampshire,11,35898.0,USA,North America
+467,Waseda University,14,35730.0,Japan,Asia
+468,IIT Gandhinagar,11,35516.0,India,Asia
+469,Istanbul Technical University,25,35370.0,Turkey,Asia
+470,Lebanese American University,13,33748.0,Lebanon,Asia
+471,BITS Pilani,22,33616.0,India,Asia
+472,University of Wuppertal,17,32738.0,Germany,Europe
+473,University of Bayreuth,13,32711.0,Germany,Europe
+474,Kent State University,24,32410.0,USA,North America
+475,Goldsmiths University of London,39,32382.0,UK,Europe
+476,Koç University,10,31710.0,Turkey,Asia
+477,Tulane University,10,31570.0,USA,North America
+478,University of Newcastle,5,30878.0,Australia,Australia
+479,Bocconi University,6,30566.0,Italy,Europe
+480,Portland State University,19,30247.0,USA,North America
+481,University of Tulsa,11,29338.0,USA,North America
+482,University of Mainz,9,29323.0,Germany,Europe
+483,Brandenburg University of Technology,13,29261.0,Germany,Europe
+484,TOBB ETÜ,13,29112.0,Turkey,Asia
+485,University of Oldenburg,16,28866.0,Germany,Europe
+486,Utah State University,12,28684.0,USA,North America
+487,University of Hildesheim,3,28504.0,Germany,Europe
+488,Western Michigan University,13,28293.0,USA,North America
+489,IIT Jodhpur,13,28222.0,India,Asia
+490,Loughborough University,23,28030.0,UK,Europe
+491,Universidade de Brasília,17,27908.0,Brazil,South America
+492,University of Osnabrück,12,27881.0,Germany,Europe
+493,Polytechnique Montreal,7,27544.0,Canada,North America
+494,Augusta University,29,27068.0,USA,North America
+495,Freie Universitaet Berlin,7,27038.0,Germany,Europe
+496,Kyung Hee University,6,27037.0,South Korea,Asia
+497,Friedrich Schiller University Jena,18,27009.0,Germany,Europe
+498,IIT Mandi,14,26377.0,India,Asia
+499,IUST,26,26169.0,Iran,Asia
+500,University of Wyoming,4,25331.0,USA,North America
+501,University of Salzburg,17,25237.0,Austria,Europe
+502,JUST,22,25172.0,Jordan,Asia
+503,University of Arkansas,19,24833.0,USA,North America
+504,CMI,12,24819.0,India,Asia
+505,University of Molise,7,23793.0,Italy,Europe
+506,Jacobs University Bremen,6,22799.0,Germany,Europe
+507,Sabancı University,11,22666.0,Turkey,Asia
+508,IIT Roorkee,13,22498.0,India,Asia
+509,Memorial University of Newfoundland,20,22465.0,Canada,North America
+510,BUET,21,21904.0,Bangladesh,Asia
+511,Texas Tech University,15,21818.0,USA,North America
+512,Nova Southeastern University,20,21272.0,USA,North America
+513,University of Trier,9,21077.0,Germany,Europe
+514,Universidad de los Andes,24,21030.0,Colombia,South America
+515,Hamburg University of Technology,15,20996.0,Germany,Europe
+516,OHSU,10,20627.0,USA,North America
+517,Tongji University,23,20167.0,China,Asia
+518,University at Albany - SUNY,14,19946.0,USA,North America
+519,Boston College,14,19719.0,USA,North America
+520,TU Clausthal,9,19443.0,Germany,Europe
+521,University of Alabama - Birmingham,10,19339.0,USA,North America
+522,IIT Ropar,12,19290.0,India,Asia
+523,IIT Indore,10,19240.0,India,Asia
+524,Universidad Nacional de Córdoba,23,18996.0,Argentina,South America
+525,University of Jordan,38,18960.0,Jordan,Asia
+526,Federal University of Rio Grande,18,18603.0,Brazil,South America
+527,Ariel University,18,18288.0,Israel,Asia
+528,King Abdulaziz University,37,18253.0,Saudi Arabia,Asia
+529,UFU,31,17890.0,Brazil,South America
+530,University of Halle-Wittenberg,9,17581.0,Germany,Europe
+531,Stellenbosch University,7,17201.0,South Africa,Africa
+532,Yıldız Technical University,22,16848.0,Turkey,Europe
+533,Michigan Technological University,15,16824.0,USA,North America
+534,The University of Alabama,17,16733.0,USA,North America
+535,National Institute of Technology Silchar,20,16720.0,India,Asia
+536,University of Nevada Las Vegas,14,16622.0,USA,North America
+537,Oakland University,13,16137.0,USA,North America
+538,University of Cape Town,12,15470.0,South Africa,Africa
+539,Wichita State University,18,15455.0,USA,North America
+540,University of Nicosia,15,15351.0,Cyprus,Europe
+541,Mississippi State University,14,15245.0,USA,North America
+542,Southern Methodist University,10,14882.0,USA,North America
+543,BITS Pilani-Goa,27,14762.0,India,Asia
+544,LUMS,16,14570.0,Pakistan,Asia
+545,University of Windsor,19,14487.0,Canada,North America
+546,Claremont Graduate University,6,14232.0,USA,North America
+547,American University in Cairo,9,13931.0,Egypt,Africa
+548,University of Wisconsin - Milwaukee,11,13874.0,USA,North America
+549,University of Idaho,13,13697.0,USA,North America
+550,Ohio University,17,13603.0,USA,North America
+551,IMSc,8,13465.0,India,Asia
+552,TU Chemnitz,14,13348.0,Germany,Europe
+553,Bauhaus University Weimar,9,13080.0,Germany,Europe
+554,Montana State University,8,12835.0,USA,North America
+555,University of Maine,6,12398.0,USA,North America
+556,Universidad de Zaragoza,7,11420.0,Spain,Europe
+557,South Asian University,7,10992.0,India,Asia
+558,University of Malta,11,10829.0,Malta,Europe
+559,University of Alabama - Huntsville,13,10417.0,USA,North America
+560,University of Nebraska - Omaha,17,10290.0,USA,North America
+561,Towson University,24,10002.0,USA,North America
+562,Izmir Institute of Technology,11,9911.0,Turkey,Asia
+563,Galatasaray University,13,9823.0,Turkey,Europe
+564,University of New Orleans,10,9755.0,USA,North America
+565,University of Southern Mississippi,13,8500.0,USA,North America
+566,IPM,3,8161.0,Iran,Asia
+567,UFMS,11,7974.0,Brazil,South America
+568,University of Denver,7,7903.0,USA,North America
+569,Ecole Normale Superieure de Rennes,5,7655.0,France,Europe
+570,SUFE,7,6841.0,China,Asia
+571,New Mexico Tech,7,6525.0,USA,North America
+572,De La Salle University,36,6514.0,Philippines,Asia
+573,IIT Bhubaneswar,2,6357.0,India,Asia
+574,Universidade Federal de Viçosa,13,6342.0,Brazil,South America
+575,KMUTNB,11,5679.0,Thailand,Asia
+576,DTU,3,5362.0,Denmark,Europe
+577,Simula UiB,2,5338.0,Norway,Europe
+578,University of Arkansas - Little Rock,7,4387.0,USA,North America
+579,Oklahoma State University,17,4253.0,USA,North America
+580,Babeș-Bolyai University,4,4206.0,Romania,Europe
+581,Missouri S&T,5,3997.0,USA,North America
+582,University of Mississippi,4,3832.0,USA,North America
+583,Royal Military College of Canada,10,3688.0,Canada,North America
+584,Simmons University,1,2879.0,USA,North America
+585,University of Twente,1,2800.0,Netherlands,Europe
+586,Air Force Institute of Technology,10,2566.0,USA,North America
+587,North Dakota State University,5,2337.0,USA,North America
+588,Louisiana Tech University,4,2158.0,USA,North America
+589,IIT Goa,9,1122.0,India,Asia
+590,Indiana State University,4,1049.0,USA,North America
+591,University of Colorado - Denver,8,1014.0,USA,North America
+592,Chulalongkorn University,16,912.0,Thailand,Asia
+593,Ruhr-Universty Bochum,1,868.0,Germany,Europe
+594,TU Freiberg,4,639.0,Germany,Europe
+595,LIU Post,4,421.0,USA,North America
+596,Wichita State Unitveristy,1,31.0,USA,North America
