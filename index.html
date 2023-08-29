@@ -18,6 +18,8 @@
     <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
     <script src="js/csv_to_html_table.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
     <link rel="shortcut icon" type = "images/ico" href="favicon.ico">
 </head>
 
@@ -46,9 +48,9 @@
                     datatables_options: {
                         paging: false
                     },
-                    custom_formatting: [
-                        [4, format_link]
-                    ]
+                    // custom_formatting: [
+                    //     [4, format_link]
+                    // ]
                 });">Submit</button>
                 <div id="table-container"></div>
                 <script>
