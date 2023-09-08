@@ -38,20 +38,21 @@
                     <option value="avg_h_index">Average h-index</option>
                 </select>
 
-                <button type = "submit" onclick = "CsvToHtmlTable.init({
-                    csv_path: 'data/'+document.getElementById('metric').value+'_ranking.csv',
-                    element: 'table-container',
-                    allow_download: false,
-                    csv_options: {
-                        separator: ',',
-                    },
-                    datatables_options: {
-                        paging: false
-                    },
-                    // custom_formatting: [
-                    //     [4, format_link]
-                    // ]
-                });">Submit</button>
+                <button type = "submit" onclick = 'CsvToHtmlTable.init({
+                    csv_path: "data/"+document.getElementById("metric").value+"_ranking.csv",
+                    element: "table-container",
+                        allow_download: false,
+                        csv_options: {
+                            separator: ",",
+                            delimiter: `"`,
+                        },
+                        datatables_options: {
+                            paging: false
+                        },
+                        custom_formatting: [
+                            [4, format_link]
+                        ]
+                });'>Submit</button>
                 <div id="table-container"></div>
                 <script>
                     function format_link(link) {
@@ -60,7 +61,7 @@
                         else return "";
                     }
 
-                    alert("hello");
+                    // alert("hello");
             
                     CsvToHtmlTable.init({
                         csv_path: "data/overall_ranking.csv",
