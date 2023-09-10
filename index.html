@@ -38,16 +38,17 @@
         elmtTable.removeChild(tableRows[x]);
         }
         
-        fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
-        .then(response => {
-          if (!response.ok) {
-            throw new Error("Http error");
-          }
-          return response.text();
-        })
-        .then(table => {
-          csv2html(table, document.getElementById("csv1"), true);
-        });'>Submit</button>
+        // fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
+        // .then(response => {
+        //   if (!response.ok) {
+        //     throw new Error("Http error");
+        //   }
+        //   return response.text();
+        // })
+        // .then(table => {
+        //   csv2html(table, document.getElementById("csv1"), true);
+        // });'
+        >Submit</button>
 
 <table id="csv1" class="table table-striped table-hover">
   <thead></thead>
