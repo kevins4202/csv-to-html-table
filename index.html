@@ -31,7 +31,7 @@
     
         <button type="submit" onclick='
         document.getElementById("csv1").innerHTML = "";
-        var $tableContainer = $("#csv1"),
+        var $tableContainer = $("#csv1");
         $thead = $tableContainer.append("<thead></thead>");
         $tbody = $tableContainer.append("<tbody></tbody>");
         fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
