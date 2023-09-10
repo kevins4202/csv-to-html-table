@@ -29,8 +29,11 @@
             <option value="avg_h_index">Average h-index</option>
         </select>
     
-        <button type="submit" onclick='
-        console.log("press");
+        <button type="submit" onclick='replaceCSV();'
+        >Submit</button>
+
+    <script>
+      function replaceCSV(){
         var elmtTable = document.getElementById("csv1");
         var tableRows = elmtTable.getElementsByTagName("tr");
         var rowCount = tableRows.length;
@@ -39,17 +42,18 @@
         elmtTable.removeChild(tableRows[x]);
         }
         
-        // fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
-        // .then(response => {
-        //   if (!response.ok) {
-        //     throw new Error("Http error");
-        //   }
-        //   return response.text();
-        // })
-        // .then(table => {
-        //   csv2html(table, document.getElementById("csv1"), true);
-        // });'
-        >Submit</button>
+        fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
+        .then(response => {
+          if (!response.ok) {
+            throw new Error("Http error");
+          }
+          return response.text();
+        })
+        .then(table => {
+          csv2html(table, document.getElementById("csv1"), true);
+        });
+      }
+    </script>
 
 <table id="csv1" class="table table-striped table-hover">
   <thead></thead>
