@@ -34,12 +34,12 @@
 
     <script>
       function replaceCSV(){
-        var list = document.getElementsByTagName("td");
-        for(var x = 0; x < list.length; x++){
-          list[x].remove();
-        }
+        // var list = document.getElementsByTagName("td");
+        // for(var x = 0; x < list.length; x++){
+        //   list[x].remove();
+        // }
         list = document.getElementsByTagName("tr");
-        for(var x = 0; x < list.length; x++){
+        for(var x = list.length-1; x>=0; x++){
           list[x].remove();
         }
         
