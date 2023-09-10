@@ -29,7 +29,9 @@
             <option value="avg_h_index">Average h-index</option>
         </select>
     
-        <button type="submit" onclick='fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
+        <button type="submit" onclick='
+        document.getElementById("csv1").innerHTML = "";
+        fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
         .then(response => {
           if (!response.ok) {
             throw new Error("Http error");
