@@ -21,9 +21,19 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
     <link rel="shortcut icon" type = "images/ico" href="favicon.ico">
+    <style>
+        th, td{
+            border: 1px solid;
+        }
+
+        table{
+            border-collapse:collapse;
+        }
+    </style>
 </head>
 
 <body>
+    
     <div class="container-fluid">
         <main class="row">
             <div class="col">
@@ -53,36 +63,49 @@
                             [4, format_link]
                         ]
                 });'>Submit</button>
-                <div id="table-container"></div>
-                <script>
-                    function format_link(link) {
-                        if (link)
-                            return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-                        else return "";
-                    }
+                <table id = "csv1">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
 
-                    // alert("hello");
-            
-                    CsvToHtmlTable.init({
-                        csv_path: "data/overall_ranking.csv",
-                        element: "table-container",
-                        allow_download: false,
-                        csv_options: {
-                            separator: ",",
-                            delimiter: '"'
-                        },
-                        datatables_options: {
-                            paging: false
-                        },
-                        custom_formatting: [
-                            [4, format_link]
-                        ]
+                <script>
+                    fetch("../data/overall_ranking.csv").then(response => {
+                        if(!response.ok){
+                            throw new Error("Http error");
+                        }
+
+                        return response.text();
+                    }).then(table=> {
+                        csv2html(table, document.getElementById("csv1"), true);
                     });
                     // alert("init");
-                </script>
-                <script>
-                    // alert(document.getElementById('table-container-table').innerHTML);
-                    // document.getElementById('table-container');
+
+                    function csv2html(data, tableElement, hasHeader){
+                        const rows = data.split("\n");
+                        if(hasHeader){
+                            const header = document.createElement("tr");
+
+                            rows[0].split(',').forEach(cellData => {
+                                const th = document.createElement("th");
+                                th.textContent = cellData;
+                                header.appendChild(th)
+                            });
+
+                            tableElement.querySelector("thead").appendChild(header);
+                        }
+
+                        for(let i = hasHeader? 1:0; i < rows.length; i++){
+                            const tr = document.createElement("tr");
+
+                            rows[i].split(",").forEach(cellData =>{
+                                const td = document.createElement("td");
+                                td.textContent = cellData;
+                                tr.appendChild(td);
+                            });
+
+                            tableElement.querySelector('tbody').appendChild(tr);
+                        }
+                    }
                 </script>
             </div>
         </main>
