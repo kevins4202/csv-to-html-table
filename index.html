@@ -34,12 +34,9 @@
 
     <script>
       function replaceCSV(){
-        var elmtTable = document.getElementById("csv1");
-        var tableRows = elmtTable.getElementsByTagName("tr");
-        var rowCount = tableRows.length;
-
-        for (var x=rowCount-1; x>=0; x--) {
-        elmtTable.removeChild(tableRows[x]);
+        var list = document.getElementsByTagName("tr");
+        for(var x = 0; x < list.length; x++){
+          list[x].remove();
         }
         
         fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
