@@ -30,7 +30,13 @@
         </select>
     
         <button type="submit" onclick='
-        $("#csv1 tr").remove(); 
+        var elmtTable = document.getElementById("csv1");
+        var tableRows = elmtTable.getElementsByTagName("tr");
+        var rowCount = tableRows.length;
+
+        for (var x=rowCount-1; x>=0; x--) {
+        elmtTable.removeChild(tableRows[x]);
+        }
         
         fetch ("./"+document.getElementById("metric").value+"_ranking.csv")
         .then(response => {
