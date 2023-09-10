@@ -1,130 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="en-US">
 
 <head>
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>CSImpact</title>
-    <meta
-        content="An objective ranking of global institutions' computer science programs based on publication data in Google Scholar.">
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    th, td {
+      border: 1px solid;
+    }
 
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
-    <script src="js/jquery.csv.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-    <script src="js/csv_to_html_table.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-    <link rel="shortcut icon" type="images/ico" href="favicon.ico">
-    <style>
-        th,
-        td {
-            border: 1px solid;
-        }
-
-        table {
-            border-collapse: collapse;
-        }
-    </style>
+    table {
+      border-collapse: collapse;
+    }
+  </style>
 </head>
 
 <body>
-    <h1>CSImpact</h1>
 
-    <p>Objective ranking of computer science programs from institutions around the world, based on Google Scholar
-        research data of professors.</p>
+<table id="csv1">
+  <thead></thead>
+  <tbody></tbody>
+</table>
 
-        <select id="metric">
-            <option value="overall">Overall</option>
-            <option value="total_citations">Total Citations</option>
-            <option value="avg_citations">Average Citations</option>
-            <option value="total_h_index">Total h-index</option>
-            <option value="avg_h_index">Average h-index</option>
-        </select>
-    
-        <button type="submit" onclick='CsvToHtmlTable.init({
-                        csv_path: "data/"+document.getElementById("metric").value+"_ranking.csv",
-                        element: "table-container",
-                            allow_download: false,
-                            csv_options: {
-                                separator: ",",
-                                delimiter: `"`,
-                            },
-                            datatables_options: {
-                                paging: false
-                            },
-                            custom_formatting: [
-                                [4, format_link]
-                            ]
-                    });'>Submit</button>
-
-    <table id="csv1">
-        <thead></thead>
-        <tbody></tbody>
-    </table>
-
-    <script>
-        fetch("./overall_ranking.csv")
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error("Http error");
-                }
-                return response.text();
-            })
-            .then(table => {
-                csv2html(table, document.getElementById("csv1"), true);
-            });
-
-        /**
-         * Takes a CSV and places it inside an HTML table.
-         * @param data The CSV data (with line breaks and comma-spearated values)
-         * @param tableElement The string of the id of the table the CSV is being placed into (must have blank thead and tbody elements)
-         * @param hasHeader Should he CSV data have a header?
-         */
-        function csv2html(data, tableElement, hasHeader) {
-            const rows = data.split("\n");
-
-            if (hasHeader) {
-                const header = document.createElement("tr");
-                rows[0].split(',').forEach(cellData => {
-                    const th = document.createElement("th");
-                    th.textContent = cellData;
-                    header.appendChild(th);
-                });
-                tableElement.querySelector("thead").appendChild(header);
+<script>
+  fetch ("./overall_ranking.csv")
+          .then(response => {
+            if (!response.ok) {
+              throw new Error("Http error");
             }
+            return response.text();
+          })
+          .then(table => {
+            csv2html(table, document.getElementById("csv1"), true);
+          });
 
-            for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
-                const tr = document.createElement("tr");
-                rows[i].split(",").forEach(cellData => {
-                    const td = document.createElement("td");
-                    td.textContent = cellData;
-                    tr.appendChild(td);
-                });
-                tableElement.querySelector('tbody').appendChild(tr);
-            }
-        }
-    </script>
+  /**
+   * Takes a CSV and places it inside an HTML table.
+   * @param data The CSV data (with line breaks and comma-spearated values)
+   * @param tableElement The string of the id of the table the CSV is being placed into (must have blank thead and tbody elements)
+   * @param hasHeader Should he CSV data have a header?
+   */
+  function csv2html(data, tableElement, hasHeader) {
+    const rows = data.split("\n");
 
+    if (hasHeader) {
+      const header = document.createElement("tr");
+      rows[0].split(',').forEach(cellData => {
+        const th = document.createElement("th");
+        th.textContent = cellData;
+        header.appendChild(th);
+      });
+      tableElement.querySelector("thead").appendChild(header);
+    }
 
-    <footer class="row">
-        <div class="col">
-            <hr>
-            <p class="text-right">Kevin Song</p>
-            <p class="text-right">under the guidance of Professor Remzi Arpaci-Dusseau</p>
-        </div>
-    </footer>
-    </div>
-
-
-
-
+    for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
+      const tr = document.createElement("tr");
+      rows[i].split(",").forEach(cellData => {
+        const td = document.createElement("td");
+        td.textContent = cellData;
+        tr.appendChild(td);
+      });
+      tableElement.querySelector('tbody').appendChild(tr);
+    }
+  }
+</script>
 </body>
 
 </html>
