@@ -29,7 +29,7 @@
             <option value="avg_h_index">Average h-index</option>
         </select>
     
-        <button type="submit" onclick='fetch ("../data"+document.getElementById("metric").value+"_ranking.csv")
+        <button type="submit" onclick='fetch ("../data/"+document.getElementById("metric").value+"_ranking.csv")
         .then(response => {
           if (!response.ok) {
             throw new Error("Http error");
@@ -46,7 +46,7 @@
 </table>
 
 <script>
-  fetch ("./overall_ranking.csv")
+  fetch ("../data/overall_ranking.csv")
           .then(response => {
             if (!response.ok) {
               throw new Error("Http error");
