@@ -94,6 +94,10 @@
 
     for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
       const tr = document.createElement("tr");
+      
+      // const hidden = document.createElement("table");
+      // hidden.append()
+
       rows[i].split(",").forEach(cellData => {
         const td = document.createElement("td");
         td.textContent = cellData;
