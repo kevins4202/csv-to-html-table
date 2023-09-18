@@ -91,7 +91,7 @@
       if (hasHeader) {
         const header = document.createElement("tr");
         rows[0].split(',').forEach(cellData => {
-          if (i == 1) currUni = cellData;
+          // if (i == 1) currUni = cellData;
           const th = document.createElement("th");
           th.textContent = cellData;
           header.appendChild(th);
@@ -105,17 +105,20 @@
 
       for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
         const tr = document.createElement("tr");
+        
 
         // const hidden = document.createElement("table");
         // hidden.append()
 
-        rows[i].split(",").forEach(cellData => {
+        let tmp_rows = rows[i].split(",");
+        for(let z = 0; z < tmp_rows.length; z++){
+          if(z==1) currUni = tmp_rows[z];
           const td = document.createElement("td");
-          td.textContent = cellData;
+          td.textContent = tmp_rows[z];
           tr.appendChild(td);
 
           // tr.style.data
-        });
+        }
         tableElement.querySelector('tbody').appendChild(tr);
         
         //NESTED STUFF
