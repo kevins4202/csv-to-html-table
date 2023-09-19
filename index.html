@@ -144,7 +144,7 @@
         // td.colSpan = "2";
 
         //get all professor data
-        fetch(`./college_data/${currUni.split('_').join(" ")}.csv/`)
+        fetch(`./college_data/${currUni}.csv/`)
           .then(response => {
             if (!response.ok) {
               throw new Error("Http error");
@@ -192,8 +192,8 @@
 <footer class="row">
   <div class="col" style="right: 0">
     <hr>
-    <p class="text-right">Kevin Song</p>
-    <p class="text-right">under the guidance of Professor Remzi Arpaci-Dusseau</p>
+    <p class="text-right" style = "margin-left: 20px;">Kevin Song</p>
+    <p class="text-right" style = "margin-left: 20px;">under the guidance of Professor Remzi Arpaci-Dusseau</p>
   </div>
 </footer>
 
