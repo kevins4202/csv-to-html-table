@@ -122,7 +122,7 @@
         tableElement.querySelector('tbody').appendChild(tr);
         
         //NESTED STUFF
-        currUni.replace(" ", "-");
+        currUni = currUni.split(' ').join("_");
         const nestedTable = document.createElement("table");
         nestedTable.innerHTML = "<thead></thead>\n<tbody></tbody>"
         nestedTable.id  = currUni + "_table";
@@ -130,6 +130,7 @@
         //this is the collapsing row
         const tr2 = document.createElement("tr");
         tr2.id= currUni;
+        tr2.colspan
         //HEADER
         for(let i = 0; i < nestedHeaders.length; i++){
           const th = document.createElement("th");
@@ -143,7 +144,7 @@
         // td.colSpan = "2";
 
         //get all professor data
-        fetch(`./college_data/${currUni}.csv/`)
+        fetch(`./college_data/${currUni.split('_').join(" ")}.csv/`)
           .then(response => {
             if (!response.ok) {
               throw new Error("Http error");
@@ -182,7 +183,7 @@
           tr2.appendChild(nestedTable);
           tableElement.querySelector('tbody').appendChild(tr2);
           
-
+          document.getElementById(currUni).colspan = "6";
       }
       // class="collapsed" data-toggle="collapse" data-target="#grandparentContent" data-role="expander" data-group-id="grandparent">
     }
