@@ -130,7 +130,7 @@
         //this is the collapsing row
         const tr2 = document.createElement("tr");
         tr2.id= currUni;
-        tr2.colspan
+        tr2.colspan = "6";
         //HEADER
         for(let i = 0; i < nestedHeaders.length; i++){
           const th = document.createElement("th");
@@ -144,6 +144,7 @@
         // td.colSpan = "2";
 
         //get all professor data
+        alert(currUni);
         fetch(`./college_data/${currUni}.csv/`)
           .then(response => {
             if (!response.ok) {
