@@ -35,6 +35,10 @@
 
   <button type="submit" onclick='replaceCSV();'>Submit</button>
 
+  <div id = "csv1">
+    
+  </div>
+
   <script>
     const data = document.createElement("table");
     data.id = "csv1";
@@ -42,6 +46,9 @@
     data.style.maxWidth = screen.width;
     data.classList.add("table" ,"table-striped", "table-hover");
     data.innerHTML  = "<thead></thead><tbody></tbody>";
+    
+    appendTo = document.getElementById("csv1");
+    appendTo.appendChild(data);
 
     function replaceCSV() {
       // var list = document.getElementsByTagName("td");
