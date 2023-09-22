@@ -127,15 +127,15 @@
         const nestedTable = document.createElement("table");
         nestedTable.innerHTML = "<thead></thead>\n<tbody></tbody>"
         nestedTable.id  = currUni + "_table";
-        const td = document.createElement("td");
+        
         //this is the collapsing row
         const tr2 = document.createElement("tr");
-        td.id= currUni;
-        td.colspan = "6";
+        tr2.id= currUni;
+        tr2.innerHTML = `<td colspan = "6"></td>`
         //HEADER
-        for(let i = 0; i < nestedHeaders.length; i++){
+        for(let j = 0; j < nestedHeaders.length; j++){
           const th = document.createElement("th");
-          th.textContent = nestedHeaders[i];
+          th.textContent = nestedHeaders[j];
           nestedTable.querySelector('thead').appendChild(th);
         }
         
@@ -159,16 +159,14 @@
               const trow = document.createElement("tr");
 
               const td0 = document.createElement("td");
-              const td1 = document.createElement("td");
               trow.appendChild(td0);
-              trow.appendChild(td1);
 
               // if()
 
               // const hidden = document.createElement("table");
               // hidden.append()
 
-              let temp_list = trows[i].split(",");
+              let temp_list = trows[j].split(",");
               
               for(let k = 0; k < indexes.length; k++){
                 const td = document.createElement("td");
@@ -182,9 +180,7 @@
 
           // nestedTable.classList.add()
 
-          td.appendChild(nestedTable);
-          td.classList.add('nestedT');
-          tr2.appendChild(td);
+          tr2.querySelector('td').appendChild(nestedTable);
           tr2.classList.add('nestedT');
           tableElement.querySelector('tbody').appendChild(tr2);
           
