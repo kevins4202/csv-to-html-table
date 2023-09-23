@@ -35,7 +35,7 @@
 
   <button type="submit" onclick='replaceCSV();'>Submit</button>
 
-  <div id = "csv1" style = "max-width: 2000px;">
+  <div id = "csv1" style = "max-width: 1500px;">
     
   </div>
 
@@ -185,7 +185,7 @@
               for(let k = 0; k < indexes.length; k++){
                 const td = document.createElement("td");
                 td.textContent = temp_list[indexes[k]];
-                td.style.maxWidth = "1750px";
+                td.style.maxWidth = "1500px";
                 trow.appendChild(td);
               }
 
@@ -198,12 +198,12 @@
           tr2.querySelector('td').appendChild(nestedTable);
           tr2.classList.add('nestedT');
           tableElement.querySelector('tbody').appendChild(tr2);
-          nestedTable.style.maxWidth = "1750px";
-          tr2.style.maxWidth = "1750px";
+          nestedTable.style.maxWidth = "1500px";
+          tr2.style.maxWidth = "1500px";
           
       }
 
-      document.getElementById("csv1").style.maxWidth = "1750px";
+      document.getElementById("csv1").style.maxWidth = "1500px";
       
       // class="collapsed" data-toggle="collapse" data-target="#grandparentContent" data-role="expander" data-group-id="grandparent">
     }
