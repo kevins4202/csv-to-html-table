@@ -185,6 +185,7 @@
               for(let k = 0; k < indexes.length; k++){
                 const td = document.createElement("td");
                 td.textContent = temp_list[indexes[k]];
+                td.style.maxWidth = "1750px";
                 trow.appendChild(td);
               }
 
@@ -197,11 +198,13 @@
           tr2.querySelector('td').appendChild(nestedTable);
           tr2.classList.add('nestedT');
           tableElement.querySelector('tbody').appendChild(tr2);
-          
+          nestedTable.style.maxWidth = "1750px";
+          tr2.style.maxWidth = "1750px";
           
       }
 
-      document.getElementById("csv1").style.maxWidth = "2000px";
+      document.getElementById("csv1").style.maxWidth = "1750px";
+      
       // class="collapsed" data-toggle="collapse" data-target="#grandparentContent" data-role="expander" data-group-id="grandparent">
     }
   </script>
