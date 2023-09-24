@@ -115,7 +115,7 @@
 
       
 
-      let nestedHeaders = ["", "Name", "Homepage", "Citations", "h-index"];
+      let nestedHeaders = ["Name", "Homepage", "Citations", "h-index"];
       let indexes = [0,2,4,5];
 
       for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
@@ -145,20 +145,41 @@
         //this is the collapsing row
         const tr2 = document.createElement("tr");
         tr2.id= currUni;
-        tr2.innerHTML = `<td colspan = "6" style = "max-width: 1350px"></td>`
+        tr2.innerHTML = `<td colspan = "4" style = "max-width: 1350px"></td>`
         //HEADER
+
+        const thtr1 = document.createElement("tr");
+        const thtr2 = document.createElement("tr");
+        const thtr3 = document.createElement("tr");
+
         for(let j = 0; j < nestedHeaders.length; j++){
+          
           const th = document.createElement("th");
+          
           th.textContent = nestedHeaders[j];
-          nestedTable.querySelector('thead').appendChild(th);
+          thtr3.appendChild(th);
         }
-        
-        //get the graph
 
-        // td.innerHTML = `<iframe src = ${currUni}_h_index.html></iframe>`
-        // td.colSpan = "2";
+        //get the graphs
+        thtr1.innerHTML = `<iframe src = .${currUni}/${currUni}_h_index.html></iframe>`;
 
-        //get all professor data
+        thtr2.innerHTML = `<iframe src = .${currUni}/${currUni}_citations.html></iframe>`;
+
+        thtr1.style.columnSpan = "4";
+        thtr2.style.columnSpan = "4";
+
+        if(fileName.includes("index")){
+          nestedTable.querySelector('thead').appendChild(thtr1);
+        } else if(fileName.includes("citation")){
+          nestedTable.querySelector('thead').appendChild(thtr2);
+        } else{
+          nestedTable.querySelector('thead').appendChild(thtr1);
+          nestedTable.querySelector('thead').appendChild(thtr2);
+        }
+
+        nestedTable.querySelector('thead').appendChild(thtr3);
+
+        // get all professor data
         // alert(currUni);
         fetch(`./college_data/${currUni}.csv`)
           .then(response => {
