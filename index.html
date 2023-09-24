@@ -148,8 +148,6 @@
         tr2.innerHTML = `<td colspan = "6" style = "max-width: 1350px"></td>`
         //HEADER
 
-        const thtr1 = document.createElement("tr");
-        const thtr2 = document.createElement("tr");
         const thtr3 = document.createElement("tr");
 
         for(let j = 0; j < nestedHeaders.length; j++){
@@ -161,26 +159,26 @@
         }
 
         //get the graphs
-        const th1 = document.createElement("th");
-        const th2 = document.createElement("th");
+
+        const imgTable = document.createElement("table");
+        const th1 = document.createElement("tr");
+        const th2 = document.createElement("tr");
+
         th1.innerHTML = `<iframe src = ./college_graphs/${currUni}/${currUni}_h_index.html></iframe>`;
 
         th2.innerHTML = `<iframe src = ./college_graphs/${currUni}/${currUni}_citations.html></iframe>`;
 
-        th1.style.columnSpan = "4";
-        th1.style.columnSpan = "4";
-
-        thtr1.appendChild(th1);
-        thtr2.appendChild(th2);
 
         if(fileName.includes("index")){
-          nestedTable.querySelector('thead').appendChild(thtr1);
+          imgTable.appendChild(th1);
         } else if(fileName.includes("citation")){
-          nestedTable.querySelector('thead').appendChild(thtr2);
+          imgTable.appendChild(th2);
         } else{
-          nestedTable.querySelector('thead').appendChild(thtr1);
-          nestedTable.querySelector('thead').appendChild(thtr2);
+          imgTable.appendChild(th1);
+          imgTable.appendChild(th2);
         }
+
+        tr2.appendChild(imgTable);
 
         nestedTable.querySelector('thead').appendChild(thtr3);
 
