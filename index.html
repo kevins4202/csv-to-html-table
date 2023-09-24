@@ -35,7 +35,7 @@
 
   <button type="submit" onclick='replaceCSV();'>Submit</button>
 
-  <div id = "csv1" style = "max-width: 1500px;">
+  <div id = "csv1" style = "max-width: 1350px;">
     
   </div>
 
@@ -43,7 +43,7 @@
     const data = document.createElement("table");
     data.id = "csv1";
     data.style.margin = "25px auto 25px 20px";
-    data.style.maxWidth = "1500px";
+    data.style.maxWidth = "1350px";
     data.classList.add("table" ,"table-striped", "table-hover");
     data.innerHTML  = "<thead></thead><tbody></tbody>";
     
@@ -145,7 +145,7 @@
         //this is the collapsing row
         const tr2 = document.createElement("tr");
         tr2.id= currUni;
-        tr2.innerHTML = `<td colspan = "6" style = "max-width: 1500px"></td>`
+        tr2.innerHTML = `<td colspan = "6" style = "max-width: 1350px"></td>`
         //HEADER
         for(let j = 0; j < nestedHeaders.length; j++){
           const th = document.createElement("th");
@@ -185,7 +185,7 @@
               for(let k = 0; k < indexes.length; k++){
                 const td = document.createElement("td");
                 td.textContent = temp_list[indexes[k]];
-                td.style.maxWidth = "1300px";
+                td.style.maxWidth = "1350px";
                 trow.appendChild(td);
               }
 
@@ -198,12 +198,12 @@
           tr2.querySelector('td').appendChild(nestedTable);
           tr2.classList.add('nestedT');
           tableElement.querySelector('tbody').appendChild(tr2);
-          nestedTable.style.maxWidth = "1500px";
-          tr2.style.maxWidth = "1500px";
+          nestedTable.style.maxWidth = "1350px";
+          tr2.style.maxWidth = "1350px";
           
       }
 
-      document.getElementById("csv1").style.maxWidth = "1500px";
+      document.getElementById("csv1").style.maxWidth = "1350px";
       
       // class="collapsed" data-toggle="collapse" data-target="#grandparentContent" data-role="expander" data-group-id="grandparent">
     }
