@@ -145,7 +145,7 @@
         //this is the collapsing row
         const tr2 = document.createElement("tr");
         tr2.id= currUni;
-        tr2.innerHTML = `<td colspan = "4" style = "max-width: 1350px"></td>`
+        tr2.innerHTML = `<td colspan = "6" style = "max-width: 1350px"></td>`
         //HEADER
 
         const thtr1 = document.createElement("tr");
@@ -161,12 +161,17 @@
         }
 
         //get the graphs
-        thtr1.innerHTML = `<iframe src = .${currUni}/${currUni}_h_index.html></iframe>`;
+        const th1 = document.createElement("th");
+        const th2 = document.createElement("th");
+        th1.innerHTML = `<iframe src = ./college_graphs/${currUni}/${currUni}_h_index.html></iframe>`;
 
-        thtr2.innerHTML = `<iframe src = .${currUni}/${currUni}_citations.html></iframe>`;
+        th2.innerHTML = `<iframe src = ./college_graphs/${currUni}/${currUni}_citations.html></iframe>`;
 
-        thtr1.style.columnSpan = "4";
-        thtr2.style.columnSpan = "4";
+        th1.style.columnSpan = "4";
+        th1.style.columnSpan = "4";
+
+        thtr1.appendChild(th1);
+        thtr2.appendChild(th2);
 
         if(fileName.includes("index")){
           nestedTable.querySelector('thead').appendChild(thtr1);
@@ -193,8 +198,6 @@
             for(let j = 1; j < trows.length; j++){
               const trow = document.createElement("tr");
 
-              const td0 = document.createElement("td");
-              trow.appendChild(td0);
 
               // if()
 
