@@ -78,6 +78,13 @@
   
 
   <script>
+    $('.accordian-body').on('show.bs.collapse', function () {
+        $(this).closest("table")
+            .find(".collapse.in")
+            .not(this)
+            .collapse('toggle')
+    })
+
     fetch("./overall_ranking.csv")
       .then(response => {
         if (!response.ok) {
@@ -120,6 +127,10 @@
 
       for (let i = hasHeader ? 1 : 0; i < 100; i++) {
         const tr = document.createElement("tr");
+        tr.dataset.toggle = "collapse";
+        tr.dataset.target = '#' + currUni;
+        tr.classList.add("accordion-toggle");
+
         
 
         // const hidden = document.createElement("table");
@@ -134,10 +145,16 @@
 
           // tr.style.data
         }
+
+        currUni = currUni.split(' ').join("_");
+
+        tr.dataset.target = '#' + currUni;
+        tr.classList.add("accordion-toggle");
         tableElement.querySelector('tbody').appendChild(tr);
+
         
         //NESTED STUFF
-        currUni = currUni.split(' ').join("_");
+        
         const nestedTable = document.createElement("table");
         nestedTable.innerHTML = "<thead></thead>\n<tbody></tbody>"
         nestedTable.id  = currUni + "_table";
@@ -169,16 +186,16 @@
         th2.innerHTML = `<iframe src = ./college_graphs/${currUni}/${currUni}_citations.html></iframe>`;
 
 
-        if(fileName.includes("index")){
-          imgTable.appendChild(th1);
-        } else if(fileName.includes("citation")){
-          imgTable.appendChild(th2);
-        } else{
-          imgTable.appendChild(th1);
-          imgTable.appendChild(th2);
-        }
+        // if(fileName.includes("index")){
+        //   imgTable.appendChild(th1);
+        // } else if(fileName.includes("citation")){
+        //   imgTable.appendChild(th2);
+        // } else{
+        //   imgTable.appendChild(th1);
+        //   imgTable.appendChild(th2);
+        // }
 
-        tr2.appendChild(imgTable);
+        // tr2.appendChild(imgTable);
 
         nestedTable.querySelector('thead').appendChild(thtr3);
 
@@ -216,8 +233,12 @@
           });
 
           // nestedTable.classList.add()
-
-          tr2.querySelector('td').appendChild(nestedTable);
+          
+          const tableDiv = document.createElement("div");
+          tableDiv.classList.appendChild('accordion-body');
+          tableDiv.classList.appendChild('collapse');
+          tableDiv.appendChild(nestedTable);
+          tr2.querySelector('td').appendChild(tableDiv);
           tr2.classList.add('nestedT');
           tableElement.querySelector('tbody').appendChild(tr2);
           nestedTable.style.maxWidth = "1350px";
