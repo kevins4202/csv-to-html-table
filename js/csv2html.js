@@ -2,18 +2,19 @@ import { parse } from './csvparse.js';
 
 function table(options) {
     options = options || {};
-    var csv_path = options.csv_path || "";
+    var csvPath = options.csvPath || "";
+    var csvElement = options.csvElement || "";
 
     var table = document.createElement('table');
     table.className = 'table table-striped table-condensed';
-    table.id = 'tableElement-table';
+    table.id = csvElement + '-table';
 
-    var containerElement = document.getElementById('tableElement');
+    var containerElement = document.getElementById(csvElement);
 
     containerElement.innerHTML = '';
     containerElement.appendChild(table);
 
-    fetch(csv_path)
+    fetch(csvPath)
         .then(response => response.text())
         .then(data => {
             var csvData = parse(data);
@@ -50,11 +51,18 @@ function table(options) {
 
             var downloadLink = document.createElement('a');
             downloadLink.className = 'btn btn-info';
-            downloadLink.href = csv_path;
+            downloadLink.href = `csv/${metric}_ranking.csv`;
             downloadLink.innerHTML = "<i class='glyphicon glyphicon-download'></i> Download this data as CSV";
             containerElement.appendChild(downloadLink);
         })
         .catch(error => console.error('Error fetching the CSV file:', error));
 }
 
-export { table };
+function bigTable(metric) {
+    table({
+        csvPath: `csv/${metric}_ranking.csv`,
+        csvElement: 'bigTable'
+    })
+}
+
+export { bigTable };

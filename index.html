@@ -34,7 +34,7 @@
         </select>
     </div>
 
-    <div id="tableElement"></div>
+    <div id="bigTable"></div>
 
     <footer class="row mt-4">
         <hr>
@@ -54,18 +54,14 @@
     <script type="module" src="js/csv2html.js"></script>
 
     <script type="module">
-        import {table} from './js/csv2html.js';
+        import {bigTable} from './js/csv2html.js';
 
         document.addEventListener("DOMContentLoaded", () => {
-            table({
-                csv_path: 'csv/overall_ranking.csv'
-            });
+            bigTable('overall');
         });
 
         document.getElementById("metric").addEventListener("change", function () {
-            table({
-                csv_path: `csv/${this.value}_ranking.csv`
-            });
+            bigTable(this.value);
         });
 
         // Why is this here
@@ -73,56 +69,6 @@
             if (link)
                 return "<a href='" + link + "' target='_blank'>" + link + "</a>";
             else return "";
-        }
-
-        async function fetchMetricCSV(metric) {
-            try {
-                const response = await fetch(`./csv/${metric}_ranking.csv`);
-                if (!response.ok) {
-                    throw new Error("HTTP error");
-                }
-                const data = await response.text();
-                return data;
-            } catch (error) {
-                console.error('Error fetching the CSV file', error);
-            }
-        }
-
-        async function replaceCSV() {
-            document.getElementById("tableElement").innerHTML = "";
-
-            const data = await fetchMetricCSV(document.getElementById("metric").value);
-
-            if (data) {
-                csvToHtml(data, tableElement, true);
-            }
-        }
-
-        async function csvToHtml(data, tableElement, hasHeader) {
-            const rows = data.split("\n");
-
-            if (hasHeader) {
-                const header = document.createElement("tr");
-                rows[0].split(',').forEach(cellData => {
-                    const th = document.createElement("th");
-                    th.textContent = cellData;
-                    header.appendChild(th);
-                });
-                tableElement.querySelector("thead").appendChild(header);
-            }
-
-            for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
-                const tr = document.createElement("tr");
-                const cells = rows[i].split(",");
-
-                cells.forEach((cellData, index) => {
-                    const td = document.createElement("td");
-                    td.textContent = cellData;
-                    tr.appendChild(td);
-                });
-
-                tableElement.querySelector('tbody').appendChild(tr);
-            }
         }
     </script>
 </body>
