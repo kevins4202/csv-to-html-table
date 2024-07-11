@@ -9,17 +9,12 @@
         integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
     <style>
-        th,
-        td {
+        th {
             border: 1px solid;
         }
 
         table {
             border-collapse: collapse;
-        }
-
-        .nestedT {
-            column-span: "6";
         }
     </style>
 </head>
@@ -41,35 +36,35 @@
 
     <div id="tableElement"></div>
 
+    <footer class="row mt-4">
+        <hr>
+        <p class="text-right">By Kevin Song under the guidance of Professor Remzi Arpaci-Dusseau</p>
+    </footer>
+
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="js/jquery.csv.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-    <script src="js/csv2html.js"></script>
 
-
-    <script>
-
+    <script type="module">
+        import { parse } from './js/csvparse.js'
     </script>
 
-    <script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    
+    <script type="module" src="js/csv2html.js"></script>
+
+    <script type="module">
+        import {table} from './js/csv2html.js';
+
         document.addEventListener("DOMContentLoaded", () => {
-            Csv2Html.table({
-                csv_path: 'csv/overall_ranking.csv',
-                element: 'tableElement',
-                allow_download: true,
-                csv_options: { separator: ',', delimiter: '"' },
-                datatables_options: { "paging": false }
+            table({
+                csv_path: 'csv/overall_ranking.csv'
             });
         });
 
         document.getElementById("metric").addEventListener("change", function () {
-            Csv2Html.table({
-                csv_path: `csv/${this.value}_ranking.csv`,
-                element: 'tableElement',
-                allow_download: true,
-                csv_options: { separator: ',', delimiter: '"' },
-                datatables_options: { "paging": false }
+            table({
+                csv_path: `csv/${this.value}_ranking.csv`
             });
         });
 
@@ -130,11 +125,6 @@
             }
         }
     </script>
-
-    <footer class="row mt-4">
-        <hr>
-        <p class="text-right">By Kevin Song under the guidance of Professor Remzi Arpaci-Dusseau</p>
-    </footer>
 </body>
 
 </html>
