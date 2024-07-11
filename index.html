@@ -2,202 +2,139 @@
 <html lang="en-US">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="styles.css" />
-  <style>
-    th,
-    td {
-      border: 1px solid;
-    }
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+    <style>
+        th,
+        td {
+            border: 1px solid;
+        }
 
-    table {
-      border-collapse: collapse;
-    }
-  </style>
+        table {
+            border-collapse: collapse;
+        }
+
+        .nestedT {
+            column-span: "6";
+        }
+    </style>
 </head>
 
-<body>
-  <h1 style="margin-left: 15px;">CSImpact</h1>
-  <p style="margin-left: 15px;">Objective ranking of computer science programs from institutions around the world, based
-    on Google Scholar
-    research data of professors.</p>
-  <select style="margin-left: 20px;" id="metric">
-    <option value="overall">Overall</option>
-    <option value="total_citations">Total Citations</option>
-    <option value="avg_citations">Average Citations</option>
-    <option value="total_h_index">Total h-index</option>
-    <option value="avg_h_index">Average h-index</option>
-  </select>
+<body class="container">
+    <h1 class="my-3">CSImpact</h1>
+    <p>Objective ranking of computer science programs from institutions around the world, based on Google Scholar
+        research data of professors.</p>
+    <div class="mb-3">
+        <label for="metric" class="form-label">Select Metric</label>
+        <select class="form-select" id="metric">
+            <option value="overall">Overall</option>
+            <option value="total_citations">Total Citations</option>
+            <option value="avg_citations">Average Citations</option>
+            <option value="total_h_index">Total h-index</option>
+            <option value="avg_h_index">Average h-index</option>
+        </select>
+    </div>
 
-  <button type="submit" onclick='replaceCSV();'>Submit</button>
+    <div id="tableElement"></div>
 
-  <script>
-    function replaceCSV() {
-      // var list = document.getElementsByTagName("td");
-      // for(var x = 0; x < list.length; x++){
-      //   list[x].remove();
-      // }
-      list = document.getElementsByTagName("tr");
-      for (var x = list.length - 1; x >= 0; x--) {
-        list[x].remove();
-      }
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="js/jquery.csv.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv2html.js"></script>
 
-      fetch("./" + document.getElementById("metric").value + "_ranking.csv")
-        .then(response => {
-          if (!response.ok) {
-            throw new Error("Http error");
-          }
-          return response.text();
-        })
-        .then(table => {
-          csv2html(document.getElementById("metric").value, table, document.getElementById("csv1"), true);
+
+    <script>
+
+    </script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            Csv2Html.table({
+                csv_path: 'csv/overall_ranking.csv',
+                element: 'tableElement',
+                allow_download: true,
+                csv_options: { separator: ',', delimiter: '"' },
+                datatables_options: { "paging": false }
+            });
         });
-    }
-  </script>
 
-  <table id="csv1" style="margin-left: 25px; margin-right: 25px;margin-bottom: 20px;"
-    class="table table-striped table-hover">
-    <thead></thead>
-    <tbody></tbody>
-  </table>
-
-  <script>
-    fetch("./overall_ranking.csv")
-      .then(response => {
-        if (!response.ok) {
-          throw new Error("Http error");
-        }
-        return response.text();
-      })
-      .then(table => {
-        csv2html("./overall_ranking.csv", table, document.getElementById("csv1"), true);
-      });
-
-    /**
-     * Takes a CSV and places it inside an HTML table.
-     * @param data The CSV data (with line breaks and comma-spearated values)
-     * @param tableElement The string of the id of the table the CSV is being placed into (must have blank thead and tbody elements)
-     * @param hasHeader Should he CSV data have a header?
-     */
-    function csv2html(fileName, data, tableElement, hasHeader) {
-      const rows = data.split("\n");
-
-      let currUni = "";
-      let i = 0;
-
-      if (hasHeader) {
-        const header = document.createElement("tr");
-        rows[0].split(',').forEach(cellData => {
-          // if (i == 1) currUni = cellData;
-          const th = document.createElement("th");
-          th.textContent = cellData;
-          header.appendChild(th);
-          i += 1;
+        document.getElementById("metric").addEventListener("change", function () {
+            Csv2Html.table({
+                csv_path: `csv/${this.value}_ranking.csv`,
+                element: 'tableElement',
+                allow_download: true,
+                csv_options: { separator: ',', delimiter: '"' },
+                datatables_options: { "paging": false }
+            });
         });
-        tableElement.querySelector("thead").appendChild(header);
-      }
 
-      let nestedHeaders = ["", "", "Name", "Homepage", "Citations", "h-index"];
-      let indexes = [0,2,4,5];
-
-      for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
-        const tr = document.createElement("tr");
-        
-
-        // const hidden = document.createElement("table");
-        // hidden.append()
-
-        let tmp_rows = rows[i].split(",");
-        for(let z = 0; z < tmp_rows.length; z++){
-          if(z==1) currUni = tmp_rows[z];
-          const td = document.createElement("td");
-          td.textContent = tmp_rows[z];
-          tr.appendChild(td);
-
-          // tr.style.data
+        // Why is this here
+        function format_link(link) {
+            if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            else return "";
         }
-        tableElement.querySelector('tbody').appendChild(tr);
-        
-        //NESTED STUFF
-        currUni = currUni.split(' ').join("_");
-        const nestedTable = document.createElement("table");
-        nestedTable.innerHTML = "<thead></thead>\n<tbody></tbody>"
-        nestedTable.id  = currUni + "_table";
-        const td = document.createElement("td");
-        //this is the collapsing row
-        const tr2 = document.createElement("tr");
-        td.id= currUni;
-        td.colspan = "6";
-        //HEADER
-        for(let i = 0; i < nestedHeaders.length; i++){
-          const th = document.createElement("th");
-          th.textContent = nestedHeaders[i];
-          nestedTable.querySelector('thead').appendChild(th);
+
+        async function fetchMetricCSV(metric) {
+            try {
+                const response = await fetch(`./csv/${metric}_ranking.csv`);
+                if (!response.ok) {
+                    throw new Error("HTTP error");
+                }
+                const data = await response.text();
+                return data;
+            } catch (error) {
+                console.error('Error fetching the CSV file', error);
+            }
         }
-        
-        //get the graph
 
-        // td.innerHTML = `<iframe src = ${currUni}_h_index.html></iframe>`
-        // td.colSpan = "2";
+        async function replaceCSV() {
+            document.getElementById("tableElement").innerHTML = "";
 
-        //get all professor data
-        alert(currUni);
-        fetch(`./college_data/${currUni}.csv`)
-          .then(response => {
-            if (!response.ok) {
-              throw new Error("Http error");
+            const data = await fetchMetricCSV(document.getElementById("metric").value);
+
+            if (data) {
+                csvToHtml(data, tableElement, true);
             }
-            return response.text();
-          })
-          .then(table => {
-            const trows = table.split("\n");
-            for(let j = 1; j < trows.length; j++){
-              const trow = document.createElement("tr");
+        }
 
-              const td0 = document.createElement("td");
-              const td1 = document.createElement("td");
-              trow.appendChild(td0);
-              trow.appendChild(td1);
+        async function csvToHtml(data, tableElement, hasHeader) {
+            const rows = data.split("\n");
 
-              // if()
-
-              // const hidden = document.createElement("table");
-              // hidden.append()
-
-              let temp_list = trows[i].split(",");
-              
-              for(let k = 0; k < indexes.length; k++){
-                const td = document.createElement("td");
-                td.textContent = temp_list[indexes[k]];
-                trow.appendChild(td);
-              }
-
-              nestedTable.querySelector('tbody').appendChild(trow);
+            if (hasHeader) {
+                const header = document.createElement("tr");
+                rows[0].split(',').forEach(cellData => {
+                    const th = document.createElement("th");
+                    th.textContent = cellData;
+                    header.appendChild(th);
+                });
+                tableElement.querySelector("thead").appendChild(header);
             }
-          });
 
-          // nestedTable.classList.add()
+            for (let i = hasHeader ? 1 : 0; i < rows.length; i++) {
+                const tr = document.createElement("tr");
+                const cells = rows[i].split(",");
 
-          td.appendChild(nestedTable);
-          td.classList.add('nestedT');
-          tableElement.querySelector('tbody').appendChild(tr2);
-          
-          
-      }
-      // class="collapsed" data-toggle="collapse" data-target="#grandparentContent" data-role="expander" data-group-id="grandparent">
-    }
-  </script>
+                cells.forEach((cellData, index) => {
+                    const td = document.createElement("td");
+                    td.textContent = cellData;
+                    tr.appendChild(td);
+                });
+
+                tableElement.querySelector('tbody').appendChild(tr);
+            }
+        }
+    </script>
+
+    <footer class="row mt-4">
+        <hr>
+        <p class="text-right">By Kevin Song under the guidance of Professor Remzi Arpaci-Dusseau</p>
+    </footer>
 </body>
-<footer class="row">
-  <div class="col" style="right: 0">
-    <hr>
-    <p class="text-right" style = "margin-left: 20px;">Kevin Song</p>
-    <p class="text-right" style = "margin-left: 20px;">under the guidance of Professor Remzi Arpaci-Dusseau</p>
-  </div>
-</footer>
 
 </html>

@@ -1,7 +1,7 @@
-var CsvToHtmlTable = CsvToHtmlTable || {};
+var Csv2Html = Csv2Html || {};
 
-CsvToHtmlTable = {
-    init: function (options) {
+Csv2Html = {
+    table: function (options) {
         options = options || {};
         var csv_path = options.csv_path || "";
         var el = options.element || "table-container";
@@ -55,10 +55,6 @@ CsvToHtmlTable = {
                 if (allow_download) {
                     $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
                 }
-                document.getElementsByTagName('th')[3].click();
-                if(document.getElementsByTagName('th')[3].innerHTML!='Average of Places From Four Metrics'){
-                    document.getElementsByTagName('th')[3].click();
-                }
             });
-        }
+    }
 };
